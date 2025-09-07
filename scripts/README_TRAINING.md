@@ -121,23 +121,32 @@ python scripts/train_melanoma_model.py \
 
 ## 🔧 Installation & Dependencies
 
-### **Option 1: Use Main Requirements**
+### **🚀 GPU Training (Recommended)**
 ```bash
-pip install -r requirements.txt
+# Install GPU-optimized requirements
+pip install -r scripts/requirements_training.txt
+
+# Verify GPU support
+python -c "import torch; print(f'CUDA available: {torch.cuda.is_available()}')"
 ```
 
-### **Option 2: Minimal Training Environment**
+### **💻 CPU Training (Fallback)**
 ```bash
+# Install CPU-only requirements
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
 pip install -r scripts/requirements_training.txt
 ```
 
-### **Required Packages**
-- **PyTorch**: Deep learning framework
+### **📦 Required Packages**
+- **PyTorch**: Deep learning framework (GPU-optimized with CUDA support)
 - **TorchVision**: Pre-trained models and transforms
-- **ONNX**: Model format conversion
+- **ONNX**: Model format conversion (GPU runtime included)
 - **PIL/OpenCV**: Image processing
 - **Pandas/NumPy**: Data handling
 - **Matplotlib**: Training visualization
+- **TensorBoard**: Training monitoring
+- **GPU Monitoring**: nvidia-ml-py3, gpustat
+- **Acceleration**: accelerate, transformers
 
 ## 📈 Training Process
 
@@ -166,49 +175,231 @@ pip install -r scripts/requirements_training.txt
 3. Blockchain submission
 4. Competition entry
 
-## 🎯 Performance Optimization
+## 🚀 GPU Training Guide
 
 ### **Hardware Requirements**
 - **Minimum**: 8GB RAM, CPU training
-- **Recommended**: 16GB+ RAM, GPU training
+- **Recommended**: 16GB+ RAM, RTX 3060+ GPU
 - **Optimal**: 32GB+ RAM, RTX 3080+ GPU
+- **Professional**: 64GB+ RAM, RTX 4090/A100 GPU
+
+### **GPU Setup & Verification**
+```bash
+# Check NVIDIA GPU
+nvidia-smi
+
+# Verify CUDA installation
+nvcc --version
+
+# Test PyTorch GPU support
+python -c "import torch; print(f'CUDA available: {torch.cuda.is_available()}')"
+```
+
+### **GPU Training Commands**
+
+#### **Tricorder Model (10-class classification)**
+```bash
+# GPU training with optimized settings
+python scripts/train_tricorder_optimized.py \
+    --train_csv datasets/tricorder_training/train_labels.csv \
+    --val_csv datasets/tricorder_training/val_labels.csv \
+    --test_csv datasets/tricorder_training/test_labels.csv \
+    --img_dir datasets/melanoma_dataset/images/ISIC_2019_Training_Input/ISIC_2019_Training_Input \
+    --epochs 30 \
+    --batch_size 32 \
+    --learning_rate 0.0001 \
+    --convert_onnx \
+    --device cuda
+```
+
+#### **Melanoma Model (Binary classification)**
+```bash
+# GPU training for melanoma detection
+python scripts/train_melanoma_model.py \
+    --csv_file datasets/melanoma_dataset/labels.csv \
+    --img_dir datasets/melanoma_dataset/images \
+    --epochs 50 \
+    --batch_size 32 \
+    --learning_rate 0.0001 \
+    --convert_onnx \
+    --device cuda
+```
+
+### **GPU Performance Optimization**
+
+#### **Batch Size Guidelines**
+- **RTX 3060 (8GB)**: batch_size 16-24
+- **RTX 3070 (8GB)**: batch_size 24-32
+- **RTX 3080 (10GB)**: batch_size 32-48
+- **RTX 4090 (24GB)**: batch_size 64-128
+
+#### **Memory Optimization**
+```bash
+# Use gradient accumulation for larger effective batch sizes
+--gradient_accumulation_steps 4
+
+# Enable mixed precision training
+--mixed_precision
+
+# Clear GPU cache if needed
+python -c "import torch; torch.cuda.empty_cache()"
+```
+
+#### **Multi-GPU Training**
+```bash
+# Train on multiple GPUs
+python scripts/train_tricorder_optimized.py \
+    --train_csv datasets/tricorder_training/train_labels.csv \
+    --val_csv datasets/tricorder_training/val_labels.csv \
+    --img_dir datasets/melanoma_dataset/images/ISIC_2019_Training_Input/ISIC_2019_Training_Input \
+    --epochs 30 \
+    --batch_size 64 \
+    --learning_rate 0.0001 \
+    --convert_onnx \
+    --device cuda \
+    --multi_gpu
+```
+
+### **Training Monitoring**
+```bash
+# Real-time GPU monitoring
+gpustat -i 1
+
+# TensorBoard for training visualization
+tensorboard --logdir runs/
+
+# System resource monitoring
+htop
+```
+
+### **Expected Training Times**
+- **RTX 4090**: 1-2 hours (30 epochs)
+- **RTX 3080**: 2-3 hours (30 epochs)
+- **RTX 3060**: 4-6 hours (30 epochs)
+- **CPU Only**: 12-24 hours (30 epochs)
 
 ### **Training Tips**
-- Start with fewer epochs (10-20) for testing
+- Start with fewer epochs (5-10) for testing
 - Use smaller batch sizes if memory limited
 - Monitor validation loss to prevent overfitting
 - Use learning rate scheduling for better convergence
+- Enable early stopping to prevent overtraining
 
 ### **Model Improvements**
 - Experiment with different architectures (EfficientNet, Vision Transformer)
 - Try ensemble methods
 - Use advanced data augmentation techniques
 - Implement cross-validation
+- Use transfer learning from medical imaging models
 
 ## 🚨 Common Issues & Solutions
 
-### **Out of Memory**
+### **GPU Issues**
+
+#### **CUDA Out of Memory**
+```bash
+# Reduce batch size
+--batch_size 16  # or 8, or 4
+
+# Use gradient accumulation
+--gradient_accumulation_steps 4
+
+# Clear GPU cache
+python -c "import torch; torch.cuda.empty_cache()"
+```
+
+#### **CUDA Not Available**
+```bash
+# Check NVIDIA driver
+nvidia-smi
+
+# Reinstall PyTorch with CUDA support
+pip uninstall torch torchvision torchaudio
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+
+# Update NVIDIA drivers
+sudo apt update && sudo apt install nvidia-driver-525
+```
+
+#### **CUDA Version Mismatch**
+```bash
+# Check CUDA version
+nvcc --version
+
+# Install correct PyTorch version
+# For CUDA 11.8:
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+# For CUDA 12.1:
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+```
+
+### **Training Issues**
+
+#### **Out of Memory (CPU/GPU)**
 ```bash
 # Reduce batch size
 --batch_size 16
 
 # Use gradient accumulation
-# (implemented in training script)
+--gradient_accumulation_steps 4
+
+# Enable mixed precision
+--mixed_precision
 ```
 
-### **Training Not Converging**
+#### **Training Not Converging**
 ```bash
 # Increase learning rate
 --learning_rate 0.001
 
 # Reduce weight decay
 --weight_decay 0.00001
+
+# Use learning rate scheduling
+--lr_scheduler
+```
+
+#### **Slow Training**
+```bash
+# Use GPU if available
+--device cuda
+
+# Increase batch size (if memory allows)
+--batch_size 64
+
+# Use multiple workers for data loading
+--num_workers 4
 ```
 
 ### **ONNX Conversion Errors**
-- Ensure model is in evaluation mode
-- Check input/output tensor shapes
-- Verify ONNX opset version compatibility
+```bash
+# Ensure model is in evaluation mode
+model.eval()
+
+# Check input/output tensor shapes
+print(f"Input shape: {input_tensor.shape}")
+print(f"Output shape: {output_tensor.shape}")
+
+# Verify ONNX opset version compatibility
+--onnx_opset 11
+```
+
+### **Dataset Issues**
+
+#### **Images Not Found**
+```bash
+# Check image directory path
+ls datasets/melanoma_dataset/images/ISIC_2019_Training_Input/ISIC_2019_Training_Input/
+
+# Verify CSV file paths
+head -5 datasets/tricorder_training/train_labels.csv
+```
+
+#### **CSV Format Errors**
+```bash
+# Check CSV structure
+python -c "import pandas as pd; df = pd.read_csv('datasets/tricorder_training/train_labels.csv'); print(df.head())"
+```
 
 ## 📊 Evaluation Metrics
 
@@ -254,12 +445,49 @@ The model will be evaluated on:
 ## 🎉 Success Checklist
 
 Before submitting to competition, ensure:
+- [ ] GPU setup verified (`nvidia-smi`, `torch.cuda.is_available()`)
 - [ ] Model trains successfully
 - [ ] ONNX conversion works
 - [ ] Local evaluation passes
 - [ ] Hugging Face upload succeeds
 - [ ] Model submission completes
 - [ ] Extrinsic record documented
+
+## 🚀 Quick Reference
+
+### **GPU Training Commands**
+```bash
+# Tricorder (10-class)
+python scripts/train_tricorder_optimized.py \
+    --train_csv datasets/tricorder_training/train_labels.csv \
+    --val_csv datasets/tricorder_training/val_labels.csv \
+    --img_dir datasets/melanoma_dataset/images/ISIC_2019_Training_Input/ISIC_2019_Training_Input \
+    --epochs 30 --batch_size 32 --device cuda --convert_onnx
+
+# Melanoma (Binary)
+python scripts/train_melanoma_model.py \
+    --csv_file datasets/melanoma_dataset/labels.csv \
+    --img_dir datasets/melanoma_dataset/images \
+    --epochs 50 --batch_size 32 --device cuda --convert_onnx
+```
+
+### **GPU Monitoring**
+```bash
+# Real-time GPU usage
+gpustat -i 1
+
+# Training visualization
+tensorboard --logdir runs/
+```
+
+### **Troubleshooting**
+```bash
+# CUDA out of memory
+--batch_size 16 --gradient_accumulation_steps 4
+
+# CUDA not available
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+```
 
 ---
 
