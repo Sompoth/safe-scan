@@ -1,0 +1,34 @@
+{
+  "dataset_name": "Tricorder Refined Training Dataset",
+  "total_images": 25531,
+  "train_images": 17871,
+  "val_images": 3830,
+  "test_images": 3830,
+  "classes": [
+    "AK",
+    "BCC",
+    "SK",
+    "SCC",
+    "VASC",
+    "DF",
+    "NV",
+    "NON",
+    "MEL",
+    "ON"
+  ],
+  "class_distribution": {
+    "NV": 12875,
+    "MEL": 4522,
+    "BCC": 3323,
+    "SK": 2624,
+    "AK": 867,
+    "SCC": 628,
+    "VASC": 253,
+    "DF": 239,
+    "ON": 150,
+    "NON": 50
+  },
+  "image_directory": "datasets/melanoma_dataset/images/ISIC_2019_Training_Input/ISIC_2019_Training_Input",
+  "format": "512x512 RGB images with demographic data",
+  "all_10_classes": true
+}

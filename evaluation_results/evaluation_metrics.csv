@@ -1,0 +1,3 @@
+accuracy,precision,recall,f1_score,roc_auc,pr_auc,confusion_matrix,specificity,sensitivity,avg_inference_time,total_inference_time,images_per_second
+0.8207894736842105,0.0,0.0,0.0,0.48686975484665873,0.1612566714628218,"[[3119    3]
+ [ 678    0]]",0.9990390775144138,0.0,1.6117657681515343,765.5887398719788,4.963500378330321

@@ -166,8 +166,6 @@ testing/
 
 # Editors
 .vscode/settings.json
-datasets
-data
 wandb
 ecosystem.config.js
 
@@ -176,5 +174,4 @@ keys
 
 
 local_datasets/
-*.csv
 tmp/images

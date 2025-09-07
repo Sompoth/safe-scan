@@ -1,0 +1,3801 @@
+image_name,class,class_id,age,sex,location,anatom_site
+ISIC_0069789.jpg,AK,0,85.0,male,5,head/neck
+ISIC_0053736.jpg,AK,0,85.0,female,5,head/neck
+ISIC_0065098.jpg,BCC,1,60.0,male,7,anterior torso
+ISIC_0024351.jpg,MEL,8,70.0,female,6,lower extremity
+ISIC_0011367.jpg,NV,6,45.0,female,7,posterior torso
+ISIC_0033183.jpg,MEL,8,70.0,male,7,posterior torso
+ISIC_0069266.jpg,SCC,3,75.0,male,5,head/neck
+ISIC_0058574.jpg,NV,6,30.0,female,7,anterior torso
+ISIC_0027386.jpg,NV,6,45.0,male,7,anterior torso
+ISIC_0030080.jpg,MEL,8,75.0,male,1,upper extremity
+ISIC_0014286_downsampled.jpg,NV,6,80.0,female,7,posterior torso
+ISIC_0032586.jpg,MEL,8,85.0,male,7,anterior torso
+ISIC_0011097.jpg,NV,6,35.0,male,7,posterior torso
+ISIC_0028217.jpg,NV,6,35.0,female,7,posterior torso
+ISIC_0054414.jpg,NV,6,55.0,male,3,oral/genital
+ISIC_0032543.jpg,NV,6,30.0,male,7,posterior torso
+ISIC_0061238.jpg,SCC,3,80.0,male,1,upper extremity
+ISIC_0072345.jpg,BCC,1,70.0,male,5,head/neck
+ISIC_0055368.jpg,BCC,1,50.0,male,5,head/neck
+ISIC_0058120.jpg,SCC,3,80.0,male,6,lower extremity
+ISIC_0029178.jpg,NV,6,50.0,female,7,anterior torso
+ISIC_0024372.jpg,SCC,3,70.0,male,6,lower extremity
+ISIC_0060510.jpg,MEL,8,65.0,male,7,anterior torso
+ISIC_0015006_downsampled.jpg,SK,2,30.0,female,5,head/neck
+ISIC_0025918.jpg,NV,6,75.0,male,7,posterior torso
+ISIC_0029837.jpg,SK,2,40.0,male,5,head/neck
+ISIC_0029267.jpg,NV,6,40.0,female,7,torso
+ISIC_0056312.jpg,SK,2,85.0,female,6,lower extremity
+ISIC_0031362.jpg,SK,2,70.0,female,7,torso
+ISIC_0067621.jpg,MEL,8,55.0,male,5,head/neck
+ISIC_0053697.jpg,DF,5,70.0,female,7,anterior torso
+ISIC_0067389.jpg,NV,6,40.0,female,7,anterior torso
+ISIC_0006982_downsampled.jpg,NV,6,15.0,female,7,torso
+ISIC_0015981_downsampled.jpg,NV,6,45.0,male,7,torso
+ISIC_0026164.jpg,NV,6,35.0,female,7,anterior torso
+ISIC_0030168.jpg,NV,6,45.0,female,7,torso
+ISIC_0024852.jpg,NV,6,70.0,male,7,torso
+ISIC_0068652.jpg,NV,6,25.0,male,7,anterior torso
+ISIC_0024375.jpg,VASC,4,70.0,female,7,anterior torso
+ISIC_0013808_downsampled.jpg,NV,6,50.0,female,7,anterior torso
+ISIC_0026061.jpg,NV,6,65.0,female,7,torso
+ISIC_0033799.jpg,NV,6,40.0,female,6,lower extremity
+ISIC_0028034.jpg,NV,6,55.0,male,7,anterior torso
+ISIC_0069982.jpg,SK,2,25.0,male,7,anterior torso
+ISIC_0011173.jpg,NV,6,40.0,female,7,anterior torso
+ISIC_0027974.jpg,NV,6,45.0,male,6,lower extremity
+ISIC_0031284.jpg,BCC,1,75.0,male,5,head/neck
+ISIC_0027104.jpg,NV,6,40.0,male,6,lower extremity
+ISIC_0028616.jpg,NV,6,60.0,female,7,posterior torso
+ISIC_0033164.jpg,NV,6,40.0,female,6,lower extremity
+ISIC_0059357.jpg,NV,6,60.0,male,7,anterior torso
+ISIC_0015139_downsampled.jpg,NV,6,30.0,female,7,posterior torso
+ISIC_0030611.jpg,NV,6,30.0,female,1,upper extremity
+ISIC_0025718.jpg,BCC,1,70.0,male,7,posterior torso
+ISIC_0066654.jpg,BCC,1,45.0,male,5,head/neck
+ISIC_0061087.jpg,NV,6,40.0,male,7,anterior torso
+ISIC_0061181.jpg,SCC,3,60.0,male,5,head/neck
+ISIC_0009931.jpg,NV,6,30.0,female,7,posterior torso
+ISIC_0071707.jpg,MEL,8,70.0,male,5,head/neck
+ISIC_0031726.jpg,NV,6,35.0,male,6,lower extremity
+ISIC_0069718.jpg,BCC,1,50.0,male,7,anterior torso
+ISIC_0026432.jpg,NV,6,50.0,female,6,lower extremity
+ISIC_0064875.jpg,MEL,8,40.0,male,1,upper extremity
+ISIC_0058364.jpg,NV,6,40.0,female,5,head/neck
+ISIC_0059397.jpg,AK,0,55.0,female,5,head/neck
+ISIC_0057307.jpg,MEL,8,45.0,female,6,lower extremity
+ISIC_0005555_downsampled.jpg,NV,6,15.0,male,7,torso
+ISIC_0028232.jpg,SCC,3,60.0,male,5,head/neck
+ISIC_0061884.jpg,MEL,8,20.0,female,6,lower extremity
+ISIC_0072825.jpg,MEL,8,60.0,male,2,palms/soles
+ISIC_0027046.jpg,BCC,1,65.0,female,5,head/neck
+ISIC_0026674.jpg,NV,6,35.0,male,6,lower extremity
+ISIC_0026371.jpg,NV,6,30.0,male,6,lower extremity
+ISIC_0065355.jpg,SK,2,60.0,male,1,upper extremity
+ISIC_0054419.jpg,SK,2,55.0,male,5,head/neck
+ISIC_0026172.jpg,NV,6,50.0,female,6,lower extremity
+ISIC_0025645.jpg,NV,6,45.0,male,7,anterior torso
+ISIC_0033889.jpg,NV,6,70.0,female,7,posterior torso
+ISIC_0028471.jpg,NV,6,55.0,female,7,anterior torso
+ISIC_0055906.jpg,NV,6,50.0,unknown,7,anterior torso
+ISIC_0027640.jpg,NV,6,45.0,male,7,anterior torso
+ISIC_0058639.jpg,AK,0,75.0,male,5,head/neck
+ISIC_0070941.jpg,NV,6,35.0,male,7,torso
+ISIC_0062688.jpg,MEL,8,85.0,male,7,anterior torso
+ISIC_0024936.jpg,NV,6,25.0,male,7,anterior torso
+ISIC_0027395.jpg,NV,6,45.0,female,7,torso
+ISIC_0056846.jpg,NV,6,40.0,female,7,anterior torso
+ISIC_0031409.jpg,NV,6,70.0,male,7,anterior torso
+ISIC_0028633.jpg,NV,6,55.0,female,5,head/neck
+ISIC_0024828.jpg,NV,6,60.0,male,7,posterior torso
+ISIC_0014788_downsampled.jpg,MEL,8,50.0,unknown,1,upper extremity
+ISIC_0032942.jpg,NV,6,35.0,female,7,posterior torso
+ISIC_0072573.jpg,BCC,1,55.0,female,6,lower extremity
+ISIC_0071651.jpg,MEL,8,60.0,female,5,head/neck
+ISIC_0025383.jpg,BCC,1,40.0,male,7,posterior torso
+ISIC_0001106_downsampled.jpg,MEL,8,70.0,male,6,lower extremity
+ISIC_0066992.jpg,MEL,8,50.0,male,1,upper extremity
+ISIC_0013216_downsampled.jpg,NV,6,50.0,female,6,lower extremity
+ISIC_0033553.jpg,SK,2,80.0,female,7,posterior torso
+ISIC_0030644.jpg,BCC,1,85.0,male,5,head/neck
+ISIC_0014675_downsampled.jpg,NV,6,45.0,female,6,lower extremity
+ISIC_0070102.jpg,BCC,1,80.0,male,5,head/neck
+ISIC_0012508_downsampled.jpg,NV,6,60.0,male,7,torso
+ISIC_0057106.jpg,NV,6,45.0,male,7,anterior torso
+ISIC_0055596.jpg,AK,0,60.0,male,5,head/neck
+ISIC_0069190.jpg,NV,6,35.0,female,7,anterior torso
+ISIC_0027777.jpg,NV,6,40.0,male,1,upper extremity
+ISIC_0059058.jpg,AK,0,50.0,female,6,lower extremity
+ISIC_0061759.jpg,SCC,3,65.0,male,7,anterior torso
+ISIC_0065558.jpg,NV,6,40.0,female,6,lower extremity
+ISIC_0030204.jpg,NV,6,35.0,male,7,posterior torso
+ISIC_0014969_downsampled.jpg,NV,6,40.0,male,6,lower extremity
+ISIC_0024796.jpg,NV,6,60.0,male,6,lower extremity
+ISIC_0071118.jpg,NV,6,50.0,male,6,lower extremity
+ISIC_0063619.jpg,NV,6,45.0,female,7,anterior torso
+ISIC_0030217.jpg,NV,6,45.0,male,1,upper extremity
+ISIC_0031861.jpg,NV,6,40.0,female,6,lower extremity
+ISIC_0033317.jpg,MEL,8,80.0,male,5,head/neck
+ISIC_0024547.jpg,SK,2,65.0,male,7,posterior torso
+ISIC_0070042.jpg,NV,6,55.0,male,7,anterior torso
+ISIC_0063228.jpg,MEL,8,85.0,female,5,head/neck
+ISIC_0010051.jpg,NV,6,40.0,female,1,upper extremity
+ISIC_0032524.jpg,NV,6,55.0,male,7,posterior torso
+ISIC_0033903.jpg,NV,6,45.0,female,7,torso
+ISIC_0065645.jpg,NV,6,50.0,female,7,anterior torso
+ISIC_0058820.jpg,NV,6,60.0,female,6,lower extremity
+ISIC_0015607_downsampled.jpg,NV,6,70.0,female,5,head/neck
+ISIC_0068955.jpg,SCC,3,55.0,female,7,anterior torso
+ISIC_0031288.jpg,NV,6,35.0,female,6,lower extremity
+ISIC_0000365.jpg,NV,6,30.0,female,7,posterior torso
+ISIC_0015603_downsampled.jpg,NV,6,35.0,female,1,upper extremity
+ISIC_0054664.jpg,MEL,8,80.0,male,1,upper extremity
+ISIC_0029519.jpg,SK,2,60.0,male,7,posterior torso
+ISIC_0029869.jpg,NV,6,45.0,female,1,upper extremity
+ISIC_0031443.jpg,DF,5,60.0,male,1,upper extremity
+ISIC_0030478.jpg,NV,6,45.0,female,1,upper extremity
+ISIC_0011176.jpg,MEL,8,55.0,female,6,lower extremity
+ISIC_0062653.jpg,VASC,4,55.0,female,7,anterior torso
+ISIC_0071430.jpg,MEL,8,40.0,male,5,head/neck
+ISIC_0066359.jpg,MEL,8,75.0,male,5,head/neck
+ISIC_0063217.jpg,SCC,3,60.0,male,2,palms/soles
+ISIC_0032517.jpg,MEL,8,50.0,male,7,posterior torso
+ISIC_0013089_downsampled.jpg,SK,2,40.0,female,5,head/neck
+ISIC_0030377.jpg,SK,2,70.0,male,7,posterior torso
+ISIC_0056020.jpg,BCC,1,70.0,male,5,head/neck
+ISIC_0068303.jpg,MEL,8,75.0,female,1,upper extremity
+ISIC_0059925.jpg,NV,6,70.0,male,5,head/neck
+ISIC_0026263.jpg,SK,2,75.0,female,5,head/neck
+ISIC_0027416.jpg,NV,6,50.0,male,7,torso
+ISIC_0054446.jpg,NV,6,40.0,female,7,anterior torso
+ISIC_0063729.jpg,SK,2,70.0,female,5,head/neck
+ISIC_0000421_downsampled.jpg,NV,6,50.0,unknown,7,torso
+ISIC_0026784.jpg,NV,6,30.0,male,7,posterior torso
+ISIC_0015293_downsampled.jpg,NV,6,45.0,female,1,upper extremity
+ISIC_0071386.jpg,NV,6,45.0,male,7,anterior torso
+ISIC_0056780.jpg,BCC,1,70.0,female,5,head/neck
+ISIC_0012358_downsampled.jpg,SK,2,45.0,male,7,torso
+ISIC_0071863.jpg,NV,6,40.0,male,7,anterior torso
+ISIC_0032164.jpg,BCC,1,65.0,female,7,anterior torso
+ISIC_0061135.jpg,BCC,1,75.0,male,7,anterior torso
+ISIC_0066747.jpg,BCC,1,75.0,male,7,anterior torso
+ISIC_0066469.jpg,BCC,1,40.0,male,7,anterior torso
+ISIC_0064281.jpg,MEL,8,80.0,male,5,head/neck
+ISIC_0013459_downsampled.jpg,MEL,8,45.0,male,5,head/neck
+ISIC_0059659.jpg,NV,6,10.0,female,6,lower extremity
+ISIC_0015973_downsampled.jpg,NV,6,65.0,male,7,torso
+ISIC_0025579.jpg,NV,6,45.0,female,7,posterior torso
+ISIC_0069205.jpg,NV,6,25.0,female,6,lower extremity
+ISIC_0058982.jpg,NV,6,50.0,male,7,anterior torso
+ISIC_0012475_downsampled.jpg,SK,2,65.0,male,7,torso
+ISIC_0000101_downsampled.jpg,NV,6,50.0,unknown,7,torso
+ISIC_0069709.jpg,BCC,1,85.0,male,5,head/neck
+ISIC_0031145.jpg,NV,6,45.0,female,6,lower extremity
+ISIC_0012386_downsampled.jpg,SK,2,85.0,male,7,torso
+ISIC_0054949.jpg,SCC,3,70.0,male,7,anterior torso
+ISIC_0001187_downsampled.jpg,NV,6,15.0,male,7,torso
+ISIC_0031404.jpg,NV,6,70.0,male,7,posterior torso
+ISIC_0031534.jpg,NV,6,45.0,male,7,anterior torso
+ISIC_0068637.jpg,BCC,1,50.0,female,7,torso
+ISIC_0006021_downsampled.jpg,NV,6,15.0,female,7,torso
+ISIC_0072340.jpg,NV,6,35.0,female,1,upper extremity
+ISIC_0069758.jpg,SK,2,85.0,male,7,anterior torso
+ISIC_0031533.jpg,NV,6,75.0,male,6,lower extremity
+ISIC_0029080.jpg,SK,2,70.0,male,5,head/neck
+ISIC_0031826.jpg,NV,6,25.0,female,7,torso
+ISIC_0056186.jpg,MEL,8,65.0,female,7,anterior torso
+ISIC_0033462.jpg,NV,6,5.0,female,6,lower extremity
+ISIC_0054325.jpg,SK,2,65.0,female,7,anterior torso
+ISIC_0058163.jpg,AK,0,75.0,female,1,upper extremity
+ISIC_0014083_downsampled.jpg,SK,2,65.0,female,7,anterior torso
+ISIC_0029404.jpg,VASC,4,10.0,male,7,torso
+ISIC_0070463.jpg,MEL,8,75.0,female,1,upper extremity
+ISIC_0068457.jpg,NV,6,30.0,male,7,anterior torso
+ISIC_0026730.jpg,NV,6,30.0,male,1,upper extremity
+ISIC_0060955.jpg,MEL,8,40.0,female,7,anterior torso
+ISIC_0055404.jpg,MEL,8,70.0,male,1,upper extremity
+ISIC_0032617.jpg,MEL,8,75.0,male,7,posterior torso
+ISIC_0062133.jpg,MEL,8,60.0,female,2,palms/soles
+ISIC_0028375.jpg,NV,6,35.0,female,7,torso
+ISIC_0024386.jpg,DF,5,40.0,female,6,lower extremity
+ISIC_0072512.jpg,NV,6,60.0,female,5,head/neck
+ISIC_0033032.jpg,NV,6,40.0,male,7,posterior torso
+ISIC_0028902.jpg,NV,6,40.0,female,6,lower extremity
+ISIC_0028483.jpg,NV,6,55.0,male,6,lower extremity
+ISIC_0026363.jpg,NV,6,35.0,male,7,posterior torso
+ISIC_0073157.jpg,AK,0,60.0,male,7,anterior torso
+ISIC_0031383.jpg,NV,6,50.0,male,6,lower extremity
+ISIC_0064679.jpg,BCC,1,75.0,male,7,anterior torso
+ISIC_0011227.jpg,NV,6,40.0,male,7,posterior torso
+ISIC_0067966.jpg,NV,6,50.0,female,5,head/neck
+ISIC_0063026.jpg,MEL,8,50.0,female,5,head/neck
+ISIC_0069392.jpg,NV,6,35.0,male,7,anterior torso
+ISIC_0029851.jpg,SCC,3,80.0,male,6,lower extremity
+ISIC_0026589.jpg,NV,6,45.0,female,1,upper extremity
+ISIC_0058348.jpg,BCC,1,70.0,male,5,head/neck
+ISIC_0072943.jpg,NV,6,35.0,female,7,anterior torso
+ISIC_0024384.jpg,NV,6,35.0,male,6,lower extremity
+ISIC_0059374.jpg,BCC,1,80.0,male,7,anterior torso
+ISIC_0031017.jpg,SK,2,60.0,female,5,head/neck
+ISIC_0073122.jpg,BCC,1,45.0,male,1,upper extremity
+ISIC_0031910.jpg,NV,6,25.0,male,7,torso
+ISIC_0025118.jpg,NV,6,30.0,male,7,posterior torso
+ISIC_0015559_downsampled.jpg,NV,6,35.0,male,7,posterior torso
+ISIC_0065214.jpg,NV,6,45.0,female,6,lower extremity
+ISIC_0031403.jpg,NV,6,45.0,male,7,anterior torso
+ISIC_0070207.jpg,MEL,8,60.0,female,2,palms/soles
+ISIC_0064570.jpg,BCC,1,40.0,male,6,lower extremity
+ISIC_0060922.jpg,BCC,1,70.0,male,5,head/neck
+ISIC_0033834.jpg,MEL,8,75.0,female,7,posterior torso
+ISIC_0063238.jpg,NV,6,60.0,female,1,upper extremity
+ISIC_0063148.jpg,MEL,8,50.0,male,7,anterior torso
+ISIC_0026147.jpg,NV,6,30.0,female,1,upper extremity
+ISIC_0064632.jpg,MEL,8,40.0,male,7,anterior torso
+ISIC_0015974_downsampled.jpg,NV,6,65.0,male,7,torso
+ISIC_0068422.jpg,SK,2,50.0,male,1,upper extremity
+ISIC_0068434.jpg,NV,6,50.0,female,7,anterior torso
+ISIC_0024865.jpg,MEL,8,55.0,male,1,upper extremity
+ISIC_0059438.jpg,NV,6,45.0,male,7,anterior torso
+ISIC_0032854.jpg,AK,0,80.0,male,5,head/neck
+ISIC_0033000.jpg,SCC,3,70.0,male,1,upper extremity
+ISIC_0030837.jpg,NV,6,45.0,male,7,anterior torso
+ISIC_0030248.jpg,NV,6,40.0,female,7,torso
+ISIC_0068528.jpg,MEL,8,45.0,female,1,upper extremity
+ISIC_0072035.jpg,BCC,1,85.0,male,7,anterior torso
+ISIC_0070859.jpg,SK,2,70.0,male,7,anterior torso
+ISIC_0057005.jpg,NV,6,25.0,female,6,lower extremity
+ISIC_0069464.jpg,NV,6,25.0,male,5,head/neck
+ISIC_0032549.jpg,NV,6,25.0,female,7,anterior torso
+ISIC_0031019.jpg,NV,6,70.0,male,1,upper extremity
+ISIC_0062680.jpg,MEL,8,55.0,male,5,head/neck
+ISIC_0058877.jpg,MEL,8,70.0,male,7,anterior torso
+ISIC_0055937.jpg,MEL,8,55.0,male,1,upper extremity
+ISIC_0031213.jpg,NV,6,75.0,male,7,posterior torso
+ISIC_0033864.jpg,NV,6,0.0,female,7,posterior torso
+ISIC_0063697.jpg,BCC,1,70.0,male,7,anterior torso
+ISIC_0030700.jpg,SK,2,70.0,female,1,upper extremity
+ISIC_0034023.jpg,NV,6,45.0,male,6,lower extremity
+ISIC_0010089.jpg,MEL,8,45.0,female,7,anterior torso
+ISIC_0061906.jpg,BCC,1,20.0,female,7,anterior torso
+ISIC_0071441.jpg,BCC,1,80.0,female,5,head/neck
+ISIC_0058518.jpg,MEL,8,85.0,male,5,head/neck
+ISIC_0028075.jpg,MEL,8,55.0,male,5,head/neck
+ISIC_0067128.jpg,MEL,8,45.0,male,7,anterior torso
+ISIC_0025994.jpg,NV,6,50.0,female,6,lower extremity
+ISIC_0053836.jpg,SK,2,75.0,female,7,anterior torso
+ISIC_0069505.jpg,NV,6,45.0,male,1,upper extremity
+ISIC_0013861_downsampled.jpg,MEL,8,80.0,male,1,upper extremity
+ISIC_0069712.jpg,BCC,1,85.0,male,5,head/neck
+ISIC_0067650.jpg,NV,6,40.0,female,6,lower extremity
+ISIC_0033941.jpg,NV,6,40.0,female,7,posterior torso
+ISIC_0059135.jpg,BCC,1,70.0,male,7,anterior torso
+ISIC_0066444.jpg,NV,6,80.0,female,7,anterior torso
+ISIC_0024643.jpg,SK,2,35.0,male,7,anterior torso
+ISIC_0030312.jpg,NV,6,45.0,male,7,posterior torso
+ISIC_0071545.jpg,SK,2,70.0,male,5,head/neck
+ISIC_0031780.jpg,NV,6,40.0,female,7,anterior torso
+ISIC_0055606.jpg,BCC,1,45.0,female,7,anterior torso
+ISIC_0053664.jpg,AK,0,70.0,male,5,head/neck
+ISIC_0071168.jpg,NV,6,35.0,female,6,lower extremity
+ISIC_0000533.jpg,MEL,8,50.0,unknown,7,torso
+ISIC_0073023.jpg,BCC,1,65.0,male,5,head/neck
+ISIC_0059862.jpg,NV,6,40.0,female,7,anterior torso
+ISIC_0061889.jpg,BCC,1,50.0,female,1,upper extremity
+ISIC_0031417.jpg,MEL,8,35.0,female,1,upper extremity
+ISIC_0029690.jpg,NV,6,50.0,male,6,lower extremity
+ISIC_0025533.jpg,NV,6,35.0,male,6,lower extremity
+ISIC_0031527.jpg,BCC,1,80.0,female,5,head/neck
+ISIC_0030255.jpg,MEL,8,70.0,female,1,upper extremity
+ISIC_0013836_downsampled.jpg,NV,6,30.0,female,7,anterior torso
+ISIC_0031455.jpg,NV,6,55.0,male,7,posterior torso
+ISIC_0070608.jpg,BCC,1,60.0,male,7,anterior torso
+ISIC_0073123.jpg,BCC,1,80.0,male,7,anterior torso
+ISIC_0007796_downsampled.jpg,NV,6,15.0,female,7,torso
+ISIC_0032380.jpg,NV,6,30.0,female,7,posterior torso
+ISIC_0031144.jpg,NV,6,40.0,female,6,lower extremity
+ISIC_0064867.jpg,NV,6,65.0,male,7,anterior torso
+ISIC_0024394.jpg,NV,6,20.0,female,7,posterior torso
+ISIC_0067735.jpg,NV,6,35.0,male,7,anterior torso
+ISIC_0059796.jpg,NV,6,40.0,female,6,lower extremity
+ISIC_0065389.jpg,SK,2,60.0,female,5,head/neck
+ISIC_0070027.jpg,BCC,1,65.0,male,5,head/neck
+ISIC_0072214.jpg,NV,6,60.0,female,7,anterior torso
+ISIC_0072872.jpg,MEL,8,85.0,female,7,anterior torso
+ISIC_0057804.jpg,BCC,1,85.0,female,7,anterior torso
+ISIC_0029514.jpg,VASC,4,55.0,female,5,head/neck
+ISIC_0069098.jpg,MEL,8,85.0,female,5,head/neck
+ISIC_0060552.jpg,NV,6,55.0,female,7,anterior torso
+ISIC_0069676.jpg,NV,6,65.0,male,7,anterior torso
+ISIC_0001105_downsampled.jpg,MEL,8,35.0,male,7,anterior torso
+ISIC_0071873.jpg,BCC,1,80.0,female,5,head/neck
+ISIC_0014569_downsampled.jpg,SK,2,60.0,male,7,torso
+ISIC_0030856.jpg,NV,6,65.0,female,7,posterior torso
+ISIC_0055740.jpg,NV,6,30.0,male,5,head/neck
+ISIC_0054671.jpg,MEL,8,70.0,female,1,upper extremity
+ISIC_0065206.jpg,MEL,8,70.0,female,1,upper extremity
+ISIC_0072182.jpg,MEL,8,50.0,male,7,anterior torso
+ISIC_0069515.jpg,MEL,8,75.0,female,7,anterior torso
+ISIC_0061002.jpg,MEL,8,25.0,female,1,upper extremity
+ISIC_0031901.jpg,VASC,4,55.0,male,7,posterior torso
+ISIC_0060150.jpg,MEL,8,65.0,male,6,lower extremity
+ISIC_0068005.jpg,BCC,1,75.0,male,1,upper extremity
+ISIC_0054432.jpg,AK,0,80.0,male,7,anterior torso
+ISIC_0054046.jpg,NV,6,65.0,male,1,upper extremity
+ISIC_0058010.jpg,MEL,8,70.0,female,6,lower extremity
+ISIC_0033952.jpg,SK,2,85.0,male,7,posterior torso
+ISIC_0066421.jpg,MEL,8,35.0,male,5,head/neck
+ISIC_0068180.jpg,NV,6,5.0,female,1,upper extremity
+ISIC_0069929.jpg,MEL,8,55.0,male,7,anterior torso
+ISIC_0069524.jpg,BCC,1,85.0,male,6,lower extremity
+ISIC_0057883.jpg,SCC,3,60.0,male,2,palms/soles
+ISIC_0010455.jpg,NV,6,55.0,female,7,posterior torso
+ISIC_0026198.jpg,NV,6,40.0,female,1,upper extremity
+ISIC_0063056.jpg,MEL,8,65.0,male,7,anterior torso
+ISIC_0062608.jpg,AK,0,30.0,male,1,upper extremity
+ISIC_0033091.jpg,NV,6,15.0,female,6,lower extremity
+ISIC_0057797.jpg,NV,6,50.0,male,7,anterior torso
+ISIC_0064517.jpg,MEL,8,45.0,female,6,lower extremity
+ISIC_0027695.jpg,NV,6,40.0,female,7,torso
+ISIC_0056887.jpg,BCC,1,75.0,male,5,head/neck
+ISIC_0029048.jpg,SK,2,45.0,female,7,anterior torso
+ISIC_0069671.jpg,MEL,8,40.0,female,7,anterior torso
+ISIC_0069492.jpg,NV,6,45.0,male,1,upper extremity
+ISIC_0012265_downsampled.jpg,SK,2,75.0,female,7,torso
+ISIC_0034201.jpg,SK,2,45.0,female,5,head/neck
+ISIC_0024443.jpg,BCC,1,55.0,male,7,posterior torso
+ISIC_0056288.jpg,NV,6,35.0,male,7,anterior torso
+ISIC_0029308.jpg,SK,2,60.0,female,5,head/neck
+ISIC_0000343.jpg,NV,6,50.0,male,5,head/neck
+ISIC_0070096.jpg,BCC,1,55.0,female,5,head/neck
+ISIC_0055222.jpg,NV,6,25.0,female,1,upper extremity
+ISIC_0032893.jpg,NV,6,40.0,female,7,posterior torso
+ISIC_0072125.jpg,NV,6,60.0,male,7,anterior torso
+ISIC_0010440.jpg,NV,6,50.0,male,1,upper extremity
+ISIC_0059661.jpg,NV,6,65.0,male,6,lower extremity
+ISIC_0031710.jpg,NV,6,65.0,male,7,anterior torso
+ISIC_0013270_downsampled.jpg,SK,2,85.0,male,7,anterior torso
+ISIC_0025193.jpg,NV,6,5.0,male,1,upper extremity
+ISIC_0062172.jpg,BCC,1,75.0,male,7,anterior torso
+ISIC_0029927.jpg,SK,2,70.0,female,5,head/neck
+ISIC_0027714.jpg,NV,6,50.0,female,7,posterior torso
+ISIC_0032764.jpg,NV,6,20.0,male,7,posterior torso
+ISIC_0056691.jpg,BCC,1,80.0,female,7,anterior torso
+ISIC_0032216.jpg,NV,6,45.0,male,7,torso
+ISIC_0067838.jpg,NV,6,25.0,male,7,anterior torso
+ISIC_0025720.jpg,NV,6,40.0,male,6,lower extremity
+ISIC_0072627.jpg,NV,6,70.0,female,7,anterior torso
+ISIC_0065701.jpg,SK,2,40.0,female,5,head/neck
+ISIC_0013562_downsampled.jpg,NV,6,55.0,male,7,anterior torso
+ISIC_0060591.jpg,BCC,1,35.0,male,7,anterior torso
+ISIC_0010235.jpg,MEL,8,60.0,male,1,upper extremity
+ISIC_0030928.jpg,NV,6,55.0,female,6,lower extremity
+ISIC_0025589.jpg,MEL,8,55.0,female,5,head/neck
+ISIC_0056026.jpg,NV,6,50.0,female,7,anterior torso
+ISIC_0027573.jpg,MEL,8,55.0,male,5,head/neck
+ISIC_0029126.jpg,SK,2,60.0,male,7,posterior torso
+ISIC_0011301.jpg,NV,6,20.0,female,5,head/neck
+ISIC_0030558.jpg,NV,6,35.0,female,1,upper extremity
+ISIC_0060859.jpg,BCC,1,85.0,male,7,anterior torso
+ISIC_0058218.jpg,MEL,8,60.0,male,5,head/neck
+ISIC_0026952.jpg,BCC,1,55.0,male,7,posterior torso
+ISIC_0024333.jpg,MEL,8,85.0,male,6,lower extremity
+ISIC_0069798.jpg,NV,6,40.0,female,7,anterior torso
+ISIC_0029810.jpg,SK,2,55.0,female,5,head/neck
+ISIC_0027980.jpg,NV,6,35.0,male,7,posterior torso
+ISIC_0055488.jpg,NV,6,30.0,female,6,lower extremity
+ISIC_0070128.jpg,BCC,1,60.0,female,6,lower extremity
+ISIC_0071327.jpg,NV,6,65.0,female,7,anterior torso
+ISIC_0055278.jpg,NV,6,70.0,male,7,anterior torso
+ISIC_0032867.jpg,VASC,4,45.0,female,7,anterior torso
+ISIC_0067178.jpg,NV,6,65.0,male,7,anterior torso
+ISIC_0064954.jpg,NV,6,35.0,female,6,lower extremity
+ISIC_0015386_downsampled.jpg,NV,6,55.0,female,6,lower extremity
+ISIC_0057167.jpg,NV,6,25.0,female,6,lower extremity
+ISIC_0070827.jpg,BCC,1,70.0,male,7,anterior torso
+ISIC_0030647.jpg,NV,6,65.0,male,7,anterior torso
+ISIC_0065145.jpg,NV,6,75.0,male,7,anterior torso
+ISIC_0024958.jpg,MEL,8,45.0,male,6,lower extremity
+ISIC_0025502.jpg,NV,6,50.0,male,7,torso
+ISIC_0063943.jpg,NV,6,50.0,male,7,anterior torso
+ISIC_0066123.jpg,AK,0,60.0,male,5,head/neck
+ISIC_0028802.jpg,NV,6,50.0,female,7,torso
+ISIC_0062155.jpg,MEL,8,40.0,female,7,anterior torso
+ISIC_0030127.jpg,NV,6,60.0,male,1,upper extremity
+ISIC_0062386.jpg,BCC,1,35.0,male,5,head/neck
+ISIC_0025222.jpg,SK,2,65.0,female,5,head/neck
+ISIC_0071678.jpg,MEL,8,70.0,female,1,upper extremity
+ISIC_0014730_downsampled.jpg,NV,6,55.0,male,1,upper extremity
+ISIC_0069652.jpg,BCC,1,75.0,male,5,head/neck
+ISIC_0061908.jpg,BCC,1,30.0,male,5,head/neck
+ISIC_0032773.jpg,SK,2,70.0,male,7,posterior torso
+ISIC_0061946.jpg,BCC,1,65.0,male,7,anterior torso
+ISIC_0014346_downsampled.jpg,NV,6,35.0,male,1,upper extremity
+ISIC_0029961.jpg,NV,6,50.0,male,6,lower extremity
+ISIC_0066164.jpg,BCC,1,55.0,female,5,head/neck
+ISIC_0028567.jpg,MEL,8,65.0,female,6,lower extremity
+ISIC_0068315.jpg,MEL,8,50.0,female,5,head/neck
+ISIC_0010062.jpg,NV,6,35.0,female,6,lower extremity
+ISIC_0055468.jpg,MEL,8,50.0,male,5,head/neck
+ISIC_0029544.jpg,NV,6,85.0,male,7,posterior torso
+ISIC_0024840.jpg,NV,6,45.0,male,7,anterior torso
+ISIC_0072768.jpg,MEL,8,50.0,male,7,anterior torso
+ISIC_0027632.jpg,NV,6,50.0,male,7,anterior torso
+ISIC_0029752.jpg,NV,6,35.0,female,7,posterior torso
+ISIC_0072559.jpg,MEL,8,70.0,male,6,lower extremity
+ISIC_0056543.jpg,NV,6,50.0,male,7,anterior torso
+ISIC_0056544.jpg,NV,6,70.0,female,5,head/neck
+ISIC_0025089.jpg,SCC,3,65.0,male,5,head/neck
+ISIC_0055058.jpg,BCC,1,50.0,female,7,anterior torso
+ISIC_0012904_downsampled.jpg,NV,6,60.0,female,7,anterior torso
+ISIC_0029522.jpg,SK,2,75.0,male,6,lower extremity
+ISIC_0059897.jpg,MEL,8,55.0,male,7,anterior torso
+ISIC_0031162.jpg,NV,6,50.0,male,7,torso
+ISIC_0013423_downsampled.jpg,NV,6,70.0,male,7,posterior torso
+ISIC_0069260.jpg,MEL,8,45.0,male,2,palms/soles
+ISIC_0063876.jpg,NV,6,45.0,male,7,anterior torso
+ISIC_0070949.jpg,SK,2,65.0,female,6,lower extremity
+ISIC_0061641.jpg,NV,6,50.0,female,1,upper extremity
+ISIC_0073220.jpg,NV,6,10.0,female,6,lower extremity
+ISIC_0000015.jpg,NV,6,35.0,male,7,posterior torso
+ISIC_0055353.jpg,BCC,1,65.0,female,5,head/neck
+ISIC_0065681.jpg,MEL,8,65.0,male,7,torso
+ISIC_0033408.jpg,NV,6,50.0,female,6,lower extremity
+ISIC_0053673.jpg,NV,6,40.0,male,7,anterior torso
+ISIC_0033051.jpg,MEL,8,25.0,female,6,lower extremity
+ISIC_0058935.jpg,MEL,8,65.0,male,5,head/neck
+ISIC_0066870.jpg,NV,6,25.0,male,7,anterior torso
+ISIC_0056916.jpg,BCC,1,50.0,male,7,anterior torso
+ISIC_0025530.jpg,BCC,1,80.0,female,6,lower extremity
+ISIC_0027683.jpg,NV,6,55.0,female,7,torso
+ISIC_0058895.jpg,NV,6,65.0,male,7,anterior torso
+ISIC_0000555.jpg,MEL,8,50.0,unknown,7,torso
+ISIC_0061266.jpg,NV,6,35.0,male,7,anterior torso
+ISIC_0027605.jpg,NV,6,60.0,male,6,lower extremity
+ISIC_0064927.jpg,MEL,8,55.0,female,6,lower extremity
+ISIC_0069189.jpg,NV,6,50.0,female,7,anterior torso
+ISIC_0029885.jpg,MEL,8,35.0,male,7,posterior torso
+ISIC_0059264.jpg,MEL,8,75.0,male,5,head/neck
+ISIC_0024815.jpg,NV,6,25.0,female,7,anterior torso
+ISIC_0030402.jpg,NV,6,60.0,male,7,posterior torso
+ISIC_0069049.jpg,BCC,1,65.0,female,7,anterior torso
+ISIC_0033970.jpg,NV,6,40.0,female,7,torso
+ISIC_0060471.jpg,NV,6,45.0,female,7,anterior torso
+ISIC_0065468.jpg,MEL,8,45.0,male,6,lower extremity
+ISIC_0072114.jpg,SCC,3,80.0,female,1,upper extremity
+ISIC_0066113.jpg,NV,6,10.0,female,6,lower extremity
+ISIC_0024751.jpg,NV,6,45.0,male,6,lower extremity
+ISIC_0026727.jpg,NV,6,80.0,male,7,torso
+ISIC_0059710.jpg,SK,2,65.0,male,5,head/neck
+ISIC_0072939.jpg,MEL,8,55.0,male,5,head/neck
+ISIC_0024449.jpg,MEL,8,55.0,male,7,posterior torso
+ISIC_0061003.jpg,MEL,8,45.0,male,7,anterior torso
+ISIC_0062715.jpg,NV,6,55.0,female,1,upper extremity
+ISIC_0056819.jpg,MEL,8,50.0,female,6,lower extremity
+ISIC_0032077.jpg,NV,6,30.0,female,1,upper extremity
+ISIC_0013874_downsampled.jpg,MEL,8,60.0,male,7,anterior torso
+ISIC_0014599_downsampled.jpg,SK,2,80.0,male,7,torso
+ISIC_0057273.jpg,BCC,1,75.0,female,5,head/neck
+ISIC_0031637.jpg,NV,6,65.0,female,1,upper extremity
+ISIC_0032002.jpg,NV,6,45.0,male,7,posterior torso
+ISIC_0053799.jpg,AK,0,60.0,female,5,head/neck
+ISIC_0026092.jpg,VASC,4,75.0,male,1,upper extremity
+ISIC_0066786.jpg,AK,0,65.0,male,7,anterior torso
+ISIC_0032465.jpg,NV,6,30.0,female,7,torso
+ISIC_0029194.jpg,NV,6,30.0,male,1,upper extremity
+ISIC_0056487.jpg,MEL,8,50.0,female,5,head/neck
+ISIC_0072983.jpg,MEL,8,75.0,male,7,anterior torso
+ISIC_0065918.jpg,MEL,8,45.0,female,1,upper extremity
+ISIC_0030584.jpg,NV,6,55.0,female,6,lower extremity
+ISIC_0025879.jpg,SK,2,45.0,female,7,anterior torso
+ISIC_0029304.jpg,NV,6,35.0,male,7,torso
+ISIC_0001442_downsampled.jpg,NV,6,15.0,female,7,torso
+ISIC_0027227.jpg,NV,6,40.0,male,7,torso
+ISIC_0059997.jpg,BCC,1,55.0,male,7,anterior torso
+ISIC_0033112.jpg,NV,6,25.0,male,7,posterior torso
+ISIC_0063094.jpg,MEL,8,60.0,male,7,anterior torso
+ISIC_0062733.jpg,BCC,1,70.0,female,5,head/neck
+ISIC_0062628.jpg,MEL,8,85.0,female,5,head/neck
+ISIC_0027375.jpg,NV,6,45.0,male,7,anterior torso
+ISIC_0061878.jpg,VASC,4,45.0,male,5,head/neck
+ISIC_0026149.jpg,AK,0,65.0,male,5,head/neck
+ISIC_0026913.jpg,NV,6,40.0,male,7,anterior torso
+ISIC_0012737_downsampled.jpg,NV,6,30.0,female,6,lower extremity
+ISIC_0031975.jpg,NV,6,75.0,male,1,upper extremity
+ISIC_0066632.jpg,DF,5,65.0,male,1,upper extremity
+ISIC_0060622.jpg,BCC,1,70.0,male,7,anterior torso
+ISIC_0024937.jpg,NV,6,45.0,female,7,posterior torso
+ISIC_0013045_downsampled.jpg,NV,6,60.0,male,7,anterior torso
+ISIC_0060331.jpg,SCC,3,80.0,male,5,head/neck
+ISIC_0029929.jpg,SK,2,80.0,male,1,upper extremity
+ISIC_0067088.jpg,BCC,1,85.0,female,1,upper extremity
+ISIC_0027585.jpg,NV,6,55.0,female,5,head/neck
+ISIC_0031962.jpg,NV,6,50.0,male,6,lower extremity
+ISIC_0058299.jpg,SK,2,70.0,male,7,anterior torso
+ISIC_0032812.jpg,MEL,8,50.0,male,7,torso
+ISIC_0072463.jpg,BCC,1,80.0,male,7,anterior torso
+ISIC_0026794.jpg,SK,2,60.0,female,5,head/neck
+ISIC_0029981.jpg,NV,6,40.0,female,1,upper extremity
+ISIC_0033361.jpg,SK,2,50.0,female,6,lower extremity
+ISIC_0027712.jpg,NV,6,55.0,male,6,lower extremity
+ISIC_0058911.jpg,BCC,1,50.0,female,7,torso
+ISIC_0057429.jpg,NV,6,50.0,female,7,anterior torso
+ISIC_0056156.jpg,MEL,8,70.0,female,7,anterior torso
+ISIC_0058050.jpg,MEL,8,35.0,female,7,anterior torso
+ISIC_0030451.jpg,NV,6,85.0,male,6,lower extremity
+ISIC_0031412.jpg,NV,6,20.0,female,7,anterior torso
+ISIC_0029269.jpg,NV,6,30.0,female,7,anterior torso
+ISIC_0060268.jpg,NV,6,40.0,male,5,head/neck
+ISIC_0069679.jpg,BCC,1,60.0,male,6,lower extremity
+ISIC_0065684.jpg,BCC,1,65.0,male,6,lower extremity
+ISIC_0033793.jpg,NV,6,70.0,male,7,posterior torso
+ISIC_0063753.jpg,MEL,8,70.0,male,1,upper extremity
+ISIC_0033285.jpg,NV,6,35.0,female,7,posterior torso
+ISIC_0055107.jpg,SCC,3,75.0,male,6,lower extremity
+ISIC_0027079.jpg,NV,6,25.0,female,1,upper extremity
+ISIC_0000097_downsampled.jpg,NV,6,50.0,unknown,7,torso
+ISIC_0068807.jpg,NV,6,35.0,female,6,lower extremity
+ISIC_0026002.jpg,NV,6,60.0,female,7,torso
+ISIC_0054994.jpg,BCC,1,75.0,male,7,anterior torso
+ISIC_0062455.jpg,DF,5,55.0,male,6,lower extremity
+ISIC_0031399.jpg,NV,6,60.0,male,7,posterior torso
+ISIC_0071502.jpg,SK,2,50.0,female,7,anterior torso
+ISIC_0024470.jpg,AK,0,60.0,male,1,upper extremity
+ISIC_0032604.jpg,MEL,8,75.0,male,7,anterior torso
+ISIC_0026129.jpg,NV,6,60.0,male,6,lower extremity
+ISIC_0011361.jpg,NV,6,55.0,male,7,posterior torso
+ISIC_0064021.jpg,BCC,1,55.0,male,5,head/neck
+ISIC_0065412.jpg,NV,6,30.0,male,7,anterior torso
+ISIC_0056681.jpg,BCC,1,85.0,female,7,anterior torso
+ISIC_0032693.jpg,NV,6,40.0,female,7,posterior torso
+ISIC_0027182.jpg,NV,6,50.0,female,7,posterior torso
+ISIC_0033145.jpg,NV,6,40.0,female,6,lower extremity
+ISIC_0066597.jpg,NV,6,50.0,female,6,lower extremity
+ISIC_0014849_downsampled.jpg,NV,6,25.0,female,7,posterior torso
+ISIC_0066470.jpg,MEL,8,40.0,male,7,anterior torso
+ISIC_0009972.jpg,NV,6,50.0,female,7,posterior torso
+ISIC_0013842_downsampled.jpg,MEL,8,65.0,male,6,lower extremity
+ISIC_0029200.jpg,NV,6,65.0,male,7,anterior torso
+ISIC_0033639.jpg,NV,6,20.0,male,7,anterior torso
+ISIC_0028151.jpg,NV,6,60.0,male,7,posterior torso
+ISIC_0025801.jpg,NV,6,50.0,female,7,anterior torso
+ISIC_0072075.jpg,SK,2,85.0,female,5,head/neck
+ISIC_0010452.jpg,NV,6,10.0,male,5,head/neck
+ISIC_0007557_downsampled.jpg,NV,6,15.0,male,7,torso
+ISIC_0071163.jpg,BCC,1,55.0,male,5,head/neck
+ISIC_0064228.jpg,SK,2,85.0,female,5,head/neck
+ISIC_0026623.jpg,SK,2,70.0,male,1,upper extremity
+ISIC_0032944.jpg,NV,6,55.0,female,6,lower extremity
+ISIC_0025248.jpg,MEL,8,70.0,male,7,posterior torso
+ISIC_0032192.jpg,MEL,8,80.0,male,6,lower extremity
+ISIC_0061315.jpg,MEL,8,30.0,female,1,upper extremity
+ISIC_0033149.jpg,NV,6,45.0,male,7,posterior torso
+ISIC_0058797.jpg,BCC,1,70.0,female,6,lower extremity
+ISIC_0072528.jpg,NV,6,55.0,female,6,lower extremity
+ISIC_0063621.jpg,SCC,3,70.0,female,7,torso
+ISIC_0072775.jpg,NV,6,20.0,female,7,anterior torso
+ISIC_0033883.jpg,MEL,8,55.0,male,7,posterior torso
+ISIC_0062877.jpg,AK,0,75.0,female,5,head/neck
+ISIC_0024581.jpg,SK,2,40.0,male,6,lower extremity
+ISIC_0062955.jpg,NV,6,65.0,male,6,lower extremity
+ISIC_0054257.jpg,SK,2,60.0,male,5,head/neck
+ISIC_0054843.jpg,BCC,1,70.0,male,5,head/neck
+ISIC_0026050.jpg,NV,6,50.0,male,7,posterior torso
+ISIC_0033752.jpg,MEL,8,50.0,female,5,head/neck
+ISIC_0063521.jpg,MEL,8,40.0,male,5,head/neck
+ISIC_0054274.jpg,MEL,8,75.0,male,5,head/neck
+ISIC_0068916.jpg,NV,6,40.0,male,1,upper extremity
+ISIC_0061473.jpg,BCC,1,75.0,female,5,head/neck
+ISIC_0067339.jpg,MEL,8,85.0,male,6,lower extremity
+ISIC_0032439.jpg,BCC,1,65.0,female,7,posterior torso
+ISIC_0025658.jpg,NV,6,60.0,male,7,torso
+ISIC_0010475.jpg,NV,6,45.0,female,7,anterior torso
+ISIC_0059029.jpg,MEL,8,35.0,female,6,lower extremity
+ISIC_0064006.jpg,MEL,8,45.0,male,2,palms/soles
+ISIC_0026166.jpg,NV,6,55.0,male,1,upper extremity
+ISIC_0029894.jpg,NV,6,70.0,male,7,posterior torso
+ISIC_0008256_downsampled.jpg,NV,6,15.0,female,7,torso
+ISIC_0014045_downsampled.jpg,NV,6,70.0,male,5,head/neck
+ISIC_0068696.jpg,MEL,8,50.0,male,5,head/neck
+ISIC_0068176.jpg,MEL,8,40.0,female,7,anterior torso
+ISIC_0068966.jpg,MEL,8,85.0,female,5,head/neck
+ISIC_0027069.jpg,MEL,8,75.0,male,7,posterior torso
+ISIC_0031015.jpg,NV,6,60.0,male,7,posterior torso
+ISIC_0057043.jpg,SCC,3,80.0,female,1,upper extremity
+ISIC_0032640.jpg,NV,6,45.0,female,7,posterior torso
+ISIC_0055514.jpg,SK,2,25.0,male,7,anterior torso
+ISIC_0027145.jpg,NV,6,45.0,male,7,posterior torso
+ISIC_0013087_downsampled.jpg,NV,6,45.0,male,6,lower extremity
+ISIC_0060341.jpg,MEL,8,70.0,female,1,upper extremity
+ISIC_0031508.jpg,NV,6,55.0,female,7,anterior torso
+ISIC_0062835.jpg,SK,2,75.0,female,7,anterior torso
+ISIC_0028880.jpg,DF,5,55.0,male,6,lower extremity
+ISIC_0068145.jpg,MEL,8,45.0,male,7,anterior torso
+ISIC_0013888_downsampled.jpg,NV,6,85.0,female,7,posterior torso
+ISIC_0066998.jpg,NV,6,65.0,male,7,anterior torso
+ISIC_0030608.jpg,SK,2,45.0,male,7,posterior torso
+ISIC_0033542.jpg,NV,6,65.0,male,7,anterior torso
+ISIC_0025892.jpg,NV,6,40.0,female,6,lower extremity
+ISIC_0027281.jpg,BCC,1,70.0,male,7,posterior torso
+ISIC_0013430_downsampled.jpg,NV,6,15.0,male,7,anterior torso
+ISIC_0024848.jpg,BCC,1,80.0,male,7,posterior torso
+ISIC_0058476.jpg,BCC,1,75.0,male,1,upper extremity
+ISIC_0027439.jpg,NV,6,55.0,male,7,anterior torso
+ISIC_0030360.jpg,MEL,8,65.0,male,1,upper extremity
+ISIC_0015173_downsampled.jpg,NV,6,50.0,female,7,anterior torso
+ISIC_0071385.jpg,BCC,1,55.0,female,7,anterior torso
+ISIC_0031426.jpg,NV,6,40.0,female,7,torso
+ISIC_0056669.jpg,BCC,1,50.0,female,7,anterior torso
+ISIC_0054123.jpg,MEL,8,85.0,female,5,head/neck
+ISIC_0069261.jpg,BCC,1,75.0,male,7,anterior torso
+ISIC_0067436.jpg,NV,6,35.0,female,6,lower extremity
+ISIC_0068553.jpg,NV,6,70.0,female,6,lower extremity
+ISIC_0073135.jpg,NV,6,10.0,female,6,lower extremity
+ISIC_0064707.jpg,NV,6,30.0,male,7,anterior torso
+ISIC_0014372_downsampled.jpg,MEL,8,80.0,male,1,upper extremity
+ISIC_0027407.jpg,MEL,8,70.0,female,7,posterior torso
+ISIC_0056773.jpg,AK,0,85.0,male,7,anterior torso
+ISIC_0033436.jpg,NV,6,40.0,male,7,torso
+ISIC_0064044.jpg,NV,6,55.0,female,6,lower extremity
+ISIC_0002806_downsampled.jpg,NV,6,15.0,male,7,torso
+ISIC_0068276.jpg,MEL,8,85.0,female,5,head/neck
+ISIC_0029151.jpg,NV,6,55.0,female,7,posterior torso
+ISIC_0063529.jpg,BCC,1,80.0,female,7,anterior torso
+ISIC_0060573.jpg,NV,6,50.0,male,7,anterior torso
+ISIC_0065968.jpg,NV,6,45.0,male,7,anterior torso
+ISIC_0065565.jpg,BCC,1,65.0,male,6,lower extremity
+ISIC_0027242.jpg,NV,6,45.0,female,5,head/neck
+ISIC_0024313.jpg,MEL,8,50.0,female,7,posterior torso
+ISIC_0057727.jpg,MEL,8,35.0,male,5,head/neck
+ISIC_0025974.jpg,NV,6,55.0,female,7,torso
+ISIC_0061352.jpg,NV,6,55.0,female,5,head/neck
+ISIC_0067926.jpg,NV,6,50.0,unknown,7,anterior torso
+ISIC_0024649.jpg,NV,6,50.0,female,7,torso
+ISIC_0030371.jpg,NV,6,35.0,female,7,torso
+ISIC_0025249.jpg,VASC,4,30.0,female,6,lower extremity
+ISIC_0059494.jpg,DF,5,15.0,male,7,anterior torso
+ISIC_0033811.jpg,AK,0,65.0,female,5,head/neck
+ISIC_0069092.jpg,BCC,1,40.0,male,7,anterior torso
+ISIC_0073228.jpg,SK,2,70.0,female,7,anterior torso
+ISIC_0059990.jpg,NV,6,15.0,male,7,anterior torso
+ISIC_0058661.jpg,NV,6,50.0,unknown,7,anterior torso
+ISIC_0055938.jpg,MEL,8,55.0,female,6,lower extremity
+ISIC_0029685.jpg,NV,6,50.0,female,7,torso
+ISIC_0028009.jpg,NV,6,10.0,female,1,upper extremity
+ISIC_0012172_downsampled.jpg,SK,2,70.0,female,7,torso
+ISIC_0053774.jpg,MEL,8,65.0,female,7,anterior torso
+ISIC_0071916.jpg,MEL,8,50.0,female,7,anterior torso
+ISIC_0027173.jpg,NV,6,45.0,female,6,lower extremity
+ISIC_0061640.jpg,SK,2,70.0,female,5,head/neck
+ISIC_0015079_downsampled.jpg,MEL,8,50.0,unknown,7,posterior torso
+ISIC_0000092_downsampled.jpg,NV,6,50.0,unknown,7,torso
+ISIC_0054385.jpg,MEL,8,85.0,female,5,head/neck
+ISIC_0013794_downsampled.jpg,NV,6,45.0,female,7,anterior torso
+ISIC_0026804.jpg,NV,6,25.0,male,6,lower extremity
+ISIC_0032555.jpg,NV,6,55.0,female,7,posterior torso
+ISIC_0059713.jpg,NV,6,10.0,female,6,lower extremity
+ISIC_0034097.jpg,NV,6,65.0,male,1,upper extremity
+ISIC_0032451.jpg,NV,6,65.0,male,7,torso
+ISIC_0054730.jpg,NV,6,40.0,female,7,anterior torso
+ISIC_0029560.jpg,NV,6,45.0,male,6,lower extremity
+ISIC_0067988.jpg,BCC,1,55.0,female,6,lower extremity
+ISIC_0011348.jpg,MEL,8,75.0,male,7,posterior torso
+ISIC_0064159.jpg,NV,6,30.0,male,5,head/neck
+ISIC_0064354.jpg,BCC,1,85.0,female,1,upper extremity
+ISIC_0025784.jpg,NV,6,30.0,male,7,anterior torso
+ISIC_0056880.jpg,NV,6,40.0,male,7,anterior torso
+ISIC_0028627.jpg,NV,6,45.0,male,6,lower extremity
+ISIC_0058362.jpg,MEL,8,50.0,male,6,lower extremity
+ISIC_0069655.jpg,SK,2,70.0,male,5,head/neck
+ISIC_0064608.jpg,BCC,1,50.0,female,7,anterior torso
+ISIC_0055611.jpg,NV,6,35.0,female,7,anterior torso
+ISIC_0033198.jpg,MEL,8,65.0,male,7,posterior torso
+ISIC_0025959.jpg,NV,6,55.0,female,7,anterior torso
+ISIC_0031907.jpg,NV,6,45.0,female,7,anterior torso
+ISIC_0067799.jpg,AK,0,85.0,female,7,torso
+ISIC_0057390.jpg,MEL,8,60.0,male,5,head/neck
+ISIC_0069738.jpg,NV,6,40.0,female,7,anterior torso
+ISIC_0065003.jpg,SK,2,85.0,male,5,head/neck
+ISIC_0057966.jpg,NV,6,25.0,male,7,anterior torso
+ISIC_0033959.jpg,NV,6,75.0,male,1,upper extremity
+ISIC_0001374_downsampled.jpg,NV,6,15.0,male,7,torso
+ISIC_0065428.jpg,BCC,1,80.0,male,7,anterior torso
+ISIC_0071416.jpg,BCC,1,85.0,male,7,anterior torso
+ISIC_0031641.jpg,NV,6,35.0,female,7,torso
+ISIC_0029355.jpg,NV,6,50.0,female,6,lower extremity
+ISIC_0064518.jpg,SK,2,75.0,male,5,head/neck
+ISIC_0032807.jpg,MEL,8,50.0,male,5,head/neck
+ISIC_0033471.jpg,NV,6,70.0,male,7,anterior torso
+ISIC_0028918.jpg,NV,6,25.0,male,7,posterior torso
+ISIC_0033163.jpg,NV,6,35.0,female,7,anterior torso
+ISIC_0059198.jpg,AK,0,80.0,female,5,head/neck
+ISIC_0069434.jpg,BCC,1,85.0,male,5,head/neck
+ISIC_0027122.jpg,NV,6,65.0,male,7,anterior torso
+ISIC_0070252.jpg,NV,6,40.0,male,6,lower extremity
+ISIC_0062819.jpg,NV,6,35.0,female,7,anterior torso
+ISIC_0032939.jpg,NV,6,45.0,female,7,torso
+ISIC_0055465.jpg,MEL,8,85.0,male,5,head/neck
+ISIC_0071172.jpg,BCC,1,65.0,male,5,head/neck
+ISIC_0072120.jpg,NV,6,15.0,female,7,anterior torso
+ISIC_0010350.jpg,MEL,8,25.0,female,7,anterior torso
+ISIC_0053628.jpg,MEL,8,60.0,male,7,anterior torso
+ISIC_0032147.jpg,NV,6,30.0,male,7,posterior torso
+ISIC_0058465.jpg,MEL,8,80.0,female,7,anterior torso
+ISIC_0033844.jpg,VASC,4,70.0,female,6,lower extremity
+ISIC_0033325.jpg,MEL,8,60.0,male,7,anterior torso
+ISIC_0028645.jpg,NV,6,75.0,male,7,torso
+ISIC_0028924.jpg,NV,6,55.0,male,1,upper extremity
+ISIC_0024754.jpg,NV,6,30.0,male,7,posterior torso
+ISIC_0030122.jpg,MEL,8,55.0,male,7,posterior torso
+ISIC_0058277.jpg,SK,2,60.0,female,5,head/neck
+ISIC_0010860.jpg,MEL,8,50.0,male,7,posterior torso
+ISIC_0069667.jpg,MEL,8,80.0,male,5,head/neck
+ISIC_0027627.jpg,NV,6,45.0,female,6,lower extremity
+ISIC_0015403_downsampled.jpg,NV,6,55.0,male,5,head/neck
+ISIC_0061421.jpg,NV,6,25.0,female,7,anterior torso
+ISIC_0032654.jpg,SK,2,75.0,male,5,head/neck
+ISIC_0030982.jpg,NV,6,55.0,female,6,lower extremity
+ISIC_0011150.jpg,NV,6,65.0,male,7,anterior torso
+ISIC_0065849.jpg,BCC,1,65.0,female,5,head/neck
+ISIC_0066386.jpg,MEL,8,50.0,female,6,lower extremity
+ISIC_0062048.jpg,MEL,8,65.0,female,1,upper extremity
+ISIC_0030243.jpg,NV,6,40.0,female,7,torso
+ISIC_0030820.jpg,NV,6,55.0,male,1,upper extremity
+ISIC_0014570_downsampled.jpg,SK,2,60.0,male,5,head/neck
+ISIC_0014633_downsampled.jpg,SK,2,70.0,female,7,torso
+ISIC_0061474.jpg,NV,6,50.0,female,7,torso
+ISIC_0024978.jpg,NV,6,45.0,male,7,posterior torso
+ISIC_0058979.jpg,NV,6,40.0,male,7,anterior torso
+ISIC_0013126_downsampled.jpg,NV,6,45.0,female,5,head/neck
+ISIC_0029003.jpg,SK,2,75.0,male,7,anterior torso
+ISIC_0028056.jpg,MEL,8,85.0,male,7,posterior torso
+ISIC_0058395.jpg,NV,6,40.0,male,6,lower extremity
+ISIC_0012836_downsampled.jpg,NV,6,40.0,female,1,upper extremity
+ISIC_0071073.jpg,NV,6,50.0,unknown,7,torso
+ISIC_0016054_downsampled.jpg,NV,6,50.0,female,7,torso
+ISIC_0030716.jpg,NV,6,55.0,female,6,lower extremity
+ISIC_0064515.jpg,MEL,8,65.0,male,7,anterior torso
+ISIC_0000457_downsampled.jpg,NV,6,50.0,unknown,7,torso
+ISIC_0027943.jpg,NV,6,55.0,female,6,lower extremity
+ISIC_0027222.jpg,NV,6,40.0,male,7,torso
+ISIC_0064072.jpg,MEL,8,50.0,female,5,head/neck
+ISIC_0066784.jpg,NV,6,70.0,female,7,anterior torso
+ISIC_0030281.jpg,MEL,8,50.0,female,7,torso
+ISIC_0012678_downsampled.jpg,MEL,8,70.0,male,5,head/neck
+ISIC_0031336.jpg,NV,6,55.0,male,7,torso
+ISIC_0059388.jpg,BCC,1,85.0,male,1,upper extremity
+ISIC_0029895.jpg,NV,6,25.0,female,6,lower extremity
+ISIC_0033182.jpg,NV,6,50.0,male,7,posterior torso
+ISIC_0064041.jpg,SK,2,80.0,male,5,head/neck
+ISIC_0013434_downsampled.jpg,NV,6,75.0,male,6,lower extremity
+ISIC_0058187.jpg,NV,6,35.0,female,7,anterior torso
+ISIC_0060863.jpg,NV,6,55.0,male,2,palms/soles
+ISIC_0028989.jpg,BCC,1,65.0,male,6,lower extremity
+ISIC_0033350.jpg,NV,6,55.0,female,6,lower extremity
+ISIC_0025362.jpg,BCC,1,65.0,female,5,head/neck
+ISIC_0065307.jpg,MEL,8,85.0,female,7,anterior torso
+ISIC_0031968.jpg,NV,6,50.0,female,7,posterior torso
+ISIC_0026478.jpg,NV,6,45.0,male,5,head/neck
+ISIC_0066315.jpg,AK,0,30.0,female,7,anterior torso
+ISIC_0056745.jpg,AK,0,70.0,female,5,head/neck
+ISIC_0030649.jpg,SK,2,55.0,male,7,posterior torso
+ISIC_0073196.jpg,BCC,1,65.0,male,7,anterior torso
+ISIC_0070714.jpg,BCC,1,50.0,female,5,head/neck
+ISIC_0057292.jpg,BCC,1,45.0,female,1,upper extremity
+ISIC_0013603_downsampled.jpg,NV,6,80.0,male,1,upper extremity
+ISIC_0062165.jpg,SK,2,35.0,female,1,upper extremity
+ISIC_0060579.jpg,SK,2,65.0,male,5,head/neck
+ISIC_0060289.jpg,NV,6,35.0,female,7,anterior torso
+ISIC_0056933.jpg,BCC,1,70.0,male,5,head/neck
+ISIC_0013394_downsampled.jpg,NV,6,25.0,female,1,upper extremity
+ISIC_0031456.jpg,NV,6,75.0,female,6,lower extremity
+ISIC_0032304.jpg,SK,2,65.0,female,7,torso
+ISIC_0029433.jpg,NV,6,35.0,male,7,torso
+ISIC_0072018.jpg,AK,0,65.0,female,5,head/neck
+ISIC_0028460.jpg,MEL,8,65.0,male,7,posterior torso
+ISIC_0068080.jpg,MEL,8,80.0,female,7,anterior torso
+ISIC_0009920.jpg,NV,6,20.0,male,6,lower extremity
+ISIC_0054083.jpg,NV,6,45.0,male,7,anterior torso
+ISIC_0031920.jpg,NV,6,50.0,male,6,lower extremity
+ISIC_0028101.jpg,NV,6,20.0,female,7,torso
+ISIC_0025474.jpg,NV,6,55.0,female,7,torso
+ISIC_0059941.jpg,MEL,8,85.0,female,5,head/neck
+ISIC_0072001.jpg,MEL,8,70.0,male,7,anterior torso
+ISIC_0071445.jpg,SK,2,55.0,male,5,head/neck
+ISIC_0033761.jpg,SK,2,45.0,male,7,posterior torso
+ISIC_0014726_downsampled.jpg,NV,6,20.0,female,5,head/neck
+ISIC_0070403.jpg,MEL,8,70.0,male,7,anterior torso
+ISIC_0057534.jpg,MEL,8,35.0,female,6,lower extremity
+ISIC_0030015.jpg,DF,5,65.0,male,1,upper extremity
+ISIC_0056581.jpg,NV,6,50.0,male,7,anterior torso
+ISIC_0033785.jpg,SK,2,55.0,male,7,torso
+ISIC_0055855.jpg,BCC,1,80.0,male,7,anterior torso
+ISIC_0027445.jpg,NV,6,45.0,female,7,torso
+ISIC_0031538.jpg,NV,6,60.0,female,7,anterior torso
+ISIC_0029376.jpg,NV,6,30.0,male,1,upper extremity
+ISIC_0059300.jpg,NV,6,30.0,male,7,anterior torso
+ISIC_0061257.jpg,MEL,8,65.0,female,7,anterior torso
+ISIC_0061686.jpg,MEL,8,75.0,male,7,anterior torso
+ISIC_0024317.jpg,NV,6,35.0,female,7,anterior torso
+ISIC_0026793.jpg,NV,6,40.0,male,7,anterior torso
+ISIC_0057958.jpg,SK,2,60.0,female,5,head/neck
+ISIC_0064166.jpg,NV,6,70.0,female,1,upper extremity
+ISIC_0055003.jpg,MEL,8,35.0,female,5,head/neck
+ISIC_0062782.jpg,BCC,1,55.0,female,7,anterior torso
+ISIC_0067170.jpg,MEL,8,60.0,female,7,anterior torso
+ISIC_0058598.jpg,AK,0,60.0,male,5,head/neck
+ISIC_0025900.jpg,NV,6,45.0,female,6,lower extremity
+ISIC_0061714.jpg,NV,6,65.0,female,7,anterior torso
+ISIC_0030887.jpg,NV,6,55.0,female,7,torso
+ISIC_0056046.jpg,MEL,8,85.0,male,5,head/neck
+ISIC_0063588.jpg,AK,0,70.0,female,6,lower extremity
+ISIC_0026392.jpg,NV,6,40.0,male,6,lower extremity
+ISIC_0030712.jpg,BCC,1,70.0,male,6,lower extremity
+ISIC_0054157.jpg,NV,6,65.0,male,1,upper extremity
+ISIC_0032618.jpg,SK,2,60.0,male,6,lower extremity
+ISIC_0030354.jpg,NV,6,40.0,female,6,lower extremity
+ISIC_0024930.jpg,MEL,8,60.0,male,7,posterior torso
+ISIC_0058676.jpg,MEL,8,85.0,female,7,anterior torso
+ISIC_0068181.jpg,SK,2,60.0,female,7,anterior torso
+ISIC_0025548.jpg,SK,2,75.0,male,6,lower extremity
+ISIC_0033001.jpg,BCC,1,70.0,male,7,posterior torso
+ISIC_0025053.jpg,NV,6,50.0,female,7,anterior torso
+ISIC_0027363.jpg,NV,6,30.0,female,1,upper extremity
+ISIC_0025789.jpg,NV,6,65.0,female,7,posterior torso
+ISIC_0012888_downsampled.jpg,NV,6,20.0,female,1,upper extremity
+ISIC_0060351.jpg,NV,6,40.0,male,1,upper extremity
+ISIC_0067668.jpg,BCC,1,50.0,male,5,head/neck
+ISIC_0024972.jpg,MEL,8,75.0,female,5,head/neck
+ISIC_0026119.jpg,NV,6,60.0,female,7,anterior torso
+ISIC_0011390.jpg,MEL,8,70.0,male,7,anterior torso
+ISIC_0055485.jpg,BCC,1,65.0,female,7,anterior torso
+ISIC_0069617.jpg,MEL,8,55.0,male,7,anterior torso
+ISIC_0000532.jpg,NV,6,50.0,unknown,7,posterior torso
+ISIC_0024921.jpg,NV,6,60.0,male,7,torso
+ISIC_0026157.jpg,NV,6,35.0,male,7,posterior torso
+ISIC_0072537.jpg,NV,6,50.0,female,5,head/neck
+ISIC_0068047.jpg,BCC,1,65.0,female,7,anterior torso
+ISIC_0026861.jpg,SK,2,85.0,female,5,head/neck
+ISIC_0026990.jpg,NV,6,45.0,female,7,torso
+ISIC_0030630.jpg,SK,2,70.0,male,7,anterior torso
+ISIC_0013196_downsampled.jpg,NV,6,35.0,female,7,posterior torso
+ISIC_0027414.jpg,NV,6,30.0,female,7,torso
+ISIC_0064851.jpg,MEL,8,80.0,female,7,anterior torso
+ISIC_0030111.jpg,NV,6,45.0,male,7,anterior torso
+ISIC_0004168_downsampled.jpg,NV,6,15.0,female,7,torso
+ISIC_0070696.jpg,NV,6,55.0,male,6,lower extremity
+ISIC_0056585.jpg,BCC,1,80.0,male,5,head/neck
+ISIC_0057371.jpg,MEL,8,45.0,male,7,anterior torso
+ISIC_0028916.jpg,MEL,8,60.0,female,5,head/neck
+ISIC_0057787.jpg,MEL,8,50.0,female,7,anterior torso
+ISIC_0053698.jpg,MEL,8,70.0,male,3,oral/genital
+ISIC_0029627.jpg,SK,2,75.0,female,6,lower extremity
+ISIC_0070495.jpg,NV,6,55.0,female,7,anterior torso
+ISIC_0030177.jpg,BCC,1,70.0,female,5,head/neck
+ISIC_0029945.jpg,NV,6,80.0,male,7,posterior torso
+ISIC_0030061.jpg,NV,6,45.0,female,7,posterior torso
+ISIC_0068668.jpg,NV,6,40.0,female,7,anterior torso
+ISIC_0027693.jpg,MEL,8,45.0,female,7,posterior torso
+ISIC_0063338.jpg,BCC,1,70.0,male,7,anterior torso
+ISIC_0072870.jpg,NV,6,40.0,male,7,anterior torso
+ISIC_0065391.jpg,BCC,1,65.0,female,6,lower extremity
+ISIC_0061139.jpg,MEL,8,55.0,female,6,lower extremity
+ISIC_0033605.jpg,NV,6,35.0,female,7,posterior torso
+ISIC_0031531.jpg,BCC,1,70.0,male,7,posterior torso
+ISIC_0013134_downsampled.jpg,SK,2,75.0,female,5,head/neck
+ISIC_0032518.jpg,NV,6,5.0,female,6,lower extremity
+ISIC_0031942.jpg,NV,6,65.0,male,7,posterior torso
+ISIC_0032063.jpg,SK,2,50.0,male,7,torso
+ISIC_0068967.jpg,NV,6,35.0,female,7,anterior torso
+ISIC_0069857.jpg,NV,6,75.0,female,7,anterior torso
+ISIC_0028699.jpg,NV,6,35.0,male,6,lower extremity
+ISIC_0070018.jpg,MEL,8,55.0,female,1,upper extremity
+ISIC_0055969.jpg,BCC,1,60.0,female,6,lower extremity
+ISIC_0065022.jpg,MEL,8,45.0,male,7,anterior torso
+ISIC_0064052.jpg,NV,6,35.0,female,7,anterior torso
+ISIC_0071008.jpg,BCC,1,45.0,male,7,anterior torso
+ISIC_0012704_downsampled.jpg,SK,2,65.0,female,7,anterior torso
+ISIC_0071108.jpg,AK,0,70.0,female,6,lower extremity
+ISIC_0071177.jpg,NV,6,35.0,female,7,anterior torso
+ISIC_0060509.jpg,AK,0,70.0,male,5,head/neck
+ISIC_0025582.jpg,NV,6,60.0,male,7,torso
+ISIC_0072171.jpg,MEL,8,40.0,female,5,head/neck
+ISIC_0025098.jpg,NV,6,55.0,male,7,torso
+ISIC_0064754.jpg,BCC,1,50.0,female,5,head/neck
+ISIC_0063606.jpg,MEL,8,80.0,female,7,anterior torso
+ISIC_0032339.jpg,NV,6,55.0,female,7,torso
+ISIC_0026774.jpg,MEL,8,70.0,female,1,upper extremity
+ISIC_0072356.jpg,BCC,1,45.0,male,7,anterior torso
+ISIC_0057347.jpg,BCC,1,50.0,female,7,anterior torso
+ISIC_0063980.jpg,MEL,8,40.0,female,5,head/neck
+ISIC_0072631.jpg,MEL,8,40.0,female,7,anterior torso
+ISIC_0056257.jpg,NV,6,35.0,male,6,lower extremity
+ISIC_0059985.jpg,AK,0,50.0,female,6,lower extremity
+ISIC_0028004.jpg,NV,6,60.0,male,7,torso
+ISIC_0014937_downsampled.jpg,NV,6,25.0,female,1,upper extremity
+ISIC_0030103.jpg,NV,6,50.0,male,7,torso
+ISIC_0025888.jpg,NV,6,35.0,female,6,lower extremity
+ISIC_0055664.jpg,NV,6,35.0,female,6,lower extremity
+ISIC_0056728.jpg,MEL,8,70.0,male,2,palms/soles
+ISIC_0013055_downsampled.jpg,NV,6,45.0,female,6,lower extremity
+ISIC_0013395_downsampled.jpg,NV,6,45.0,male,7,posterior torso
+ISIC_0030850.jpg,NV,6,45.0,male,7,anterior torso
+ISIC_0013636_downsampled.jpg,MEL,8,55.0,female,5,head/neck
+ISIC_0072576.jpg,NV,6,40.0,female,7,anterior torso
+ISIC_0030396.jpg,SK,2,50.0,female,7,anterior torso
+ISIC_0068621.jpg,NV,6,25.0,male,5,head/neck
+ISIC_0025395.jpg,NV,6,55.0,female,6,lower extremity
+ISIC_0068082.jpg,NV,6,40.0,male,7,anterior torso
+ISIC_0067420.jpg,NV,6,25.0,male,7,anterior torso
+ISIC_0067240.jpg,MEL,8,70.0,male,7,anterior torso
+ISIC_0066218.jpg,SK,2,80.0,female,7,anterior torso
+ISIC_0000521_downsampled.jpg,MEL,8,50.0,unknown,7,anterior torso
+ISIC_0067155.jpg,NV,6,40.0,male,6,lower extremity
+ISIC_0063756.jpg,BCC,1,60.0,male,6,lower extremity
+ISIC_0031530.jpg,NV,6,55.0,male,7,posterior torso
+ISIC_0031246.jpg,NV,6,55.0,female,7,anterior torso
+ISIC_0012693_downsampled.jpg,SK,2,65.0,female,5,head/neck
+ISIC_0026607.jpg,SK,2,50.0,male,7,anterior torso
+ISIC_0071900.jpg,SK,2,45.0,male,5,head/neck
+ISIC_0029185.jpg,NV,6,40.0,male,7,anterior torso
+ISIC_0066860.jpg,MEL,8,85.0,male,7,anterior torso
+ISIC_0028609.jpg,NV,6,55.0,female,6,lower extremity
+ISIC_0026796.jpg,MEL,8,70.0,male,7,posterior torso
+ISIC_0030042.jpg,NV,6,45.0,female,7,anterior torso
+ISIC_0072202.jpg,NV,6,45.0,male,7,anterior torso
+ISIC_0061381.jpg,NV,6,40.0,female,6,lower extremity
+ISIC_0068832.jpg,BCC,1,60.0,male,6,lower extremity
+ISIC_0064511.jpg,SK,2,60.0,female,5,head/neck
+ISIC_0025795.jpg,NV,6,35.0,female,7,posterior torso
+ISIC_0055137.jpg,BCC,1,65.0,male,5,head/neck
+ISIC_0030917.jpg,NV,6,25.0,female,6,lower extremity
+ISIC_0025472.jpg,MEL,8,55.0,male,7,posterior torso
+ISIC_0031613.jpg,NV,6,65.0,female,6,lower extremity
+ISIC_0033949.jpg,SK,2,70.0,male,7,posterior torso
+ISIC_0072318.jpg,BCC,1,80.0,male,5,head/neck
+ISIC_0024478.jpg,NV,6,45.0,female,7,torso
+ISIC_0030565.jpg,SK,2,65.0,male,5,head/neck
+ISIC_0031940.jpg,SCC,3,55.0,female,6,lower extremity
+ISIC_0072063.jpg,MEL,8,55.0,female,6,lower extremity
+ISIC_0062878.jpg,AK,0,55.0,male,5,head/neck
+ISIC_0067780.jpg,BCC,1,60.0,female,5,head/neck
+ISIC_0028336.jpg,SK,2,60.0,male,7,anterior torso
+ISIC_0026228.jpg,NV,6,55.0,female,7,posterior torso
+ISIC_0028801.jpg,NV,6,50.0,male,7,anterior torso
+ISIC_0073161.jpg,BCC,1,40.0,male,7,anterior torso
+ISIC_0064265.jpg,NV,6,10.0,male,2,palms/soles
+ISIC_0030492.jpg,NV,6,65.0,female,7,posterior torso
+ISIC_0026648.jpg,NV,6,55.0,female,6,lower extremity
+ISIC_0025794.jpg,NV,6,45.0,female,7,posterior torso
+ISIC_0030557.jpg,NV,6,25.0,male,7,posterior torso
+ISIC_0032019.jpg,MEL,8,50.0,male,7,torso
+ISIC_0067138.jpg,NV,6,65.0,male,7,anterior torso
+ISIC_0067272.jpg,BCC,1,75.0,male,5,head/neck
+ISIC_0030466.jpg,NV,6,25.0,male,7,anterior torso
+ISIC_0067180.jpg,AK,0,75.0,male,5,head/neck
+ISIC_0026748.jpg,NV,6,75.0,male,6,lower extremity
+ISIC_0028911.jpg,NV,6,40.0,female,7,torso
+ISIC_0027356.jpg,NV,6,35.0,male,5,head/neck
+ISIC_0064439.jpg,BCC,1,85.0,male,7,anterior torso
+ISIC_0071113.jpg,BCC,1,85.0,male,7,anterior torso
+ISIC_0063091.jpg,BCC,1,50.0,male,7,anterior torso
+ISIC_0012246_downsampled.jpg,NV,6,20.0,female,7,torso
+ISIC_0030581.jpg,NV,6,5.0,female,1,upper extremity
+ISIC_0053993.jpg,BCC,1,25.0,male,7,anterior torso
+ISIC_0025088.jpg,NV,6,30.0,female,7,anterior torso
+ISIC_0014647_downsampled.jpg,SK,2,75.0,male,5,head/neck
+ISIC_0030501.jpg,MEL,8,50.0,male,7,posterior torso
+ISIC_0032226.jpg,NV,6,50.0,male,6,lower extremity
+ISIC_0025796.jpg,NV,6,75.0,male,7,anterior torso
+ISIC_0031228.jpg,AK,0,65.0,male,5,head/neck
+ISIC_0071376.jpg,NV,6,35.0,female,7,anterior torso
+ISIC_0030500.jpg,NV,6,40.0,female,7,anterior torso
+ISIC_0054954.jpg,MEL,8,85.0,male,6,lower extremity
+ISIC_0030970.jpg,MEL,8,50.0,female,6,lower extremity
+ISIC_0027908.jpg,NV,6,25.0,male,1,upper extremity
+ISIC_0012855_downsampled.jpg,NV,6,60.0,female,6,lower extremity
+ISIC_0068623.jpg,NV,6,45.0,female,7,anterior torso
+ISIC_0029170.jpg,MEL,8,65.0,female,6,lower extremity
+ISIC_0032143.jpg,NV,6,60.0,female,7,posterior torso
+ISIC_0062135.jpg,NV,6,25.0,male,6,lower extremity
+ISIC_0032769.jpg,NV,6,55.0,male,1,upper extremity
+ISIC_0070410.jpg,MEL,8,60.0,female,6,lower extremity
+ISIC_0029391.jpg,BCC,1,65.0,female,7,anterior torso
+ISIC_0027396.jpg,NV,6,35.0,male,6,lower extremity
+ISIC_0066322.jpg,BCC,1,75.0,male,7,anterior torso
+ISIC_0060797.jpg,SK,2,65.0,female,6,lower extremity
+ISIC_0059447.jpg,BCC,1,70.0,male,5,head/neck
+ISIC_0070021.jpg,BCC,1,60.0,male,7,anterior torso
+ISIC_0063861.jpg,NV,6,40.0,male,7,anterior torso
+ISIC_0072776.jpg,BCC,1,60.0,female,6,lower extremity
+ISIC_0010231.jpg,MEL,8,85.0,female,7,posterior torso
+ISIC_0063111.jpg,BCC,1,30.0,female,6,lower extremity
+ISIC_0064626.jpg,BCC,1,60.0,male,5,head/neck
+ISIC_0026960.jpg,NV,6,55.0,male,7,torso
+ISIC_0009564_downsampled.jpg,NV,6,15.0,female,7,torso
+ISIC_0027454.jpg,SK,2,75.0,female,7,posterior torso
+ISIC_0056052.jpg,AK,0,65.0,female,5,head/neck
+ISIC_0031463.jpg,NV,6,45.0,male,7,posterior torso
+ISIC_0012814_downsampled.jpg,NV,6,40.0,female,7,posterior torso
+ISIC_0055955.jpg,SK,2,75.0,female,6,lower extremity
+ISIC_0028749.jpg,SK,2,65.0,male,5,head/neck
+ISIC_0003005_downsampled.jpg,NV,6,15.0,female,7,torso
+ISIC_0031092.jpg,NV,6,35.0,female,7,anterior torso
+ISIC_0028360.jpg,NV,6,35.0,female,7,posterior torso
+ISIC_0059111.jpg,BCC,1,45.0,male,7,anterior torso
+ISIC_0068865.jpg,NV,6,45.0,female,1,upper extremity
+ISIC_0056212.jpg,SCC,3,75.0,male,1,upper extremity
+ISIC_0028305.jpg,NV,6,50.0,female,6,lower extremity
+ISIC_0028096.jpg,NV,6,70.0,male,7,torso
+ISIC_0029913.jpg,MEL,8,30.0,female,6,lower extremity
+ISIC_0032098.jpg,MEL,8,35.0,female,5,head/neck
+ISIC_0056409.jpg,MEL,8,50.0,male,1,upper extremity
+ISIC_0067490.jpg,AK,0,80.0,male,1,upper extremity
+ISIC_0030579.jpg,DF,5,55.0,female,1,upper extremity
+ISIC_0031077.jpg,MEL,8,65.0,female,7,torso
+ISIC_0065723.jpg,MEL,8,80.0,female,5,head/neck
+ISIC_0032662.jpg,MEL,8,70.0,male,7,anterior torso
+ISIC_0000037_downsampled.jpg,NV,6,70.0,male,7,posterior torso
+ISIC_0072888.jpg,SK,2,75.0,male,7,anterior torso
+ISIC_0025681.jpg,NV,6,70.0,male,1,upper extremity
+ISIC_0029845.jpg,NV,6,40.0,male,7,torso
+ISIC_0056660.jpg,MEL,8,50.0,male,7,anterior torso
+ISIC_0030730.jpg,AK,0,60.0,female,5,head/neck
+ISIC_0015071_downsampled.jpg,MEL,8,35.0,female,1,upper extremity
+ISIC_0073045.jpg,AK,0,40.0,male,5,head/neck
+ISIC_0071673.jpg,MEL,8,60.0,male,7,anterior torso
+ISIC_0028179.jpg,NV,6,55.0,male,6,lower extremity
+ISIC_0060427.jpg,NV,6,40.0,male,1,upper extremity
+ISIC_0027111.jpg,NV,6,65.0,female,6,lower extremity
+ISIC_0033897.jpg,NV,6,45.0,male,1,upper extremity
+ISIC_0064097.jpg,NV,6,35.0,male,1,upper extremity
+ISIC_0000490.jpg,NV,6,50.0,unknown,7,posterior torso
+ISIC_0024610.jpg,NV,6,45.0,male,6,lower extremity
+ISIC_0028044.jpg,NV,6,45.0,female,7,anterior torso
+ISIC_0059746.jpg,BCC,1,80.0,female,1,upper extremity
+ISIC_0062162.jpg,MEL,8,40.0,male,5,head/neck
+ISIC_0032486.jpg,SK,2,70.0,female,6,lower extremity
+ISIC_0062684.jpg,MEL,8,60.0,female,5,head/neck
+ISIC_0063160.jpg,BCC,1,40.0,male,7,anterior torso
+ISIC_0012827_downsampled.jpg,NV,6,45.0,female,7,posterior torso
+ISIC_0072748.jpg,MEL,8,70.0,male,7,anterior torso
+ISIC_0069410.jpg,MEL,8,60.0,male,6,lower extremity
+ISIC_0062313.jpg,MEL,8,55.0,female,6,lower extremity
+ISIC_0067222.jpg,NV,6,40.0,female,6,lower extremity
+ISIC_0060674.jpg,SK,2,30.0,female,6,lower extremity
+ISIC_0014394_downsampled.jpg,NV,6,70.0,male,7,posterior torso
+ISIC_0025699.jpg,SK,2,65.0,female,6,lower extremity
+ISIC_0057182.jpg,SCC,3,80.0,male,5,head/neck
+ISIC_0014809_downsampled.jpg,MEL,8,70.0,female,7,posterior torso
+ISIC_0030058.jpg,NV,6,30.0,female,1,upper extremity
+ISIC_0030233.jpg,BCC,1,80.0,male,7,anterior torso
+ISIC_0034196.jpg,VASC,4,80.0,male,6,lower extremity
+ISIC_0028280.jpg,NV,6,55.0,male,1,upper extremity
+ISIC_0031649.jpg,NV,6,50.0,female,5,head/neck
+ISIC_0060310.jpg,BCC,1,65.0,male,5,head/neck
+ISIC_0058168.jpg,MEL,8,50.0,male,1,upper extremity
+ISIC_0000016.jpg,NV,6,55.0,female,7,anterior torso
+ISIC_0065846.jpg,BCC,1,80.0,male,5,head/neck
+ISIC_0060411.jpg,SK,2,40.0,male,5,head/neck
+ISIC_0027262.jpg,NV,6,45.0,female,6,lower extremity
+ISIC_0033916.jpg,NV,6,85.0,male,7,torso
+ISIC_0032681.jpg,SK,2,70.0,male,5,head/neck
+ISIC_0030355.jpg,NV,6,0.0,male,6,lower extremity
+ISIC_0033155.jpg,NV,6,35.0,male,7,posterior torso
+ISIC_0025004.jpg,NV,6,35.0,male,7,posterior torso
+ISIC_0030701.jpg,NV,6,40.0,female,7,torso
+ISIC_0027995.jpg,NV,6,45.0,male,7,posterior torso
+ISIC_0057391.jpg,NV,6,15.0,male,5,head/neck
+ISIC_0010445.jpg,NV,6,5.0,female,1,upper extremity
+ISIC_0055716.jpg,BCC,1,70.0,female,7,anterior torso
+ISIC_0064806.jpg,NV,6,60.0,female,7,anterior torso
+ISIC_0070624.jpg,NV,6,40.0,female,6,lower extremity
+ISIC_0070163.jpg,MEL,8,70.0,male,5,head/neck
+ISIC_0032684.jpg,MEL,8,50.0,male,7,anterior torso
+ISIC_0057042.jpg,AK,0,70.0,male,5,head/neck
+ISIC_0055665.jpg,MEL,8,45.0,female,7,anterior torso
+ISIC_0072858.jpg,NV,6,60.0,male,7,anterior torso
+ISIC_0024388.jpg,NV,6,30.0,male,7,torso
+ISIC_0027213.jpg,NV,6,65.0,male,7,torso
+ISIC_0029883.jpg,NV,6,45.0,female,1,upper extremity
+ISIC_0030614.jpg,NV,6,50.0,male,7,torso
+ISIC_0067017.jpg,NV,6,45.0,female,7,anterior torso
+ISIC_0059246.jpg,BCC,1,80.0,male,7,anterior torso
+ISIC_0013977_downsampled.jpg,SK,2,65.0,female,5,head/neck
+ISIC_0068718.jpg,NV,6,35.0,male,6,lower extremity
+ISIC_0029029.jpg,SK,2,60.0,female,1,upper extremity
+ISIC_0055749.jpg,NV,6,30.0,female,7,anterior torso
+ISIC_0027577.jpg,SCC,3,55.0,male,5,head/neck
+ISIC_0068379.jpg,NV,6,35.0,male,7,anterior torso
+ISIC_0066331.jpg,BCC,1,80.0,male,5,head/neck
+ISIC_0060718.jpg,MEL,8,65.0,male,1,upper extremity
+ISIC_0071024.jpg,VASC,4,75.0,male,1,upper extremity
+ISIC_0026789.jpg,DF,5,65.0,male,6,lower extremity
+ISIC_0061770.jpg,MEL,8,60.0,female,7,anterior torso
+ISIC_0026636.jpg,NV,6,70.0,male,7,posterior torso
+ISIC_0013165_downsampled.jpg,SK,2,45.0,female,7,posterior torso
+ISIC_0067550.jpg,NV,6,30.0,female,1,upper extremity
+ISIC_0064759.jpg,MEL,8,70.0,female,1,upper extremity
+ISIC_0032267.jpg,NV,6,45.0,female,1,upper extremity
+ISIC_0031302.jpg,NV,6,20.0,female,1,upper extremity
+ISIC_0014108_downsampled.jpg,MEL,8,80.0,male,7,posterior torso
+ISIC_0026914.jpg,NV,6,55.0,male,7,posterior torso
+ISIC_0034266.jpg,NV,6,50.0,unknown,7,torso
+ISIC_0031397.jpg,NV,6,60.0,male,7,anterior torso
+ISIC_0054223.jpg,AK,0,70.0,male,5,head/neck
+ISIC_0065050.jpg,BCC,1,50.0,female,5,head/neck
+ISIC_0063650.jpg,NV,6,60.0,female,6,lower extremity
+ISIC_0072732.jpg,BCC,1,55.0,female,7,anterior torso
+ISIC_0064286.jpg,BCC,1,85.0,female,6,lower extremity
+ISIC_0013356_downsampled.jpg,NV,6,55.0,female,7,posterior torso
+ISIC_0071354.jpg,NV,6,50.0,female,6,lower extremity
+ISIC_0032540.jpg,NV,6,30.0,male,7,anterior torso
+ISIC_0067758.jpg,MEL,8,75.0,female,7,anterior torso
+ISIC_0054831.jpg,NV,6,50.0,male,7,anterior torso
+ISIC_0025123.jpg,NV,6,20.0,female,7,posterior torso
+ISIC_0069767.jpg,NV,6,80.0,male,7,anterior torso
+ISIC_0029921.jpg,NV,6,30.0,male,7,anterior torso
+ISIC_0011294.jpg,NV,6,60.0,male,7,posterior torso
+ISIC_0056188.jpg,NV,6,30.0,female,7,anterior torso
+ISIC_0054977.jpg,BCC,1,70.0,male,5,head/neck
+ISIC_0055755.jpg,SK,2,30.0,male,1,upper extremity
+ISIC_0025273.jpg,NV,6,45.0,male,1,upper extremity
+ISIC_0068919.jpg,NV,6,40.0,female,7,anterior torso
+ISIC_0027392.jpg,SK,2,85.0,male,1,upper extremity
+ISIC_0028388.jpg,SK,2,50.0,female,5,head/neck
+ISIC_0012495_downsampled.jpg,NV,6,40.0,male,7,torso
+ISIC_0067117.jpg,SK,2,55.0,male,6,lower extremity
+ISIC_0068768.jpg,MEL,8,65.0,male,5,head/neck
+ISIC_0066332.jpg,MEL,8,75.0,female,6,lower extremity
+ISIC_0030420.jpg,NV,6,30.0,male,7,anterior torso
+ISIC_0027313.jpg,NV,6,75.0,male,6,lower extremity
+ISIC_0026637.jpg,SK,2,45.0,male,1,upper extremity
+ISIC_0070938.jpg,MEL,8,40.0,female,1,upper extremity
+ISIC_0031983.jpg,NV,6,60.0,male,6,lower extremity
+ISIC_0010351.jpg,NV,6,25.0,female,5,head/neck
+ISIC_0063860.jpg,BCC,1,70.0,female,7,anterior torso
+ISIC_0028132.jpg,SCC,3,80.0,female,5,head/neck
+ISIC_0029025.jpg,AK,0,70.0,male,5,head/neck
+ISIC_0053725.jpg,MEL,8,30.0,female,5,head/neck
+ISIC_0069191.jpg,BCC,1,75.0,female,1,upper extremity
+ISIC_0060649.jpg,NV,6,25.0,male,7,anterior torso
+ISIC_0071096.jpg,NV,6,35.0,female,1,upper extremity
+ISIC_0028683.jpg,NV,6,50.0,female,7,torso
+ISIC_0013320_downsampled.jpg,NV,6,70.0,male,6,lower extremity
+ISIC_0072030.jpg,MEL,8,85.0,female,7,anterior torso
+ISIC_0069050.jpg,NV,6,55.0,male,2,palms/soles
+ISIC_0009973.jpg,NV,6,45.0,male,1,upper extremity
+ISIC_0031051.jpg,NV,6,40.0,male,7,anterior torso
+ISIC_0071250.jpg,BCC,1,65.0,male,6,lower extremity
+ISIC_0029111.jpg,NV,6,45.0,female,7,posterior torso
+ISIC_0025413.jpg,MEL,8,50.0,male,7,posterior torso
+ISIC_0059435.jpg,MEL,8,35.0,female,6,lower extremity
+ISIC_0013796_downsampled.jpg,NV,6,45.0,female,6,lower extremity
+ISIC_0024310.jpg,MEL,8,60.0,male,7,anterior torso
+ISIC_0033823.jpg,NV,6,35.0,female,7,torso
+ISIC_0026186.jpg,NV,6,45.0,male,6,lower extremity
+ISIC_0071007.jpg,AK,0,85.0,male,5,head/neck
+ISIC_0063923.jpg,BCC,1,85.0,male,7,anterior torso
+ISIC_0026609.jpg,NV,6,40.0,female,7,posterior torso
+ISIC_0063782.jpg,NV,6,85.0,female,6,lower extremity
+ISIC_0029087.jpg,NV,6,60.0,male,1,upper extremity
+ISIC_0055223.jpg,BCC,1,40.0,male,1,upper extremity
+ISIC_0073246.jpg,BCC,1,80.0,male,7,anterior torso
+ISIC_0034210.jpg,NV,6,55.0,female,7,torso
+ISIC_0063986.jpg,NV,6,70.0,male,5,head/neck
+ISIC_0033667.jpg,NV,6,65.0,male,6,lower extremity
+ISIC_0073039.jpg,SK,2,55.0,female,7,anterior torso
+ISIC_0014725_downsampled.jpg,NV,6,25.0,female,7,posterior torso
+ISIC_0032490.jpg,NV,6,45.0,male,7,posterior torso
+ISIC_0065167.jpg,BCC,1,85.0,male,6,lower extremity
+ISIC_0070009.jpg,MEL,8,50.0,female,7,anterior torso
+ISIC_0032024.jpg,SK,2,65.0,female,1,upper extremity
+ISIC_0029105.jpg,NV,6,45.0,female,5,head/neck
+ISIC_0067835.jpg,NV,6,50.0,female,2,palms/soles
+ISIC_0024607.jpg,NV,6,50.0,female,6,lower extremity
+ISIC_0032178.jpg,NV,6,65.0,male,7,torso
+ISIC_0060348.jpg,DF,5,45.0,male,6,lower extremity
+ISIC_0061475.jpg,MEL,8,85.0,female,5,head/neck
+ISIC_0054500.jpg,MEL,8,45.0,male,6,lower extremity
+ISIC_0011338.jpg,NV,6,55.0,male,6,lower extremity
+ISIC_0060713.jpg,MEL,8,40.0,female,7,anterior torso
+ISIC_0013065_downsampled.jpg,SK,2,65.0,female,7,posterior torso
+ISIC_0032321.jpg,NV,6,35.0,male,6,lower extremity
+ISIC_0055410.jpg,NV,6,40.0,female,7,anterior torso
+ISIC_0070248.jpg,MEL,8,50.0,female,6,lower extremity
+ISIC_0057925.jpg,NV,6,20.0,male,7,anterior torso
+ISIC_0027277.jpg,MEL,8,40.0,male,6,lower extremity
+ISIC_0032186.jpg,NV,6,65.0,male,7,posterior torso
+ISIC_0034020.jpg,NV,6,35.0,female,7,anterior torso
+ISIC_0027872.jpg,MEL,8,55.0,female,6,lower extremity
+ISIC_0025950.jpg,NV,6,25.0,male,7,posterior torso
+ISIC_0027654.jpg,NV,6,20.0,female,7,anterior torso
+ISIC_0011360.jpg,NV,6,55.0,male,7,posterior torso
+ISIC_0030643.jpg,NV,6,50.0,male,7,torso
+ISIC_0070498.jpg,SK,2,50.0,male,6,lower extremity
+ISIC_0064831.jpg,NV,6,50.0,female,7,anterior torso
+ISIC_0057155.jpg,MEL,8,50.0,male,7,anterior torso
+ISIC_0033473.jpg,MEL,8,65.0,male,7,posterior torso
+ISIC_0029131.jpg,NV,6,35.0,male,7,torso
+ISIC_0033440.jpg,MEL,8,70.0,male,7,torso
+ISIC_0024472.jpg,BCC,1,85.0,male,6,lower extremity
+ISIC_0073119.jpg,MEL,8,45.0,female,7,anterior torso
+ISIC_0010558.jpg,NV,6,30.0,male,6,lower extremity
+ISIC_0058856.jpg,SK,2,80.0,female,5,head/neck
+ISIC_0071218.jpg,MEL,8,85.0,female,5,head/neck
+ISIC_0029204.jpg,NV,6,50.0,female,7,torso
+ISIC_0030640.jpg,NV,6,45.0,male,5,head/neck
+ISIC_0032023.jpg,NV,6,55.0,female,6,lower extremity
+ISIC_0031427.jpg,NV,6,45.0,female,6,lower extremity
+ISIC_0069016.jpg,SK,2,40.0,female,5,head/neck
+ISIC_0010439.jpg,NV,6,30.0,female,1,upper extremity
+ISIC_0026812.jpg,NV,6,60.0,male,7,anterior torso
+ISIC_0031184.jpg,NV,6,40.0,female,1,upper extremity
+ISIC_0058821.jpg,SK,2,85.0,female,5,head/neck
+ISIC_0027451.jpg,SK,2,75.0,female,7,anterior torso
+ISIC_0055721.jpg,BCC,1,85.0,male,1,upper extremity
+ISIC_0033925.jpg,MEL,8,65.0,female,1,upper extremity
+ISIC_0009948.jpg,NV,6,40.0,male,7,posterior torso
+ISIC_0053472.jpg,BCC,1,55.0,male,5,head/neck
+ISIC_0062659.jpg,BCC,1,80.0,male,5,head/neck
+ISIC_0034096.jpg,NV,6,45.0,female,7,torso
+ISIC_0066336.jpg,MEL,8,75.0,male,7,anterior torso
+ISIC_0065416.jpg,AK,0,40.0,female,5,head/neck
+ISIC_0034070.jpg,SK,2,45.0,male,1,upper extremity
+ISIC_0058339.jpg,BCC,1,70.0,male,1,upper extremity
+ISIC_0070789.jpg,BCC,1,85.0,female,7,anterior torso
+ISIC_0025117.jpg,NV,6,25.0,female,1,upper extremity
+ISIC_0054998.jpg,NV,6,70.0,female,7,anterior torso
+ISIC_0058165.jpg,NV,6,60.0,male,7,anterior torso
+ISIC_0024656.jpg,NV,6,65.0,male,6,lower extremity
+ISIC_0026773.jpg,NV,6,45.0,female,6,lower extremity
+ISIC_0058926.jpg,MEL,8,45.0,female,7,anterior torso
+ISIC_0013795_downsampled.jpg,NV,6,45.0,female,6,lower extremity
+ISIC_0057198.jpg,SCC,3,70.0,female,7,anterior torso
+ISIC_0072394.jpg,NV,6,30.0,male,7,anterior torso
+ISIC_0055728.jpg,BCC,1,85.0,male,7,anterior torso
+ISIC_0024741.jpg,SK,2,75.0,male,6,lower extremity
+ISIC_0026237.jpg,NV,6,25.0,female,6,lower extremity
+ISIC_0067666.jpg,MEL,8,60.0,male,7,anterior torso
+ISIC_0031039.jpg,NV,6,30.0,female,7,posterior torso
+ISIC_0025559.jpg,NV,6,45.0,male,6,lower extremity
+ISIC_0053700.jpg,MEL,8,45.0,female,7,anterior torso
+ISIC_0028898.jpg,MEL,8,60.0,female,6,lower extremity
+ISIC_0029186.jpg,NV,6,35.0,male,6,lower extremity
+ISIC_0014441_downsampled.jpg,NV,6,55.0,female,1,upper extremity
+ISIC_0026170.jpg,NV,6,60.0,female,6,lower extremity
+ISIC_0028671.jpg,BCC,1,55.0,male,7,posterior torso
+ISIC_0069232.jpg,SK,2,65.0,female,7,anterior torso
+ISIC_0057522.jpg,NV,6,60.0,male,7,anterior torso
+ISIC_0069843.jpg,BCC,1,50.0,female,5,head/neck
+ISIC_0013778_downsampled.jpg,NV,6,55.0,male,7,posterior torso
+ISIC_0028846.jpg,SK,2,45.0,male,5,head/neck
+ISIC_0027293.jpg,NV,6,15.0,female,5,head/neck
+ISIC_0059799.jpg,AK,0,70.0,male,6,lower extremity
+ISIC_0053807.jpg,NV,6,15.0,female,1,upper extremity
+ISIC_0053892.jpg,AK,0,50.0,female,5,head/neck
+ISIC_0064089.jpg,MEL,8,60.0,female,5,head/neck
+ISIC_0028029.jpg,MEL,8,75.0,female,5,head/neck
+ISIC_0030890.jpg,NV,6,20.0,female,7,posterior torso
+ISIC_0069235.jpg,BCC,1,55.0,male,5,head/neck
+ISIC_0063163.jpg,SK,2,55.0,female,7,anterior torso
+ISIC_0000346.jpg,NV,6,50.0,female,7,anterior torso
+ISIC_0061778.jpg,BCC,1,20.0,male,5,head/neck
+ISIC_0032459.jpg,NV,6,45.0,female,6,lower extremity
+ISIC_0014428_downsampled.jpg,MEL,8,55.0,female,7,anterior torso
+ISIC_0013891_downsampled.jpg,NV,6,50.0,male,7,anterior torso
+ISIC_0027911.jpg,NV,6,50.0,male,6,lower extremity
+ISIC_0060139.jpg,BCC,1,50.0,female,7,anterior torso
+ISIC_0065622.jpg,MEL,8,60.0,female,6,lower extremity
+ISIC_0072204.jpg,MEL,8,55.0,female,5,head/neck
+ISIC_0031308.jpg,NV,6,25.0,female,6,lower extremity
+ISIC_0065628.jpg,AK,0,60.0,female,5,head/neck
+ISIC_0055630.jpg,NV,6,50.0,unknown,7,torso
+ISIC_0030858.jpg,NV,6,60.0,male,7,torso
+ISIC_0060781.jpg,NV,6,35.0,female,7,anterior torso
+ISIC_0014749_downsampled.jpg,NV,6,35.0,female,6,lower extremity
+ISIC_0031800.jpg,NV,6,5.0,male,1,upper extremity
+ISIC_0029330.jpg,NV,6,50.0,female,7,posterior torso
+ISIC_0061312.jpg,NV,6,55.0,male,7,anterior torso
+ISIC_0028519.jpg,MEL,8,80.0,male,7,posterior torso
+ISIC_0027821.jpg,NV,6,40.0,male,1,upper extremity
+ISIC_0031560.jpg,NV,6,55.0,male,1,upper extremity
+ISIC_0068409.jpg,SCC,3,75.0,male,6,lower extremity
+ISIC_0071356.jpg,SK,2,65.0,male,7,anterior torso
+ISIC_0026571.jpg,MEL,8,40.0,female,7,anterior torso
+ISIC_0013830_downsampled.jpg,NV,6,55.0,female,6,lower extremity
+ISIC_0028269.jpg,NV,6,45.0,female,7,posterior torso
+ISIC_0033040.jpg,NV,6,30.0,male,7,posterior torso
+ISIC_0069590.jpg,NV,6,45.0,male,2,palms/soles
+ISIC_0028736.jpg,NV,6,55.0,male,7,anterior torso
+ISIC_0014181_downsampled.jpg,MEL,8,70.0,male,1,upper extremity
+ISIC_0067043.jpg,MEL,8,85.0,male,5,head/neck
+ISIC_0033562.jpg,MEL,8,60.0,male,5,head/neck
+ISIC_0010362.jpg,NV,6,25.0,male,7,posterior torso
+ISIC_0000403_downsampled.jpg,NV,6,50.0,unknown,7,torso
+ISIC_0013204_downsampled.jpg,NV,6,45.0,male,7,lateral torso
+ISIC_0067970.jpg,NV,6,40.0,female,5,head/neck
+ISIC_0028876.jpg,SK,2,75.0,female,5,head/neck
+ISIC_0060044.jpg,NV,6,35.0,female,7,anterior torso
+ISIC_0028670.jpg,BCC,1,65.0,male,7,torso
+ISIC_0057578.jpg,NV,6,65.0,female,7,anterior torso
+ISIC_0058072.jpg,NV,6,50.0,female,7,torso
+ISIC_0062331.jpg,NV,6,45.0,male,6,lower extremity
+ISIC_0009188_downsampled.jpg,NV,6,15.0,male,7,torso
+ISIC_0014635_downsampled.jpg,SK,2,70.0,male,7,torso
+ISIC_0026937.jpg,NV,6,45.0,female,6,lower extremity
+ISIC_0027095.jpg,NV,6,50.0,male,6,lower extremity
+ISIC_0057587.jpg,BCC,1,80.0,male,7,anterior torso
+ISIC_0033406.jpg,NV,6,50.0,female,6,lower extremity
+ISIC_0072011.jpg,NV,6,25.0,male,7,anterior torso
+ISIC_0031053.jpg,NV,6,30.0,male,6,lower extremity
+ISIC_0032797.jpg,MEL,8,70.0,male,1,upper extremity
+ISIC_0029193.jpg,BCC,1,85.0,male,5,head/neck
+ISIC_0031804.jpg,NV,6,55.0,male,7,posterior torso
+ISIC_0067863.jpg,SK,2,65.0,male,6,lower extremity
+ISIC_0033472.jpg,NV,6,35.0,female,7,torso
+ISIC_0029108.jpg,SK,2,35.0,female,5,head/neck
+ISIC_0057275.jpg,BCC,1,30.0,female,5,head/neck
+ISIC_0069898.jpg,AK,0,75.0,female,5,head/neck
+ISIC_0026390.jpg,NV,6,30.0,female,7,posterior torso
+ISIC_0071045.jpg,MEL,8,40.0,female,7,anterior torso
+ISIC_0030374.jpg,NV,6,60.0,male,7,anterior torso
+ISIC_0071090.jpg,SK,2,40.0,male,5,head/neck
+ISIC_0069561.jpg,NV,6,40.0,female,1,upper extremity
+ISIC_0066634.jpg,SK,2,70.0,male,5,head/neck
+ISIC_0060295.jpg,NV,6,35.0,female,7,anterior torso
+ISIC_0058110.jpg,NV,6,45.0,male,7,anterior torso
+ISIC_0029649.jpg,NV,6,55.0,male,6,lower extremity
+ISIC_0069299.jpg,BCC,1,75.0,female,5,head/neck
+ISIC_0025351.jpg,SK,2,75.0,male,1,upper extremity
+ISIC_0055382.jpg,SK,2,75.0,male,7,anterior torso
+ISIC_0064109.jpg,BCC,1,60.0,female,7,torso
+ISIC_0055814.jpg,BCC,1,75.0,male,7,torso
+ISIC_0071986.jpg,NV,6,40.0,female,5,head/neck
+ISIC_0070357.jpg,NV,6,40.0,male,6,lower extremity
+ISIC_0062593.jpg,AK,0,70.0,male,5,head/neck
+ISIC_0068488.jpg,MEL,8,75.0,male,5,head/neck
+ISIC_0057938.jpg,MEL,8,65.0,female,7,anterior torso
+ISIC_0027657.jpg,NV,6,40.0,male,7,torso
+ISIC_0024523.jpg,NV,6,45.0,female,7,torso
+ISIC_0068372.jpg,NV,6,55.0,male,7,anterior torso
+ISIC_0069545.jpg,NV,6,55.0,female,7,anterior torso
+ISIC_0063995.jpg,BCC,1,85.0,male,5,head/neck
+ISIC_0026266.jpg,MEL,8,60.0,male,1,upper extremity
+ISIC_0025317.jpg,MEL,8,80.0,male,1,upper extremity
+ISIC_0063655.jpg,MEL,8,50.0,female,7,torso
+ISIC_0072038.jpg,AK,0,80.0,male,5,head/neck
+ISIC_0025782.jpg,NV,6,35.0,female,7,torso
+ISIC_0009877.jpg,NV,6,25.0,female,6,lower extremity
+ISIC_0030021.jpg,DF,5,50.0,female,1,upper extremity
+ISIC_0069365.jpg,MEL,8,45.0,female,1,upper extremity
+ISIC_0027553.jpg,NV,6,80.0,male,1,upper extremity
+ISIC_0032282.jpg,NV,6,40.0,female,7,posterior torso
+ISIC_0033364.jpg,NV,6,25.0,female,6,lower extremity
+ISIC_0031682.jpg,NV,6,35.0,female,7,anterior torso
+ISIC_0030026.jpg,SK,2,75.0,female,5,head/neck
+ISIC_0026160.jpg,NV,6,55.0,female,7,torso
+ISIC_0014687_downsampled.jpg,NV,6,45.0,female,7,anterior torso
+ISIC_0062777.jpg,NV,6,40.0,female,5,head/neck
+ISIC_0059914.jpg,BCC,1,75.0,male,7,anterior torso
+ISIC_0010206.jpg,NV,6,15.0,male,7,anterior torso
+ISIC_0064751.jpg,BCC,1,65.0,female,5,head/neck
+ISIC_0016011_downsampled.jpg,NV,6,85.0,female,7,torso
+ISIC_0032161.jpg,NV,6,70.0,male,7,posterior torso
+ISIC_0031363.jpg,NV,6,45.0,male,7,posterior torso
+ISIC_0032100.jpg,NV,6,75.0,female,7,anterior torso
+ISIC_0009599_downsampled.jpg,NV,6,15.0,male,7,torso
+ISIC_0057529.jpg,NV,6,30.0,female,6,lower extremity
+ISIC_0054417.jpg,NV,6,40.0,male,7,anterior torso
+ISIC_0060576.jpg,BCC,1,50.0,male,5,head/neck
+ISIC_0056523.jpg,SK,2,70.0,female,5,head/neck
+ISIC_0033265.jpg,NV,6,35.0,female,7,posterior torso
+ISIC_0024789.jpg,NV,6,50.0,female,5,head/neck
+ISIC_0015241_downsampled.jpg,NV,6,60.0,male,7,posterior torso
+ISIC_0064279.jpg,MEL,8,35.0,female,6,lower extremity
+ISIC_0067868.jpg,SCC,3,85.0,male,5,head/neck
+ISIC_0031714.jpg,NV,6,70.0,male,5,head/neck
+ISIC_0066584.jpg,NV,6,70.0,male,5,head/neck
+ISIC_0056757.jpg,NV,6,80.0,female,6,lower extremity
+ISIC_0033683.jpg,NV,6,30.0,female,7,posterior torso
+ISIC_0072933.jpg,SCC,3,70.0,male,7,anterior torso
+ISIC_0026343.jpg,BCC,1,70.0,male,5,head/neck
+ISIC_0065668.jpg,MEL,8,75.0,female,2,palms/soles
+ISIC_0000221.jpg,NV,6,30.0,female,1,upper extremity
+ISIC_0030916.jpg,NV,6,50.0,male,7,torso
+ISIC_0030594.jpg,BCC,1,75.0,male,7,posterior torso
+ISIC_0024474.jpg,NV,6,65.0,male,7,torso
+ISIC_0031973.jpg,NV,6,5.0,male,5,head/neck
+ISIC_0026168.jpg,NV,6,35.0,male,7,anterior torso
+ISIC_0012435_downsampled.jpg,MEL,8,50.0,male,7,torso
+ISIC_0056671.jpg,BCC,1,55.0,male,7,anterior torso
+ISIC_0053482.jpg,NV,6,30.0,female,6,lower extremity
+ISIC_0031931.jpg,MEL,8,70.0,female,5,head/neck
+ISIC_0060135.jpg,BCC,1,80.0,male,7,anterior torso
+ISIC_0034246.jpg,MEL,8,65.0,female,6,lower extremity
+ISIC_0026809.jpg,NV,6,80.0,male,6,lower extremity
+ISIC_0065999.jpg,BCC,1,75.0,female,7,anterior torso
+ISIC_0069088.jpg,BCC,1,75.0,female,1,upper extremity
+ISIC_0013553_downsampled.jpg,NV,6,75.0,male,7,posterior torso
+ISIC_0064216.jpg,NV,6,70.0,male,7,anterior torso
+ISIC_0012538_downsampled.jpg,NV,6,40.0,male,7,torso
+ISIC_0063399.jpg,NV,6,75.0,female,2,palms/soles
+ISIC_0053982.jpg,NV,6,45.0,male,7,anterior torso
+ISIC_0067901.jpg,NV,6,45.0,male,6,lower extremity
+ISIC_0062275.jpg,NV,6,65.0,male,7,anterior torso
+ISIC_0031939.jpg,NV,6,45.0,female,7,torso
+ISIC_0026703.jpg,NV,6,65.0,male,7,torso
+ISIC_0063408.jpg,SK,2,70.0,male,7,anterior torso
+ISIC_0072608.jpg,NV,6,40.0,female,7,anterior torso
+ISIC_0057225.jpg,AK,0,75.0,female,5,head/neck
+ISIC_0066200.jpg,MEL,8,50.0,male,7,anterior torso
+ISIC_0061637.jpg,BCC,1,25.0,female,7,anterior torso
+ISIC_0053508.jpg,MEL,8,60.0,female,3,oral/genital
+ISIC_0024452.jpg,BCC,1,40.0,male,7,posterior torso
+ISIC_0011164.jpg,NV,6,65.0,female,7,posterior torso
+ISIC_0014568_downsampled.jpg,SK,2,60.0,male,7,torso
+ISIC_0013918_downsampled.jpg,SK,2,65.0,male,7,anterior torso
+ISIC_0059473.jpg,MEL,8,85.0,male,7,anterior torso
+ISIC_0057575.jpg,AK,0,60.0,female,5,head/neck
+ISIC_0067297.jpg,AK,0,30.0,female,7,anterior torso
+ISIC_0068740.jpg,NV,6,75.0,male,7,anterior torso
+ISIC_0025367.jpg,NV,6,35.0,female,7,torso
+ISIC_0057055.jpg,NV,6,25.0,male,7,anterior torso
+ISIC_0024644.jpg,MEL,8,85.0,female,6,lower extremity
+ISIC_0055249.jpg,MEL,8,35.0,female,6,lower extremity
+ISIC_0073068.jpg,AK,0,70.0,female,5,head/neck
+ISIC_0000003.jpg,NV,6,30.0,male,1,upper extremity
+ISIC_0063258.jpg,MEL,8,60.0,female,2,palms/soles
+ISIC_0025010.jpg,NV,6,70.0,male,7,torso
+ISIC_0066019.jpg,MEL,8,50.0,male,7,anterior torso
+ISIC_0064845.jpg,NV,6,75.0,female,2,palms/soles
+ISIC_0028216.jpg,NV,6,55.0,male,6,lower extremity
+ISIC_0024446.jpg,SK,2,45.0,male,1,upper extremity
+ISIC_0063734.jpg,SK,2,75.0,male,7,anterior torso
+ISIC_0070448.jpg,SK,2,50.0,male,7,anterior torso
+ISIC_0054640.jpg,NV,6,60.0,female,7,anterior torso
+ISIC_0063252.jpg,NV,6,55.0,female,5,head/neck
+ISIC_0058338.jpg,NV,6,55.0,male,7,anterior torso
+ISIC_0061385.jpg,AK,0,80.0,female,5,head/neck
+ISIC_0030009.jpg,NV,6,40.0,female,7,anterior torso
+ISIC_0056673.jpg,NV,6,75.0,male,6,lower extremity
+ISIC_0065986.jpg,NV,6,40.0,male,6,lower extremity
+ISIC_0069335.jpg,BCC,1,55.0,male,7,anterior torso
+ISIC_0065433.jpg,MEL,8,75.0,female,1,upper extremity
+ISIC_0014395_downsampled.jpg,MEL,8,70.0,male,5,head/neck
+ISIC_0062827.jpg,MEL,8,65.0,female,6,lower extremity
+ISIC_0067762.jpg,DF,5,45.0,male,6,lower extremity
+ISIC_0026563.jpg,NV,6,35.0,male,7,posterior torso
+ISIC_0031593.jpg,SK,2,65.0,male,1,upper extremity
+ISIC_0000326.jpg,NV,6,20.0,female,6,lower extremity
+ISIC_0029736.jpg,NV,6,35.0,male,7,posterior torso
+ISIC_0054597.jpg,NV,6,30.0,female,7,anterior torso
+ISIC_0061738.jpg,BCC,1,80.0,male,7,anterior torso
+ISIC_0058765.jpg,BCC,1,80.0,female,5,head/neck
+ISIC_0065612.jpg,AK,0,55.0,female,5,head/neck
+ISIC_0061988.jpg,SCC,3,65.0,male,7,anterior torso
+ISIC_0033433.jpg,NV,6,20.0,male,6,lower extremity
+ISIC_0032029.jpg,NV,6,55.0,female,1,upper extremity
+ISIC_0028669.jpg,NV,6,45.0,male,7,torso
+ISIC_0069772.jpg,AK,0,80.0,female,6,lower extremity
+ISIC_0069947.jpg,NV,6,45.0,male,7,anterior torso
+ISIC_0060230.jpg,AK,0,75.0,female,5,head/neck
+ISIC_0031881.jpg,NV,6,50.0,female,6,lower extremity
+ISIC_0011151.jpg,MEL,8,80.0,female,6,lower extremity
+ISIC_0009946.jpg,NV,6,40.0,male,7,posterior torso
+ISIC_0031310.jpg,MEL,8,50.0,female,6,lower extremity
+ISIC_0031431.jpg,SCC,3,55.0,female,5,head/neck
+ISIC_0024381.jpg,SK,2,75.0,female,7,posterior torso
+ISIC_0063434.jpg,NV,6,35.0,female,1,upper extremity
+ISIC_0062299.jpg,BCC,1,75.0,male,7,torso
+ISIC_0032055.jpg,NV,6,40.0,female,7,torso
+ISIC_0065235.jpg,MEL,8,55.0,male,6,lower extremity
+ISIC_0068451.jpg,BCC,1,55.0,male,5,head/neck
+ISIC_0000127_downsampled.jpg,NV,6,50.0,unknown,7,torso
+ISIC_0028764.jpg,MEL,8,65.0,female,7,posterior torso
+ISIC_0055844.jpg,AK,0,55.0,male,1,upper extremity
+ISIC_0071742.jpg,BCC,1,65.0,male,7,anterior torso
+ISIC_0024532.jpg,NV,6,40.0,male,7,anterior torso
+ISIC_0062765.jpg,MEL,8,65.0,male,7,anterior torso
+ISIC_0026111.jpg,NV,6,65.0,female,5,head/neck
+ISIC_0027427.jpg,NV,6,70.0,male,7,posterior torso
+ISIC_0072058.jpg,SK,2,70.0,male,7,anterior torso
+ISIC_0030091.jpg,NV,6,50.0,female,5,head/neck
+ISIC_0064663.jpg,NV,6,25.0,male,6,lower extremity
+ISIC_0032533.jpg,MEL,8,30.0,female,1,upper extremity
+ISIC_0025527.jpg,NV,6,65.0,male,6,lower extremity
+ISIC_0029303.jpg,NV,6,50.0,male,7,torso
+ISIC_0033612.jpg,MEL,8,55.0,female,1,upper extremity
+ISIC_0070596.jpg,MEL,8,45.0,male,7,anterior torso
+ISIC_0054357.jpg,NV,6,15.0,male,6,lower extremity
+ISIC_0014762_downsampled.jpg,NV,6,30.0,male,7,lateral torso
+ISIC_0057296.jpg,NV,6,45.0,female,7,anterior torso
+ISIC_0069588.jpg,SK,2,70.0,male,5,head/neck
+ISIC_0028985.jpg,NV,6,45.0,female,6,lower extremity
+ISIC_0068626.jpg,AK,0,85.0,female,5,head/neck
+ISIC_0030648.jpg,NV,6,35.0,male,1,upper extremity
+ISIC_0027239.jpg,SK,2,70.0,female,1,upper extremity
+ISIC_0056925.jpg,SCC,3,85.0,female,2,palms/soles
+ISIC_0000163.jpg,MEL,8,60.0,male,1,upper extremity
+ISIC_0026383.jpg,NV,6,80.0,male,7,posterior torso
+ISIC_0067971.jpg,SCC,3,80.0,male,7,anterior torso
+ISIC_0030209.jpg,NV,6,45.0,female,6,lower extremity
+ISIC_0059407.jpg,NV,6,30.0,male,7,anterior torso
+ISIC_0067663.jpg,SCC,3,75.0,female,6,lower extremity
+ISIC_0066932.jpg,BCC,1,60.0,male,7,anterior torso
+ISIC_0062388.jpg,NV,6,80.0,female,7,anterior torso
+ISIC_0029875.jpg,NV,6,50.0,female,7,anterior torso
+ISIC_0063758.jpg,SK,2,70.0,male,7,anterior torso
+ISIC_0024406.jpg,NV,6,35.0,male,6,lower extremity
+ISIC_0064225.jpg,SK,2,85.0,female,5,head/neck
+ISIC_0055109.jpg,BCC,1,60.0,male,7,anterior torso
+ISIC_0010459.jpg,NV,6,35.0,female,1,upper extremity
+ISIC_0030806.jpg,SK,2,50.0,female,5,head/neck
+ISIC_0032031.jpg,SK,2,65.0,female,5,head/neck
+ISIC_0068249.jpg,SK,2,70.0,male,5,head/neck
+ISIC_0028752.jpg,NV,6,45.0,female,6,lower extremity
+ISIC_0026931.jpg,NV,6,50.0,female,1,upper extremity
+ISIC_0070496.jpg,NV,6,50.0,female,1,upper extremity
+ISIC_0024678.jpg,NV,6,45.0,female,7,torso
+ISIC_0032438.jpg,NV,6,45.0,female,6,lower extremity
+ISIC_0055303.jpg,BCC,1,65.0,male,5,head/neck
+ISIC_0068803.jpg,DF,5,70.0,male,1,upper extremity
+ISIC_0054660.jpg,SCC,3,80.0,female,1,upper extremity
+ISIC_0063766.jpg,MEL,8,70.0,female,6,lower extremity
+ISIC_0010468.jpg,MEL,8,45.0,female,7,anterior torso
+ISIC_0068792.jpg,BCC,1,85.0,male,1,upper extremity
+ISIC_0068931.jpg,MEL,8,60.0,female,2,palms/soles
+ISIC_0012094_downsampled.jpg,NV,6,30.0,female,7,torso
+ISIC_0060245.jpg,NV,6,40.0,male,7,anterior torso
+ISIC_0032808.jpg,BCC,1,60.0,male,1,upper extremity
+ISIC_0068793.jpg,BCC,1,65.0,male,6,lower extremity
+ISIC_0027926.jpg,NV,6,55.0,female,7,anterior torso
+ISIC_0029024.jpg,NV,6,45.0,male,7,anterior torso
+ISIC_0031988.jpg,NV,6,50.0,male,7,posterior torso
+ISIC_0055870.jpg,SCC,3,60.0,male,5,head/neck
+ISIC_0062913.jpg,NV,6,60.0,male,7,anterior torso
+ISIC_0024700.jpg,MEL,8,35.0,female,7,torso
+ISIC_0062327.jpg,NV,6,30.0,male,7,anterior torso
+ISIC_0028017.jpg,MEL,8,50.0,female,7,posterior torso
+ISIC_0030802.jpg,NV,6,80.0,female,6,lower extremity
+ISIC_0015060_downsampled.jpg,NV,6,50.0,female,6,lower extremity
+ISIC_0055983.jpg,NV,6,40.0,female,7,anterior torso
+ISIC_0028877.jpg,BCC,1,70.0,female,7,posterior torso
+ISIC_0066934.jpg,NV,6,55.0,female,6,lower extremity
+ISIC_0065172.jpg,NV,6,30.0,female,7,anterior torso
+ISIC_0030877.jpg,AK,0,60.0,female,5,head/neck
+ISIC_0068666.jpg,SCC,3,70.0,male,7,anterior torso
+ISIC_0054600.jpg,NV,6,55.0,male,7,anterior torso
+ISIC_0027238.jpg,MEL,8,55.0,female,1,upper extremity
+ISIC_0013291_downsampled.jpg,NV,6,45.0,female,1,upper extremity
+ISIC_0055663.jpg,BCC,1,60.0,female,5,head/neck
+ISIC_0029329.jpg,SK,2,85.0,male,7,posterior torso
+ISIC_0069965.jpg,SK,2,55.0,male,5,head/neck
+ISIC_0068163.jpg,NV,6,50.0,female,7,anterior torso
+ISIC_0025554.jpg,SK,2,75.0,male,5,head/neck
+ISIC_0070053.jpg,BCC,1,75.0,male,5,head/neck
+ISIC_0067763.jpg,NV,6,15.0,male,7,anterior torso
+ISIC_0064683.jpg,MEL,8,80.0,female,7,anterior torso
+ISIC_0056009.jpg,NV,6,40.0,female,7,anterior torso
+ISIC_0071440.jpg,AK,0,55.0,male,1,upper extremity
+ISIC_0029188.jpg,NV,6,60.0,female,6,lower extremity
+ISIC_0029251.jpg,SK,2,70.0,female,7,anterior torso
+ISIC_0069069.jpg,SK,2,60.0,female,6,lower extremity
+ISIC_0061950.jpg,MEL,8,60.0,male,7,anterior torso
+ISIC_0025575.jpg,SK,2,60.0,male,7,anterior torso
+ISIC_0000547.jpg,MEL,8,50.0,unknown,7,torso
+ISIC_0013635_downsampled.jpg,SK,2,50.0,female,5,head/neck
+ISIC_0030070.jpg,VASC,4,75.0,female,1,upper extremity
+ISIC_0032173.jpg,SCC,3,80.0,female,1,upper extremity
+ISIC_0059201.jpg,BCC,1,65.0,female,1,upper extremity
+ISIC_0064251.jpg,NV,6,60.0,male,7,anterior torso
+ISIC_0057277.jpg,NV,6,45.0,male,7,anterior torso
+ISIC_0027956.jpg,MEL,8,50.0,female,1,upper extremity
+ISIC_0064507.jpg,MEL,8,60.0,female,6,lower extremity
+ISIC_0033074.jpg,MEL,8,45.0,male,7,anterior torso
+ISIC_0066697.jpg,BCC,1,60.0,female,5,head/neck
+ISIC_0028244.jpg,NV,6,50.0,male,6,lower extremity
+ISIC_0032705.jpg,NV,6,5.0,male,7,torso
+ISIC_0066873.jpg,NV,6,30.0,female,7,anterior torso
+ISIC_0031783.jpg,SK,2,70.0,male,5,head/neck
+ISIC_0031810.jpg,NV,6,65.0,male,6,lower extremity
+ISIC_0066913.jpg,AK,0,80.0,female,5,head/neck
+ISIC_0027881.jpg,NV,6,40.0,female,1,upper extremity
+ISIC_0032931.jpg,NV,6,70.0,male,7,torso
+ISIC_0013128_downsampled.jpg,NV,6,40.0,female,1,upper extremity
+ISIC_0058273.jpg,AK,0,75.0,female,5,head/neck
+ISIC_0057605.jpg,NV,6,35.0,male,5,head/neck
+ISIC_0013243_downsampled.jpg,NV,6,65.0,male,5,head/neck
+ISIC_0010040.jpg,NV,6,45.0,male,7,anterior torso
+ISIC_0054304.jpg,NV,6,10.0,female,6,lower extremity
+ISIC_0024783.jpg,NV,6,35.0,female,7,anterior torso
+ISIC_0072189.jpg,BCC,1,55.0,male,7,anterior torso
+ISIC_0015109_downsampled.jpg,MEL,8,40.0,male,7,posterior torso
+ISIC_0027878.jpg,NV,6,40.0,female,7,torso
+ISIC_0066915.jpg,NV,6,50.0,female,1,upper extremity
+ISIC_0059879.jpg,MEL,8,40.0,male,7,anterior torso
+ISIC_0062726.jpg,NV,6,30.0,female,7,anterior torso
+ISIC_0032374.jpg,NV,6,50.0,female,7,posterior torso
+ISIC_0067500.jpg,AK,0,70.0,female,5,head/neck
+ISIC_0028134.jpg,NV,6,35.0,female,6,lower extremity
+ISIC_0025401.jpg,NV,6,45.0,male,6,lower extremity
+ISIC_0069619.jpg,NV,6,30.0,female,6,lower extremity
+ISIC_0059525.jpg,MEL,8,55.0,female,1,upper extremity
+ISIC_0012877_downsampled.jpg,NV,6,45.0,male,1,upper extremity
+ISIC_0057594.jpg,MEL,8,50.0,male,5,head/neck
+ISIC_0069040.jpg,NV,6,35.0,male,7,anterior torso
+ISIC_0060671.jpg,MEL,8,75.0,male,7,anterior torso
+ISIC_0029386.jpg,NV,6,60.0,male,7,torso
+ISIC_0070779.jpg,NV,6,50.0,female,7,anterior torso
+ISIC_0056292.jpg,MEL,8,75.0,male,1,upper extremity
+ISIC_0071460.jpg,NV,6,50.0,female,6,lower extremity
+ISIC_0025376.jpg,SK,2,75.0,male,7,posterior torso
+ISIC_0055968.jpg,BCC,1,75.0,male,7,anterior torso
+ISIC_0054723.jpg,BCC,1,75.0,female,6,lower extremity
+ISIC_0026095.jpg,NV,6,45.0,female,7,torso
+ISIC_0028663.jpg,NV,6,60.0,female,6,lower extremity
+ISIC_0063195.jpg,BCC,1,35.0,male,5,head/neck
+ISIC_0029536.jpg,NV,6,70.0,female,7,torso
+ISIC_0063326.jpg,NV,6,50.0,male,7,anterior torso
+ISIC_0061729.jpg,NV,6,30.0,male,7,anterior torso
+ISIC_0034306.jpg,BCC,1,75.0,male,7,torso
+ISIC_0058106.jpg,NV,6,30.0,male,7,anterior torso
+ISIC_0055187.jpg,NV,6,10.0,female,6,lower extremity
+ISIC_0068387.jpg,VASC,4,35.0,male,7,anterior torso
+ISIC_0026991.jpg,NV,6,45.0,female,6,lower extremity
+ISIC_0028930.jpg,MEL,8,55.0,female,6,lower extremity
+ISIC_0055624.jpg,MEL,8,80.0,female,6,lower extremity
+ISIC_0029636.jpg,NV,6,60.0,female,7,anterior torso
+ISIC_0031545.jpg,MEL,8,75.0,female,7,posterior torso
+ISIC_0069724.jpg,BCC,1,50.0,female,5,head/neck
+ISIC_0069251.jpg,SK,2,70.0,male,5,head/neck
+ISIC_0062634.jpg,BCC,1,75.0,female,6,lower extremity
+ISIC_0072584.jpg,AK,0,70.0,male,5,head/neck
+ISIC_0028013.jpg,NV,6,55.0,male,7,torso
+ISIC_0067913.jpg,SK,2,35.0,female,7,anterior torso
+ISIC_0068318.jpg,MEL,8,75.0,male,7,anterior torso
+ISIC_0069635.jpg,MEL,8,85.0,female,6,lower extremity
+ISIC_0033470.jpg,MEL,8,55.0,female,1,upper extremity
+ISIC_0026292.jpg,NV,6,45.0,female,7,torso
+ISIC_0028440.jpg,NV,6,45.0,male,6,lower extremity
+ISIC_0069659.jpg,BCC,1,80.0,male,7,anterior torso
+ISIC_0060697.jpg,SK,2,40.0,female,1,upper extremity
+ISIC_0061705.jpg,MEL,8,40.0,male,7,anterior torso
+ISIC_0055927.jpg,NV,6,75.0,male,7,anterior torso
+ISIC_0000281.jpg,MEL,8,25.0,male,7,posterior torso
+ISIC_0063042.jpg,SK,2,85.0,female,5,head/neck
+ISIC_0026930.jpg,MEL,8,60.0,male,7,anterior torso
+ISIC_0029619.jpg,NV,6,45.0,female,6,lower extremity
+ISIC_0065943.jpg,MEL,8,60.0,female,5,head/neck
+ISIC_0064661.jpg,BCC,1,45.0,male,5,head/neck
+ISIC_0014834_downsampled.jpg,NV,6,50.0,male,1,upper extremity
+ISIC_0055612.jpg,NV,6,65.0,female,6,lower extremity
+ISIC_0030944.jpg,NV,6,35.0,male,7,torso
+ISIC_0063639.jpg,NV,6,40.0,male,5,head/neck
+ISIC_0029397.jpg,MEL,8,5.0,male,7,posterior torso
+ISIC_0063990.jpg,NV,6,35.0,male,7,anterior torso
+ISIC_0027758.jpg,NV,6,35.0,female,7,posterior torso
+ISIC_0063115.jpg,NV,6,55.0,female,5,head/neck
+ISIC_0067391.jpg,NV,6,40.0,female,7,anterior torso
+ISIC_0027134.jpg,NV,6,65.0,male,7,torso
+ISIC_0071826.jpg,MEL,8,50.0,male,5,head/neck
+ISIC_0066776.jpg,MEL,8,85.0,female,6,lower extremity
+ISIC_0053678.jpg,BCC,1,80.0,male,6,lower extremity
+ISIC_0070131.jpg,BCC,1,70.0,male,5,head/neck
+ISIC_0029145.jpg,NV,6,45.0,male,6,lower extremity
+ISIC_0033168.jpg,NV,6,65.0,male,7,anterior torso
+ISIC_0053491.jpg,MEL,8,85.0,female,5,head/neck
+ISIC_0012700_downsampled.jpg,NV,6,25.0,male,7,posterior torso
+ISIC_0029530.jpg,NV,6,80.0,male,6,lower extremity
+ISIC_0030236.jpg,NV,6,40.0,male,6,lower extremity
+ISIC_0012523_downsampled.jpg,NV,6,50.0,male,7,torso
+ISIC_0064386.jpg,SCC,3,45.0,male,5,head/neck
+ISIC_0069876.jpg,SK,2,60.0,female,5,head/neck
+ISIC_0032933.jpg,NV,6,25.0,male,7,torso
+ISIC_0033134.jpg,NV,6,30.0,female,6,lower extremity
+ISIC_0032872.jpg,MEL,8,55.0,male,7,posterior torso
+ISIC_0031280.jpg,NV,6,60.0,male,6,lower extremity
+ISIC_0024330.jpg,DF,5,40.0,male,6,lower extremity
+ISIC_0059608.jpg,MEL,8,40.0,female,2,palms/soles
+ISIC_0071706.jpg,MEL,8,45.0,male,7,anterior torso
+ISIC_0069112.jpg,MEL,8,65.0,female,7,anterior torso
+ISIC_0029632.jpg,MEL,8,55.0,male,7,posterior torso
+ISIC_0059480.jpg,SK,2,65.0,male,5,head/neck
+ISIC_0066434.jpg,NV,6,40.0,female,6,lower extremity
+ISIC_0064948.jpg,NV,6,85.0,female,6,lower extremity
+ISIC_0053933.jpg,MEL,8,75.0,male,5,head/neck
+ISIC_0027625.jpg,NV,6,55.0,female,7,torso
+ISIC_0015279_downsampled.jpg,NV,6,50.0,unknown,7,posterior torso
+ISIC_0033154.jpg,MEL,8,30.0,male,7,torso
+ISIC_0061088.jpg,BCC,1,35.0,male,5,head/neck
+ISIC_0059479.jpg,VASC,4,60.0,female,7,anterior torso
+ISIC_0028062.jpg,NV,6,30.0,male,5,head/neck
+ISIC_0061040.jpg,NV,6,25.0,male,7,anterior torso
+ISIC_0024379.jpg,NV,6,35.0,female,6,lower extremity
+ISIC_0009896.jpg,NV,6,30.0,male,7,anterior torso
+ISIC_0072782.jpg,SK,2,85.0,female,5,head/neck
+ISIC_0063210.jpg,AK,0,70.0,male,6,lower extremity
+ISIC_0064446.jpg,NV,6,75.0,female,7,anterior torso
+ISIC_0011300.jpg,NV,6,20.0,female,5,head/neck
+ISIC_0030145.jpg,BCC,1,60.0,male,5,head/neck
+ISIC_0070894.jpg,BCC,1,65.0,male,5,head/neck
+ISIC_0060776.jpg,AK,0,65.0,male,5,head/neck
+ISIC_0014110_downsampled.jpg,MEL,8,70.0,male,6,lower extremity
+ISIC_0013789_downsampled.jpg,NV,6,50.0,female,1,upper extremity
+ISIC_0027581.jpg,NV,6,35.0,female,6,lower extremity
+ISIC_0055703.jpg,BCC,1,75.0,male,1,upper extremity
+ISIC_0063020.jpg,NV,6,70.0,male,7,anterior torso
+ISIC_0033059.jpg,NV,6,35.0,male,1,upper extremity
+ISIC_0059706.jpg,SK,2,65.0,male,5,head/neck
+ISIC_0032935.jpg,NV,6,30.0,male,7,posterior torso
+ISIC_0053563.jpg,AK,0,70.0,male,5,head/neck
+ISIC_0064956.jpg,NV,6,50.0,female,5,head/neck
+ISIC_0032987.jpg,MEL,8,70.0,male,5,head/neck
+ISIC_0024769.jpg,NV,6,50.0,male,7,posterior torso
+ISIC_0070588.jpg,MEL,8,65.0,male,7,anterior torso
+ISIC_0055327.jpg,MEL,8,60.0,male,7,anterior torso
+ISIC_0059994.jpg,BCC,1,45.0,male,7,anterior torso
+ISIC_0015021_downsampled.jpg,NV,6,20.0,female,1,upper extremity
+ISIC_0025844.jpg,NV,6,35.0,male,7,torso
+ISIC_0053870.jpg,NV,6,60.0,male,7,anterior torso
+ISIC_0053926.jpg,SCC,3,60.0,male,2,palms/soles
+ISIC_0072733.jpg,MEL,8,65.0,male,5,head/neck
+ISIC_0026313.jpg,DF,5,50.0,male,6,lower extremity
+ISIC_0027873.jpg,NV,6,30.0,female,6,lower extremity
+ISIC_0016016_downsampled.jpg,NV,6,70.0,male,7,torso
+ISIC_0025204.jpg,NV,6,35.0,female,7,torso
+ISIC_0013967_downsampled.jpg,NV,6,65.0,female,6,lower extremity
+ISIC_0028378.jpg,NV,6,40.0,female,7,posterior torso
+ISIC_0061994.jpg,MEL,8,85.0,male,6,lower extremity
+ISIC_0066740.jpg,NV,6,20.0,male,6,lower extremity
+ISIC_0068054.jpg,MEL,8,85.0,male,7,anterior torso
+ISIC_0070272.jpg,SK,2,65.0,female,7,torso
+ISIC_0056296.jpg,BCC,1,65.0,female,7,torso
+ISIC_0063926.jpg,MEL,8,80.0,male,1,upper extremity
+ISIC_0062581.jpg,SK,2,70.0,male,5,head/neck
+ISIC_0026011.jpg,NV,6,45.0,male,7,torso
+ISIC_0068642.jpg,BCC,1,35.0,female,5,head/neck
+ISIC_0027564.jpg,NV,6,45.0,male,7,torso
+ISIC_0010228.jpg,NV,6,45.0,male,6,lower extremity
+ISIC_0011229.jpg,NV,6,55.0,female,7,posterior torso
+ISIC_0027889.jpg,NV,6,70.0,female,6,lower extremity
+ISIC_0026854.jpg,NV,6,60.0,male,7,posterior torso
+ISIC_0032920.jpg,NV,6,60.0,male,6,lower extremity
+ISIC_0032472.jpg,NV,6,45.0,female,7,anterior torso
+ISIC_0034204.jpg,NV,6,45.0,male,7,posterior torso
+ISIC_0056226.jpg,MEL,8,30.0,male,1,upper extremity
+ISIC_0061558.jpg,NV,6,65.0,male,6,lower extremity
+ISIC_0069998.jpg,SK,2,85.0,female,5,head/neck
+ISIC_0067506.jpg,NV,6,50.0,male,5,head/neck
+ISIC_0026712.jpg,NV,6,65.0,female,7,posterior torso
+ISIC_0057913.jpg,MEL,8,30.0,female,6,lower extremity
+ISIC_0070309.jpg,BCC,1,40.0,male,7,anterior torso
+ISIC_0027861.jpg,NV,6,5.0,female,6,lower extremity
+ISIC_0073203.jpg,MEL,8,65.0,male,7,anterior torso
+ISIC_0067611.jpg,SK,2,55.0,male,6,lower extremity
+ISIC_0062648.jpg,NV,6,35.0,female,7,anterior torso
+ISIC_0031888.jpg,SK,2,85.0,female,5,head/neck
+ISIC_0025430.jpg,NV,6,40.0,female,7,torso
+ISIC_0026473.jpg,DF,5,65.0,male,6,lower extremity
+ISIC_0028988.jpg,NV,6,25.0,male,1,upper extremity
+ISIC_0032211.jpg,NV,6,45.0,female,5,head/neck
+ISIC_0029322.jpg,NV,6,50.0,female,7,torso
+ISIC_0054973.jpg,MEL,8,80.0,female,7,anterior torso
+ISIC_0067074.jpg,NV,6,45.0,female,5,head/neck
+ISIC_0072201.jpg,BCC,1,60.0,female,7,anterior torso
+ISIC_0027091.jpg,NV,6,15.0,male,6,lower extremity
+ISIC_0067259.jpg,NV,6,60.0,female,7,anterior torso
+ISIC_0033748.jpg,NV,6,30.0,male,7,torso
+ISIC_0058023.jpg,NV,6,40.0,female,3,oral/genital
+ISIC_0068240.jpg,BCC,1,65.0,male,7,torso
+ISIC_0060914.jpg,BCC,1,85.0,female,5,head/neck
+ISIC_0066624.jpg,NV,6,25.0,male,7,anterior torso
+ISIC_0032712.jpg,NV,6,40.0,female,6,lower extremity
+ISIC_0028247.jpg,NV,6,25.0,male,1,upper extremity
+ISIC_0060921.jpg,NV,6,30.0,male,7,anterior torso
+ISIC_0070718.jpg,BCC,1,70.0,female,5,head/neck
+ISIC_0068687.jpg,SK,2,45.0,female,7,anterior torso
+ISIC_0063663.jpg,NV,6,40.0,female,7,anterior torso
+ISIC_0024586.jpg,MEL,8,60.0,female,6,lower extremity
+ISIC_0024611.jpg,NV,6,50.0,female,7,posterior torso
+ISIC_0034262.jpg,MEL,8,65.0,male,6,lower extremity
+ISIC_0029181.jpg,NV,6,40.0,female,6,lower extremity
+ISIC_0027543.jpg,NV,6,50.0,female,1,upper extremity
+ISIC_0014831_downsampled.jpg,SK,2,55.0,male,6,lower extremity
+ISIC_0066313.jpg,SK,2,50.0,female,5,head/neck
+ISIC_0030667.jpg,NV,6,45.0,male,6,lower extremity
+ISIC_0057923.jpg,NV,6,40.0,female,7,anterior torso
+ISIC_0029728.jpg,NV,6,35.0,female,5,head/neck
+ISIC_0061496.jpg,MEL,8,70.0,male,1,upper extremity
+ISIC_0030655.jpg,AK,0,60.0,female,5,head/neck
+ISIC_0000184_downsampled.jpg,NV,6,25.0,female,7,anterior torso
+ISIC_0024479.jpg,NV,6,5.0,male,1,upper extremity
+ISIC_0033209.jpg,MEL,8,65.0,male,5,head/neck
+ISIC_0000452_downsampled.jpg,NV,6,50.0,unknown,7,torso
+ISIC_0063385.jpg,NV,6,35.0,female,7,anterior torso
+ISIC_0029844.jpg,NV,6,40.0,male,7,posterior torso
+ISIC_0029584.jpg,NV,6,25.0,female,7,torso
+ISIC_0013948_downsampled.jpg,MEL,8,70.0,female,1,upper extremity
+ISIC_0069324.jpg,MEL,8,40.0,male,5,head/neck
+ISIC_0072408.jpg,NV,6,50.0,female,7,anterior torso
+ISIC_0062989.jpg,NV,6,35.0,female,6,lower extremity
+ISIC_0032891.jpg,NV,6,40.0,male,1,upper extremity
+ISIC_0061940.jpg,NV,6,55.0,male,7,anterior torso
+ISIC_0028593.jpg,SK,2,55.0,female,5,head/neck
+ISIC_0053980.jpg,MEL,8,65.0,male,1,upper extremity
+ISIC_0067326.jpg,MEL,8,50.0,female,5,head/neck
+ISIC_0061247.jpg,AK,0,50.0,female,5,head/neck
+ISIC_0069065.jpg,MEL,8,80.0,female,2,palms/soles
+ISIC_0024387.jpg,NV,6,65.0,female,6,lower extremity
+ISIC_0068266.jpg,SCC,3,80.0,male,7,anterior torso
+ISIC_0066539.jpg,NV,6,50.0,male,6,lower extremity
+ISIC_0030019.jpg,NV,6,60.0,female,7,posterior torso
+ISIC_0029205.jpg,NV,6,50.0,female,7,posterior torso
+ISIC_0033678.jpg,MEL,8,75.0,female,7,posterior torso
+ISIC_0053630.jpg,NV,6,70.0,female,1,upper extremity
+ISIC_0030509.jpg,NV,6,75.0,female,7,torso
+ISIC_0033375.jpg,NV,6,50.0,unknown,7,torso
+ISIC_0071315.jpg,MEL,8,70.0,female,6,lower extremity
+ISIC_0012940_downsampled.jpg,NV,6,50.0,female,5,head/neck
+ISIC_0068496.jpg,SCC,3,75.0,male,5,head/neck
+ISIC_0002488_downsampled.jpg,NV,6,10.0,female,7,torso
+ISIC_0058660.jpg,MEL,8,55.0,female,6,lower extremity
+ISIC_0055829.jpg,NV,6,25.0,female,5,head/neck
+ISIC_0014638_downsampled.jpg,SK,2,70.0,male,7,torso
+ISIC_0056130.jpg,MEL,8,80.0,male,2,palms/soles
+ISIC_0014502_downsampled.jpg,NV,6,45.0,male,7,posterior torso
+ISIC_0032357.jpg,NV,6,50.0,male,7,torso
+ISIC_0028147.jpg,BCC,1,65.0,female,1,upper extremity
+ISIC_0056058.jpg,SCC,3,60.0,male,5,head/neck
+ISIC_0027804.jpg,NV,6,50.0,female,7,torso
+ISIC_0071517.jpg,BCC,1,40.0,male,7,anterior torso
+ISIC_0014195_downsampled.jpg,NV,6,25.0,female,7,anterior torso
+ISIC_0012379_downsampled.jpg,SK,2,70.0,male,7,torso
+ISIC_0026602.jpg,NV,6,50.0,female,7,torso
+ISIC_0064467.jpg,NV,6,35.0,female,6,lower extremity
+ISIC_0068723.jpg,BCC,1,45.0,female,7,anterior torso
+ISIC_0032659.jpg,NV,6,40.0,female,7,posterior torso
+ISIC_0034288.jpg,NV,6,70.0,male,7,torso
+ISIC_0013224_downsampled.jpg,NV,6,45.0,female,6,lower extremity
+ISIC_0058444.jpg,NV,6,30.0,male,7,anterior torso
+ISIC_0071335.jpg,MEL,8,60.0,female,2,palms/soles
+ISIC_0009919.jpg,NV,6,50.0,female,6,lower extremity
+ISIC_0068319.jpg,NV,6,30.0,female,7,anterior torso
+ISIC_0071019.jpg,NV,6,45.0,male,5,head/neck
+ISIC_0067723.jpg,NV,6,65.0,male,7,anterior torso
+ISIC_0014793_downsampled.jpg,SK,2,50.0,female,1,upper extremity
+ISIC_0033178.jpg,MEL,8,55.0,male,7,posterior torso
+ISIC_0058868.jpg,BCC,1,75.0,male,5,head/neck
+ISIC_0025108.jpg,NV,6,40.0,female,7,posterior torso
+ISIC_0071954.jpg,NV,6,40.0,female,5,head/neck
+ISIC_0014961_downsampled.jpg,NV,6,30.0,female,7,posterior torso
+ISIC_0065028.jpg,BCC,1,70.0,male,5,head/neck
+ISIC_0029414.jpg,NV,6,45.0,male,7,posterior torso
+ISIC_0062869.jpg,MEL,8,60.0,male,5,head/neck
+ISIC_0032124.jpg,SK,2,70.0,female,7,torso
+ISIC_0064821.jpg,MEL,8,55.0,male,1,upper extremity
+ISIC_0061915.jpg,MEL,8,85.0,male,5,head/neck
+ISIC_0010009.jpg,NV,6,20.0,female,6,lower extremity
+ISIC_0054779.jpg,SK,2,30.0,female,6,lower extremity
+ISIC_0069932.jpg,AK,0,80.0,female,5,head/neck
+ISIC_0072280.jpg,MEL,8,55.0,female,7,anterior torso
+ISIC_0061847.jpg,NV,6,10.0,female,6,lower extremity
+ISIC_0030721.jpg,SK,2,85.0,male,7,posterior torso
+ISIC_0014855_downsampled.jpg,NV,6,50.0,unknown,7,posterior torso
+ISIC_0030271.jpg,BCC,1,75.0,male,6,lower extremity
+ISIC_0015217_downsampled.jpg,NV,6,25.0,female,6,lower extremity
+ISIC_0030537.jpg,NV,6,45.0,female,7,torso
+ISIC_0065828.jpg,SK,2,65.0,male,1,upper extremity
+ISIC_0068401.jpg,MEL,8,60.0,male,7,anterior torso
+ISIC_0029902.jpg,NV,6,25.0,male,7,posterior torso
+ISIC_0027762.jpg,NV,6,50.0,male,7,torso
+ISIC_0032810.jpg,MEL,8,70.0,male,1,upper extremity
+ISIC_0065009.jpg,NV,6,40.0,male,6,lower extremity
+ISIC_0064236.jpg,BCC,1,65.0,male,6,lower extremity
+ISIC_0067496.jpg,SK,2,80.0,male,7,anterior torso
+ISIC_0062635.jpg,NV,6,50.0,unknown,6,lower extremity
+ISIC_0025564.jpg,BCC,1,50.0,male,7,posterior torso
+ISIC_0063299.jpg,NV,6,55.0,female,7,anterior torso
+ISIC_0064545.jpg,NV,6,50.0,unknown,7,torso
+ISIC_0026440.jpg,NV,6,55.0,male,1,upper extremity
+ISIC_0032902.jpg,NV,6,45.0,female,1,upper extremity
+ISIC_0001134_downsampled.jpg,MEL,8,65.0,male,7,lateral torso
+ISIC_0071840.jpg,NV,6,30.0,male,7,anterior torso
+ISIC_0024911.jpg,MEL,8,45.0,female,7,posterior torso
+ISIC_0068083.jpg,BCC,1,80.0,male,5,head/neck
+ISIC_0007344_downsampled.jpg,NV,6,15.0,male,7,torso
+ISIC_0031611.jpg,NV,6,60.0,male,7,anterior torso
+ISIC_0053528.jpg,SK,2,50.0,unknown,7,anterior torso
+ISIC_0024509.jpg,NV,6,55.0,female,7,torso
+ISIC_0071718.jpg,NV,6,50.0,male,7,anterior torso
+ISIC_0056883.jpg,BCC,1,65.0,female,1,upper extremity
+ISIC_0058712.jpg,NV,6,50.0,male,7,anterior torso
+ISIC_0064968.jpg,BCC,1,65.0,male,5,head/neck
+ISIC_0027681.jpg,SK,2,85.0,male,5,head/neck
+ISIC_0024463.jpg,SCC,3,50.0,male,1,upper extremity
+ISIC_0056445.jpg,SK,2,80.0,male,5,head/neck
+ISIC_0025837.jpg,SK,2,70.0,female,7,posterior torso
+ISIC_0025662.jpg,NV,6,35.0,male,1,upper extremity
+ISIC_0029648.jpg,NV,6,45.0,male,7,anterior torso
+ISIC_0032926.jpg,NV,6,35.0,male,6,lower extremity
+ISIC_0030265.jpg,NV,6,50.0,male,7,anterior torso
+ISIC_0067567.jpg,MEL,8,50.0,male,6,lower extremity
+ISIC_0062112.jpg,MEL,8,70.0,female,7,anterior torso
+ISIC_0059776.jpg,BCC,1,75.0,male,5,head/neck
+ISIC_0028272.jpg,NV,6,75.0,female,7,posterior torso
+ISIC_0071403.jpg,NV,6,40.0,female,1,upper extremity
+ISIC_0026791.jpg,NV,6,60.0,female,7,torso
+ISIC_0064376.jpg,MEL,8,70.0,male,5,head/neck
+ISIC_0069104.jpg,BCC,1,65.0,female,5,head/neck
+ISIC_0028166.jpg,NV,6,30.0,female,6,lower extremity
+ISIC_0066208.jpg,NV,6,60.0,female,5,head/neck
+ISIC_0029101.jpg,SK,2,50.0,male,6,lower extremity
+ISIC_0065962.jpg,NV,6,55.0,female,7,anterior torso
+ISIC_0026151.jpg,NV,6,55.0,male,7,posterior torso
+ISIC_0027655.jpg,NV,6,50.0,female,6,lower extremity
+ISIC_0027890.jpg,NV,6,50.0,male,6,lower extremity
+ISIC_0025862.jpg,NV,6,55.0,female,6,lower extremity
+ISIC_0056520.jpg,AK,0,70.0,female,5,head/neck
+ISIC_0012840_downsampled.jpg,SK,2,85.0,male,1,upper extremity
+ISIC_0026094.jpg,MEL,8,20.0,male,7,posterior torso
+ISIC_0067308.jpg,MEL,8,65.0,male,5,head/neck
+ISIC_0057431.jpg,AK,0,80.0,male,1,upper extremity
+ISIC_0054873.jpg,BCC,1,80.0,male,6,lower extremity
+ISIC_0027717.jpg,NV,6,50.0,male,1,upper extremity
+ISIC_0064793.jpg,SK,2,55.0,female,3,oral/genital
+ISIC_0014546_downsampled.jpg,MEL,8,65.0,female,7,posterior torso
+ISIC_0028560.jpg,SK,2,85.0,male,1,upper extremity
+ISIC_0028715.jpg,NV,6,60.0,female,7,anterior torso
+ISIC_0031086.jpg,NV,6,50.0,female,1,upper extremity
+ISIC_0010463.jpg,NV,6,30.0,male,7,anterior torso
+ISIC_0058020.jpg,SK,2,70.0,male,7,torso
+ISIC_0014720_downsampled.jpg,NV,6,30.0,female,7,posterior torso
+ISIC_0025462.jpg,NV,6,45.0,female,7,torso
+ISIC_0060844.jpg,BCC,1,85.0,female,5,head/neck
+ISIC_0031574.jpg,NV,6,55.0,female,7,torso
+ISIC_0060269.jpg,AK,0,70.0,male,5,head/neck
+ISIC_0064823.jpg,MEL,8,65.0,female,6,lower extremity
+ISIC_0066555.jpg,BCC,1,70.0,male,6,lower extremity
+ISIC_0028236.jpg,SK,2,70.0,female,1,upper extremity
+ISIC_0000999_downsampled.jpg,NV,6,15.0,female,7,torso
+ISIC_0002489_downsampled.jpg,NV,6,10.0,female,7,torso
+ISIC_0063515.jpg,BCC,1,40.0,female,5,head/neck
+ISIC_0063512.jpg,BCC,1,75.0,male,1,upper extremity
+ISIC_0014212_downsampled.jpg,SK,2,60.0,female,7,posterior torso
+ISIC_0012387_downsampled.jpg,SK,2,65.0,male,7,torso
+ISIC_0015232_downsampled.jpg,NV,6,40.0,female,1,upper extremity
+ISIC_0031415.jpg,NV,6,50.0,male,7,posterior torso
+ISIC_0055820.jpg,MEL,8,85.0,male,5,head/neck
+ISIC_0065820.jpg,NV,6,45.0,male,7,anterior torso
+ISIC_0032331.jpg,MEL,8,80.0,male,7,anterior torso
+ISIC_0025052.jpg,NV,6,45.0,female,6,lower extremity
+ISIC_0068879.jpg,AK,0,75.0,female,5,head/neck
+ISIC_0060143.jpg,MEL,8,40.0,male,2,palms/soles
+ISIC_0025372.jpg,NV,6,30.0,female,1,upper extremity
+ISIC_0026819.jpg,NV,6,10.0,female,7,posterior torso
+ISIC_0057250.jpg,SK,2,65.0,male,5,head/neck
+ISIC_0058401.jpg,DF,5,85.0,female,6,lower extremity
+ISIC_0000091_downsampled.jpg,NV,6,50.0,unknown,7,torso
+ISIC_0055461.jpg,NV,6,45.0,male,1,upper extremity
+ISIC_0033554.jpg,DF,5,35.0,female,6,lower extremity
+ISIC_0071847.jpg,SK,2,65.0,male,5,head/neck
+ISIC_0059231.jpg,BCC,1,65.0,male,5,head/neck
+ISIC_0026536.jpg,NV,6,55.0,female,6,lower extremity
+ISIC_0058546.jpg,NV,6,10.0,female,6,lower extremity
+ISIC_0030791.jpg,NV,6,45.0,male,7,posterior torso
+ISIC_0010053.jpg,NV,6,65.0,female,6,lower extremity
+ISIC_0012744_downsampled.jpg,NV,6,65.0,female,6,lower extremity
+ISIC_0015996_downsampled.jpg,NV,6,35.0,female,7,torso
+ISIC_0025956.jpg,NV,6,35.0,male,7,posterior torso
+ISIC_0068383.jpg,MEL,8,70.0,male,7,anterior torso
+ISIC_0014590_downsampled.jpg,SK,2,60.0,male,7,torso
+ISIC_0025133.jpg,NV,6,70.0,male,7,torso
+ISIC_0029516.jpg,NV,6,20.0,female,7,posterior torso
+ISIC_0061398.jpg,NV,6,70.0,female,7,anterior torso
+ISIC_0028987.jpg,NV,6,60.0,female,1,upper extremity
+ISIC_0011324.jpg,NV,6,30.0,female,6,lower extremity
+ISIC_0055057.jpg,NV,6,45.0,male,1,upper extremity
+ISIC_0029270.jpg,SK,2,55.0,female,5,head/neck
+ISIC_0058239.jpg,AK,0,65.0,female,7,anterior torso
+ISIC_0014166_downsampled.jpg,NV,6,80.0,male,7,anterior torso
+ISIC_0012871_downsampled.jpg,NV,6,40.0,female,1,upper extremity
+ISIC_0065394.jpg,NV,6,40.0,male,7,anterior torso
+ISIC_0032248.jpg,MEL,8,75.0,male,5,head/neck
+ISIC_0026570.jpg,NV,6,70.0,female,6,lower extremity
+ISIC_0013397_downsampled.jpg,SK,2,80.0,female,7,torso
+ISIC_0030000.jpg,NV,6,45.0,male,7,posterior torso
+ISIC_0010229.jpg,NV,6,45.0,female,7,anterior torso
+ISIC_0056575.jpg,NV,6,10.0,female,6,lower extremity
+ISIC_0000466.jpg,MEL,8,50.0,unknown,7,posterior torso
+ISIC_0026911.jpg,NV,6,55.0,male,7,anterior torso
+ISIC_0028943.jpg,SK,2,70.0,male,5,head/neck
+ISIC_0068314.jpg,NV,6,45.0,female,7,anterior torso
+ISIC_0073144.jpg,NV,6,75.0,female,7,anterior torso
+ISIC_0059649.jpg,NV,6,30.0,female,7,anterior torso
+ISIC_0072454.jpg,MEL,8,60.0,female,7,anterior torso
+ISIC_0012949_downsampled.jpg,NV,6,30.0,female,6,lower extremity
+ISIC_0029966.jpg,NV,6,40.0,male,1,upper extremity
+ISIC_0027311.jpg,NV,6,0.0,male,5,head/neck
+ISIC_0053519.jpg,DF,5,15.0,male,7,anterior torso
+ISIC_0056197.jpg,NV,6,25.0,male,6,lower extremity
+ISIC_0059373.jpg,NV,6,20.0,female,7,anterior torso
+ISIC_0057409.jpg,BCC,1,75.0,male,6,lower extremity
+ISIC_0060731.jpg,MEL,8,80.0,female,7,anterior torso
+ISIC_0064420.jpg,BCC,1,85.0,female,7,anterior torso
+ISIC_0072805.jpg,BCC,1,35.0,female,5,head/neck
+ISIC_0030387.jpg,SCC,3,65.0,male,6,lower extremity
+ISIC_0060251.jpg,NV,6,35.0,female,7,anterior torso
+ISIC_0014724_downsampled.jpg,NV,6,70.0,male,7,posterior torso
+ISIC_0054497.jpg,MEL,8,80.0,male,5,head/neck
+ISIC_0066051.jpg,BCC,1,80.0,male,7,anterior torso
+ISIC_0068141.jpg,NV,6,55.0,female,7,anterior torso
+ISIC_0058736.jpg,NV,6,40.0,male,7,anterior torso
+ISIC_0060017.jpg,MEL,8,85.0,female,5,head/neck
+ISIC_0032238.jpg,SCC,3,75.0,male,6,lower extremity
+ISIC_0066721.jpg,SK,2,60.0,male,7,anterior torso
+ISIC_0056992.jpg,NV,6,45.0,male,5,head/neck
+ISIC_0031879.jpg,NV,6,85.0,male,7,posterior torso
+ISIC_0013249_downsampled.jpg,NV,6,60.0,female,7,anterior torso
+ISIC_0068415.jpg,BCC,1,70.0,male,7,anterior torso
+ISIC_0033228.jpg,NV,6,25.0,male,7,torso
+ISIC_0054864.jpg,NV,6,55.0,male,7,anterior torso
+ISIC_0066102.jpg,MEL,8,50.0,male,7,anterior torso
+ISIC_0026224.jpg,NV,6,45.0,male,6,lower extremity
+ISIC_0055583.jpg,SK,2,65.0,male,6,lower extremity
+ISIC_0072676.jpg,AK,0,65.0,female,5,head/neck
+ISIC_0056512.jpg,NV,6,55.0,male,6,lower extremity
+ISIC_0027035.jpg,NV,6,70.0,male,7,posterior torso
+ISIC_0056290.jpg,SCC,3,80.0,male,5,head/neck
+ISIC_0061005.jpg,NV,6,45.0,female,7,anterior torso
+ISIC_0062254.jpg,NV,6,65.0,female,7,anterior torso
+ISIC_0024845.jpg,DF,5,40.0,male,6,lower extremity
+ISIC_0027174.jpg,MEL,8,50.0,male,7,anterior torso
+ISIC_0013984_downsampled.jpg,MEL,8,60.0,male,6,lower extremity
+ISIC_0028363.jpg,NV,6,75.0,male,7,posterior torso
+ISIC_0028325.jpg,MEL,8,85.0,male,1,upper extremity
+ISIC_0027656.jpg,NV,6,40.0,male,7,posterior torso
+ISIC_0032946.jpg,NV,6,45.0,male,7,anterior torso
+ISIC_0054387.jpg,NV,6,35.0,male,6,lower extremity
+ISIC_0029879.jpg,NV,6,40.0,female,6,lower extremity
+ISIC_0030797.jpg,NV,6,55.0,male,6,lower extremity
+ISIC_0068215.jpg,NV,6,45.0,female,7,anterior torso
+ISIC_0024681.jpg,NV,6,35.0,female,7,torso
+ISIC_0069440.jpg,NV,6,40.0,male,5,head/neck
+ISIC_0065256.jpg,BCC,1,70.0,female,7,anterior torso
+ISIC_0061713.jpg,MEL,8,35.0,male,7,anterior torso
+ISIC_0024513.jpg,NV,6,75.0,male,1,upper extremity
+ISIC_0066163.jpg,NV,6,65.0,male,7,anterior torso
+ISIC_0012722_downsampled.jpg,NV,6,70.0,male,7,posterior torso
+ISIC_0012309_downsampled.jpg,NV,6,45.0,female,7,torso
+ISIC_0028845.jpg,NV,6,35.0,male,7,anterior torso
+ISIC_0071536.jpg,MEL,8,45.0,male,7,anterior torso
+ISIC_0013031_downsampled.jpg,NV,6,55.0,female,7,anterior torso
+ISIC_0054070.jpg,MEL,8,70.0,male,6,lower extremity
+ISIC_0071482.jpg,BCC,1,70.0,male,7,torso
+ISIC_0033085.jpg,NV,6,35.0,male,7,posterior torso
+ISIC_0055987.jpg,NV,6,45.0,female,7,anterior torso
+ISIC_0028992.jpg,SK,2,55.0,male,5,head/neck
+ISIC_0026523.jpg,SK,2,65.0,female,5,head/neck
+ISIC_0063346.jpg,BCC,1,85.0,male,5,head/neck
+ISIC_0068596.jpg,SK,2,20.0,female,5,head/neck
+ISIC_0058236.jpg,NV,6,35.0,female,7,anterior torso
+ISIC_0060868.jpg,BCC,1,70.0,male,5,head/neck
+ISIC_0033442.jpg,NV,6,50.0,male,1,upper extremity
+ISIC_0056097.jpg,BCC,1,60.0,female,1,upper extremity
+ISIC_0029028.jpg,MEL,8,85.0,female,7,torso
+ISIC_0066635.jpg,NV,6,5.0,male,3,oral/genital
+ISIC_0054112.jpg,MEL,8,50.0,female,6,lower extremity
+ISIC_0055838.jpg,AK,0,75.0,male,5,head/neck
+ISIC_0014735_downsampled.jpg,MEL,8,35.0,female,6,lower extremity
+ISIC_0033604.jpg,NV,6,20.0,female,5,head/neck
+ISIC_0030576.jpg,NV,6,45.0,female,6,lower extremity
+ISIC_0059033.jpg,BCC,1,70.0,female,6,lower extremity
+ISIC_0032093.jpg,NV,6,50.0,male,6,lower extremity
+ISIC_0070720.jpg,NV,6,75.0,male,7,anterior torso
+ISIC_0056014.jpg,BCC,1,60.0,male,5,head/neck
+ISIC_0073148.jpg,BCC,1,85.0,female,5,head/neck
+ISIC_0014872_downsampled.jpg,MEL,8,50.0,male,1,upper extremity
+ISIC_0069685.jpg,AK,0,80.0,female,5,head/neck
+ISIC_0015991_downsampled.jpg,NV,6,75.0,female,7,torso
+ISIC_0061105.jpg,BCC,1,75.0,female,7,anterior torso
+ISIC_0031599.jpg,NV,6,25.0,male,6,lower extremity
+ISIC_0033978.jpg,NV,6,45.0,male,5,head/neck
+ISIC_0032778.jpg,SK,2,55.0,female,6,lower extremity
+ISIC_0031704.jpg,NV,6,35.0,female,7,anterior torso
+ISIC_0066694.jpg,NV,6,10.0,female,6,lower extremity
+ISIC_0030839.jpg,NV,6,70.0,male,7,posterior torso
+ISIC_0066751.jpg,BCC,1,50.0,male,5,head/neck
+ISIC_0031876.jpg,SK,2,70.0,female,7,anterior torso
+ISIC_0057919.jpg,NV,6,65.0,male,7,anterior torso
+ISIC_0062822.jpg,NV,6,45.0,male,1,upper extremity
+ISIC_0063640.jpg,BCC,1,75.0,male,7,anterior torso
+ISIC_0068265.jpg,BCC,1,70.0,female,7,anterior torso
+ISIC_0026614.jpg,SK,2,45.0,male,7,anterior torso
+ISIC_0056601.jpg,MEL,8,75.0,male,7,anterior torso
+ISIC_0027684.jpg,NV,6,45.0,female,7,posterior torso
+ISIC_0027341.jpg,NV,6,25.0,male,6,lower extremity
+ISIC_0032874.jpg,NV,6,70.0,male,7,anterior torso
+ISIC_0030128.jpg,NV,6,30.0,female,7,posterior torso
+ISIC_0062849.jpg,NV,6,70.0,male,7,anterior torso
+ISIC_0034275.jpg,MEL,8,70.0,male,7,torso
+ISIC_0015255_downsampled.jpg,NV,6,50.0,female,6,lower extremity
+ISIC_0067674.jpg,BCC,1,65.0,male,1,upper extremity
+ISIC_0033965.jpg,NV,6,40.0,male,7,posterior torso
+ISIC_0000279.jpg,MEL,8,80.0,male,6,lower extremity
+ISIC_0064115.jpg,DF,5,55.0,female,6,lower extremity
+ISIC_0032356.jpg,SCC,3,60.0,male,6,lower extremity
+ISIC_0012348_downsampled.jpg,MEL,8,50.0,female,7,torso
+ISIC_0063101.jpg,BCC,1,75.0,female,5,head/neck
+ISIC_0064584.jpg,SCC,3,70.0,male,6,lower extremity
+ISIC_0028496.jpg,SK,2,65.0,male,1,upper extremity
+ISIC_0064385.jpg,NV,6,55.0,male,7,anterior torso
+ISIC_0032057.jpg,VASC,4,55.0,female,7,anterior torso
+ISIC_0059229.jpg,MEL,8,30.0,female,5,head/neck
+ISIC_0059018.jpg,NV,6,35.0,male,7,anterior torso
+ISIC_0071147.jpg,BCC,1,70.0,female,7,anterior torso
+ISIC_0068369.jpg,SCC,3,60.0,male,5,head/neck
+ISIC_0054350.jpg,MEL,8,85.0,male,5,head/neck
+ISIC_0061014.jpg,NV,6,45.0,female,5,head/neck
+ISIC_0000367.jpg,NV,6,15.0,male,7,posterior torso
+ISIC_0072688.jpg,BCC,1,25.0,female,7,anterior torso
+ISIC_0013212_downsampled.jpg,NV,6,30.0,female,6,lower extremity
+ISIC_0028509.jpg,NV,6,65.0,female,7,posterior torso
+ISIC_0066946.jpg,SK,2,45.0,female,5,head/neck
+ISIC_0030041.jpg,NV,6,45.0,female,7,anterior torso
+ISIC_0063963.jpg,NV,6,45.0,male,7,torso
+ISIC_0054189.jpg,BCC,1,75.0,male,1,upper extremity
+ISIC_0029233.jpg,SK,2,75.0,female,7,anterior torso
+ISIC_0010077.jpg,NV,6,25.0,male,1,upper extremity
+ISIC_0065282.jpg,BCC,1,85.0,female,6,lower extremity
+ISIC_0010336.jpg,NV,6,45.0,female,5,head/neck
+ISIC_0071029.jpg,BCC,1,65.0,female,5,head/neck
+ISIC_0056451.jpg,NV,6,70.0,male,7,anterior torso
+ISIC_0070232.jpg,AK,0,85.0,female,5,head/neck
+ISIC_0072951.jpg,BCC,1,40.0,female,5,head/neck
+ISIC_0030425.jpg,NV,6,55.0,female,6,lower extremity
+ISIC_0065457.jpg,NV,6,30.0,female,7,anterior torso
+ISIC_0069302.jpg,NV,6,80.0,male,7,anterior torso
+ISIC_0025555.jpg,NV,6,35.0,female,7,anterior torso
+ISIC_0030964.jpg,BCC,1,55.0,male,7,posterior torso
+ISIC_0033115.jpg,NV,6,50.0,female,6,lower extremity
+ISIC_0063690.jpg,MEL,8,50.0,male,7,anterior torso
+ISIC_0026935.jpg,NV,6,40.0,female,7,anterior torso
+ISIC_0058556.jpg,BCC,1,70.0,female,6,lower extremity
+ISIC_0000358.jpg,NV,6,30.0,male,7,torso
+ISIC_0067479.jpg,NV,6,75.0,female,7,anterior torso
+ISIC_0010335.jpg,NV,6,65.0,male,6,lower extremity
+ISIC_0054836.jpg,BCC,1,60.0,female,6,lower extremity
+ISIC_0029686.jpg,NV,6,50.0,male,7,anterior torso
+ISIC_0031100.jpg,NV,6,55.0,male,6,lower extremity
+ISIC_0026211.jpg,NV,6,50.0,male,7,anterior torso
+ISIC_0025649.jpg,NV,6,50.0,female,7,anterior torso
+ISIC_0029060.jpg,SK,2,80.0,male,1,upper extremity
+ISIC_0014610_downsampled.jpg,SK,2,65.0,male,7,torso
+ISIC_0060034.jpg,NV,6,45.0,female,7,anterior torso
+ISIC_0062920.jpg,NV,6,25.0,male,6,lower extremity
+ISIC_0070244.jpg,NV,6,25.0,male,6,lower extremity
+ISIC_0071691.jpg,NV,6,80.0,female,5,head/neck
+ISIC_0059583.jpg,NV,6,35.0,female,6,lower extremity
+ISIC_0069678.jpg,NV,6,55.0,male,7,anterior torso
+ISIC_0071945.jpg,NV,6,65.0,male,6,lower extremity
+ISIC_0026393.jpg,VASC,4,80.0,male,7,torso
+ISIC_0062894.jpg,NV,6,45.0,female,7,anterior torso
+ISIC_0013600_downsampled.jpg,NV,6,80.0,male,6,lower extremity
+ISIC_0057875.jpg,NV,6,65.0,male,7,anterior torso
+ISIC_0054079.jpg,MEL,8,75.0,female,7,anterior torso
+ISIC_0010361.jpg,NV,6,40.0,male,5,head/neck
+ISIC_0033907.jpg,NV,6,35.0,male,7,torso
+ISIC_0068529.jpg,BCC,1,65.0,male,5,head/neck
+ISIC_0072503.jpg,NV,6,40.0,male,7,anterior torso
+ISIC_0063245.jpg,NV,6,40.0,female,5,head/neck
+ISIC_0033362.jpg,MEL,8,85.0,female,7,posterior torso
+ISIC_0055259.jpg,AK,0,75.0,male,6,lower extremity
+ISIC_0025205.jpg,NV,6,45.0,female,6,lower extremity
+ISIC_0025456.jpg,NV,6,30.0,male,1,upper extremity
+ISIC_0027339.jpg,NV,6,50.0,female,6,lower extremity
+ISIC_0027660.jpg,NV,6,40.0,female,6,lower extremity
+ISIC_0057858.jpg,NV,6,35.0,female,7,anterior torso
+ISIC_0031220.jpg,NV,6,35.0,female,1,upper extremity
+ISIC_0001190_downsampled.jpg,NV,6,15.0,male,7,torso
+ISIC_0026643.jpg,BCC,1,75.0,male,6,lower extremity
+ISIC_0067714.jpg,BCC,1,60.0,male,1,upper extremity
+ISIC_0033394.jpg,MEL,8,50.0,male,7,torso
+ISIC_0025595.jpg,NV,6,45.0,female,1,upper extremity
+ISIC_0072047.jpg,BCC,1,65.0,male,5,head/neck
+ISIC_0026207.jpg,MEL,8,45.0,female,6,lower extremity
+ISIC_0069683.jpg,SK,2,55.0,female,7,anterior torso
+ISIC_0034202.jpg,MEL,8,70.0,female,7,posterior torso
+ISIC_0066579.jpg,NV,6,80.0,female,6,lower extremity
+ISIC_0033106.jpg,NV,6,35.0,male,7,posterior torso
+ISIC_0029597.jpg,NV,6,30.0,male,7,posterior torso
+ISIC_0066411.jpg,NV,6,50.0,female,6,lower extremity
+ISIC_0066356.jpg,NV,6,30.0,female,6,lower extremity
+ISIC_0033820.jpg,MEL,8,70.0,male,5,head/neck
+ISIC_0053643.jpg,NV,6,65.0,male,7,anterior torso
+ISIC_0060204.jpg,SK,2,75.0,male,5,head/neck
+ISIC_0061867.jpg,BCC,1,60.0,female,5,head/neck
+ISIC_0059372.jpg,AK,0,40.0,female,5,head/neck
+ISIC_0064555.jpg,BCC,1,85.0,male,6,lower extremity
+ISIC_0026302.jpg,NV,6,55.0,female,7,torso
+ISIC_0015963_downsampled.jpg,NV,6,35.0,female,7,torso
+ISIC_0063116.jpg,NV,6,45.0,female,7,anterior torso
+ISIC_0009927.jpg,MEL,8,40.0,female,5,head/neck
+ISIC_0069734.jpg,BCC,1,50.0,female,7,anterior torso
+ISIC_0013667_downsampled.jpg,SK,2,50.0,female,6,lower extremity
+ISIC_0033096.jpg,NV,6,40.0,male,7,posterior torso
+ISIC_0024529.jpg,NV,6,25.0,male,7,anterior torso
+ISIC_0065561.jpg,BCC,1,85.0,male,7,anterior torso
+ISIC_0055166.jpg,SK,2,75.0,female,7,anterior torso
+ISIC_0053784.jpg,MEL,8,65.0,male,5,head/neck
+ISIC_0063659.jpg,NV,6,50.0,unknown,7,torso
+ISIC_0072115.jpg,NV,6,45.0,male,1,upper extremity
+ISIC_0027746.jpg,NV,6,40.0,male,7,torso
+ISIC_0032188.jpg,NV,6,55.0,male,7,anterior torso
+ISIC_0058845.jpg,BCC,1,50.0,male,5,head/neck
+ISIC_0025983.jpg,NV,6,20.0,female,7,anterior torso
+ISIC_0033086.jpg,NV,6,25.0,female,7,posterior torso
+ISIC_0059632.jpg,MEL,8,65.0,female,1,upper extremity
+ISIC_0014278_downsampled.jpg,SK,2,55.0,male,7,anterior torso
+ISIC_0027058.jpg,BCC,1,75.0,male,7,posterior torso
+ISIC_0054137.jpg,AK,0,60.0,male,7,anterior torso
+ISIC_0027930.jpg,SCC,3,60.0,male,5,head/neck
+ISIC_0068734.jpg,NV,6,50.0,male,7,anterior torso
+ISIC_0030179.jpg,NV,6,35.0,male,7,anterior torso
+ISIC_0056373.jpg,NV,6,45.0,female,5,head/neck
+ISIC_0026402.jpg,NV,6,25.0,female,6,lower extremity
+ISIC_0026530.jpg,SK,2,55.0,female,5,head/neck
+ISIC_0027270.jpg,SK,2,55.0,female,5,head/neck
+ISIC_0056603.jpg,NV,6,45.0,female,5,head/neck
+ISIC_0026600.jpg,NV,6,30.0,female,5,head/neck
+ISIC_0000300.jpg,MEL,8,60.0,female,6,lower extremity
+ISIC_0025783.jpg,MEL,8,65.0,male,7,posterior torso
+ISIC_0010586.jpg,NV,6,40.0,female,7,anterior torso
+ISIC_0009870.jpg,NV,6,40.0,female,1,upper extremity
+ISIC_0031614.jpg,BCC,1,45.0,female,7,posterior torso
+ISIC_0072329.jpg,NV,6,10.0,female,6,lower extremity
+ISIC_0056101.jpg,AK,0,75.0,male,5,head/neck
+ISIC_0009942.jpg,NV,6,25.0,male,7,anterior torso
+ISIC_0059536.jpg,NV,6,25.0,female,2,palms/soles
+ISIC_0069080.jpg,NV,6,45.0,male,7,anterior torso
+ISIC_0026042.jpg,SK,2,75.0,male,7,anterior torso
+ISIC_0029449.jpg,NV,6,55.0,female,7,posterior torso
+ISIC_0029110.jpg,NV,6,35.0,male,1,upper extremity
+ISIC_0024732.jpg,MEL,8,50.0,female,1,upper extremity
+ISIC_0067940.jpg,BCC,1,40.0,female,7,anterior torso
+ISIC_0067600.jpg,BCC,1,65.0,female,1,upper extremity
+ISIC_0069400.jpg,NV,6,55.0,female,6,lower extremity
+ISIC_0058016.jpg,MEL,8,80.0,male,7,anterior torso
+ISIC_0068632.jpg,BCC,1,45.0,female,1,upper extremity
+ISIC_0000041_downsampled.jpg,NV,6,40.0,female,6,lower extremity
+ISIC_0030741.jpg,NV,6,35.0,female,7,anterior torso
+ISIC_0056340.jpg,NV,6,35.0,female,6,lower extremity
+ISIC_0055185.jpg,SK,2,75.0,male,7,anterior torso
+ISIC_0030097.jpg,NV,6,35.0,male,6,lower extremity
+ISIC_0024862.jpg,NV,6,85.0,male,7,torso
+ISIC_0034120.jpg,MEL,8,60.0,female,6,lower extremity
+ISIC_0030740.jpg,NV,6,30.0,female,5,head/neck
+ISIC_0054355.jpg,MEL,8,60.0,female,2,palms/soles
+ISIC_0072331.jpg,NV,6,50.0,male,7,anterior torso
+ISIC_0026765.jpg,AK,0,55.0,female,7,anterior torso
+ISIC_0033566.jpg,NV,6,35.0,female,7,posterior torso
+ISIC_0057820.jpg,BCC,1,80.0,male,1,upper extremity
+ISIC_0064836.jpg,MEL,8,75.0,male,7,anterior torso
+ISIC_0029456.jpg,NV,6,50.0,female,7,posterior torso
+ISIC_0072048.jpg,BCC,1,55.0,male,7,anterior torso
+ISIC_0026932.jpg,NV,6,50.0,male,7,posterior torso
+ISIC_0067424.jpg,NV,6,50.0,male,7,anterior torso
+ISIC_0055680.jpg,MEL,8,20.0,male,7,anterior torso
+ISIC_0071488.jpg,NV,6,50.0,male,5,head/neck
+ISIC_0032139.jpg,BCC,1,85.0,female,5,head/neck
+ISIC_0030195.jpg,NV,6,35.0,female,6,lower extremity
+ISIC_0032395.jpg,SK,2,65.0,female,5,head/neck
+ISIC_0011132.jpg,MEL,8,75.0,male,1,upper extremity
+ISIC_0062880.jpg,NV,6,40.0,female,7,anterior torso
+ISIC_0068342.jpg,NV,6,35.0,female,7,anterior torso
+ISIC_0056635.jpg,NV,6,50.0,male,7,anterior torso
+ISIC_0032174.jpg,BCC,1,75.0,male,7,posterior torso
+ISIC_0031204.jpg,NV,6,50.0,male,6,lower extremity
+ISIC_0026417.jpg,DF,5,30.0,male,6,lower extremity
+ISIC_0026768.jpg,NV,6,55.0,male,6,lower extremity
+ISIC_0057569.jpg,BCC,1,55.0,female,6,lower extremity
+ISIC_0028632.jpg,NV,6,60.0,male,5,head/neck
+ISIC_0068040.jpg,SK,2,80.0,male,5,head/neck
+ISIC_0025436.jpg,NV,6,55.0,male,7,posterior torso
+ISIC_0054050.jpg,NV,6,45.0,male,7,anterior torso
+ISIC_0033537.jpg,NV,6,20.0,male,7,posterior torso
+ISIC_0055995.jpg,NV,6,15.0,male,3,oral/genital
+ISIC_0025075.jpg,SK,2,60.0,male,1,upper extremity
+ISIC_0053652.jpg,NV,6,85.0,female,6,lower extremity
+ISIC_0032985.jpg,MEL,8,25.0,male,1,upper extremity
+ISIC_0065709.jpg,MEL,8,80.0,male,1,upper extremity
+ISIC_0071987.jpg,BCC,1,80.0,male,5,head/neck
+ISIC_0062451.jpg,BCC,1,65.0,male,6,lower extremity
+ISIC_0030829.jpg,NV,6,35.0,female,7,torso
+ISIC_0060749.jpg,MEL,8,85.0,female,5,head/neck
+ISIC_0024430.jpg,NV,6,35.0,male,6,lower extremity
+ISIC_0058368.jpg,MEL,8,50.0,female,6,lower extremity
+ISIC_0027595.jpg,BCC,1,40.0,female,6,lower extremity
+ISIC_0064606.jpg,MEL,8,45.0,female,7,anterior torso
+ISIC_0029930.jpg,AK,0,70.0,female,5,head/neck
+ISIC_0064648.jpg,NV,6,40.0,male,7,anterior torso
+ISIC_0058042.jpg,NV,6,45.0,male,6,lower extremity
+ISIC_0062801.jpg,NV,6,45.0,female,7,anterior torso
+ISIC_0072850.jpg,NV,6,50.0,female,1,upper extremity
+ISIC_0072229.jpg,BCC,1,85.0,male,5,head/neck
+ISIC_0062760.jpg,NV,6,35.0,female,7,anterior torso
+ISIC_0054403.jpg,NV,6,50.0,male,7,anterior torso
+ISIC_0072729.jpg,NV,6,75.0,female,2,palms/soles
+ISIC_0030991.jpg,SCC,3,45.0,male,5,head/neck
+ISIC_0068905.jpg,MEL,8,60.0,female,7,anterior torso
+ISIC_0014554_downsampled.jpg,SK,2,50.0,female,1,upper extremity
+ISIC_0014911_downsampled.jpg,NV,6,25.0,female,7,anterior torso
+ISIC_0013736_downsampled.jpg,MEL,8,55.0,male,7,posterior torso
+ISIC_0027184.jpg,SCC,3,60.0,male,7,posterior torso
+ISIC_0056155.jpg,NV,6,30.0,female,1,upper extremity
+ISIC_0029760.jpg,DF,5,70.0,male,6,lower extremity
+ISIC_0013071_downsampled.jpg,NV,6,55.0,female,6,lower extremity
+ISIC_0024518.jpg,NV,6,35.0,female,7,posterior torso
+ISIC_0071598.jpg,BCC,1,50.0,female,5,head/neck
+ISIC_0026566.jpg,SK,2,70.0,female,7,torso
+ISIC_0056206.jpg,BCC,1,45.0,male,1,upper extremity
+ISIC_0066327.jpg,NV,6,40.0,male,7,anterior torso
+ISIC_0072102.jpg,NV,6,55.0,male,1,upper extremity
+ISIC_0000149_downsampled.jpg,MEL,8,50.0,unknown,7,torso
+ISIC_0066821.jpg,BCC,1,80.0,male,7,anterior torso
+ISIC_0071352.jpg,NV,6,35.0,male,7,anterior torso
+ISIC_0029045.jpg,NV,6,35.0,female,1,upper extremity
+ISIC_0033521.jpg,NV,6,40.0,female,1,upper extremity
+ISIC_0000531.jpg,MEL,8,50.0,unknown,1,upper extremity
+ISIC_0066707.jpg,BCC,1,80.0,male,7,anterior torso
+ISIC_0000063_downsampled.jpg,NV,6,45.0,female,7,anterior torso
+ISIC_0034062.jpg,MEL,8,80.0,female,5,head/neck
+ISIC_0058173.jpg,MEL,8,70.0,female,6,lower extremity
+ISIC_0034168.jpg,SK,2,85.0,male,7,anterior torso
+ISIC_0055262.jpg,BCC,1,70.0,male,6,lower extremity
+ISIC_0000131_downsampled.jpg,NV,6,50.0,unknown,7,torso
+ISIC_0067638.jpg,BCC,1,55.0,female,7,anterior torso
+ISIC_0032996.jpg,NV,6,40.0,female,7,torso
+ISIC_0058460.jpg,AK,0,55.0,male,5,head/neck
+ISIC_0055135.jpg,BCC,1,80.0,male,7,anterior torso
+ISIC_0066756.jpg,MEL,8,80.0,female,7,anterior torso
+ISIC_0027056.jpg,NV,6,60.0,male,7,posterior torso
+ISIC_0027175.jpg,BCC,1,70.0,female,5,head/neck
+ISIC_0028832.jpg,NV,6,55.0,male,7,torso
+ISIC_0027255.jpg,NV,6,60.0,female,7,posterior torso
+ISIC_0058999.jpg,MEL,8,70.0,male,1,upper extremity
+ISIC_0061993.jpg,SK,2,75.0,male,7,anterior torso
+ISIC_0058466.jpg,BCC,1,40.0,male,7,anterior torso
+ISIC_0071557.jpg,VASC,4,70.0,male,7,anterior torso
+ISIC_0027314.jpg,NV,6,60.0,male,7,torso
+ISIC_0028105.jpg,NV,6,35.0,male,6,lower extremity
+ISIC_0072185.jpg,NV,6,25.0,female,6,lower extremity
+ISIC_0031292.jpg,AK,0,60.0,male,1,upper extremity
+ISIC_0027550.jpg,SCC,3,65.0,female,1,upper extremity
+ISIC_0061405.jpg,SK,2,70.0,female,5,head/neck
+ISIC_0062319.jpg,NV,6,25.0,female,6,lower extremity
+ISIC_0025686.jpg,NV,6,65.0,male,7,torso
+ISIC_0033260.jpg,SK,2,80.0,male,7,torso
+ISIC_0065987.jpg,NV,6,65.0,female,1,upper extremity
+ISIC_0067218.jpg,AK,0,30.0,female,7,anterior torso
+ISIC_0065470.jpg,AK,0,55.0,male,5,head/neck
+ISIC_0054234.jpg,SK,2,85.0,male,5,head/neck
+ISIC_0069059.jpg,MEL,8,75.0,female,6,lower extremity
+ISIC_0033515.jpg,NV,6,50.0,unknown,7,torso
+ISIC_0057318.jpg,BCC,1,80.0,female,1,upper extremity
+ISIC_0026153.jpg,SK,2,70.0,male,7,posterior torso
+ISIC_0028315.jpg,NV,6,35.0,female,6,lower extremity
+ISIC_0056025.jpg,SCC,3,65.0,male,7,anterior torso
+ISIC_0069706.jpg,MEL,8,60.0,male,6,lower extremity
+ISIC_0065990.jpg,BCC,1,85.0,male,7,anterior torso
+ISIC_0034222.jpg,MEL,8,30.0,male,7,posterior torso
+ISIC_0024838.jpg,NV,6,45.0,female,7,anterior torso
+ISIC_0028451.jpg,SK,2,65.0,female,5,head/neck
+ISIC_0070898.jpg,NV,6,75.0,female,6,lower extremity
+ISIC_0064150.jpg,BCC,1,80.0,female,7,anterior torso
+ISIC_0032660.jpg,BCC,1,75.0,male,7,posterior torso
+ISIC_0070176.jpg,SK,2,70.0,male,6,lower extremity
+ISIC_0034225.jpg,NV,6,55.0,male,7,posterior torso
+ISIC_0000148_downsampled.jpg,MEL,8,50.0,unknown,7,torso
+ISIC_0033291.jpg,NV,6,35.0,male,7,torso
+ISIC_0054988.jpg,MEL,8,80.0,female,6,lower extremity
+ISIC_0013417_downsampled.jpg,NV,6,35.0,female,7,anterior torso
+ISIC_0062116.jpg,AK,0,75.0,female,6,lower extremity
+ISIC_0069298.jpg,NV,6,35.0,female,7,anterior torso
+ISIC_0027822.jpg,MEL,8,85.0,male,5,head/neck
+ISIC_0055420.jpg,NV,6,50.0,male,7,anterior torso
+ISIC_0069459.jpg,MEL,8,45.0,male,7,anterior torso
+ISIC_0028739.jpg,BCC,1,70.0,male,7,posterior torso
+ISIC_0024963.jpg,NV,6,35.0,male,5,head/neck
+ISIC_0061295.jpg,NV,6,65.0,female,5,head/neck
+ISIC_0029081.jpg,MEL,8,70.0,male,7,anterior torso
+ISIC_0029722.jpg,NV,6,35.0,female,7,posterior torso
+ISIC_0063683.jpg,NV,6,40.0,female,1,upper extremity
+ISIC_0055114.jpg,NV,6,35.0,male,7,anterior torso
+ISIC_0000298.jpg,MEL,8,50.0,male,6,lower extremity
+ISIC_0033243.jpg,NV,6,30.0,male,7,anterior torso
+ISIC_0032558.jpg,NV,6,45.0,female,7,posterior torso
+ISIC_0069255.jpg,BCC,1,55.0,male,5,head/neck
+ISIC_0069357.jpg,NV,6,35.0,male,7,anterior torso
+ISIC_0056099.jpg,BCC,1,75.0,female,7,anterior torso
+ISIC_0059504.jpg,DF,5,30.0,female,6,lower extremity
+ISIC_0026081.jpg,MEL,8,50.0,female,7,posterior torso
+ISIC_0028804.jpg,NV,6,75.0,female,5,head/neck
+ISIC_0063025.jpg,BCC,1,85.0,female,7,anterior torso
+ISIC_0054776.jpg,BCC,1,40.0,male,7,anterior torso
+ISIC_0060856.jpg,SK,2,80.0,male,7,anterior torso
+ISIC_0024946.jpg,SCC,3,45.0,male,7,posterior torso
+ISIC_0013027_downsampled.jpg,NV,6,25.0,male,1,upper extremity
+ISIC_0034311.jpg,NV,6,55.0,male,7,posterior torso
+ISIC_0065773.jpg,NV,6,30.0,female,1,upper extremity
+ISIC_0063300.jpg,MEL,8,65.0,male,5,head/neck
+ISIC_0067995.jpg,NV,6,45.0,female,7,anterior torso
+ISIC_0028229.jpg,SK,2,70.0,female,5,head/neck
+ISIC_0031323.jpg,NV,6,30.0,female,5,head/neck
+ISIC_0062546.jpg,NV,6,30.0,male,7,anterior torso
+ISIC_0025633.jpg,NV,6,60.0,male,7,posterior torso
+ISIC_0033556.jpg,NV,6,40.0,female,7,torso
+ISIC_0028518.jpg,NV,6,25.0,male,7,torso
+ISIC_0064365.jpg,NV,6,45.0,female,7,anterior torso
+ISIC_0029187.jpg,NV,6,35.0,female,6,lower extremity
+ISIC_0028328.jpg,NV,6,40.0,female,6,lower extremity
+ISIC_0031306.jpg,NV,6,25.0,female,7,posterior torso
+ISIC_0063872.jpg,MEL,8,85.0,female,5,head/neck
+ISIC_0014221_downsampled.jpg,MEL,8,85.0,male,1,upper extremity
+ISIC_0066641.jpg,NV,6,35.0,female,7,anterior torso
+ISIC_0062342.jpg,BCC,1,55.0,male,6,lower extremity
+ISIC_0055310.jpg,NV,6,60.0,female,7,anterior torso
+ISIC_0061359.jpg,MEL,8,60.0,male,5,head/neck
+ISIC_0031127.jpg,NV,6,40.0,male,7,posterior torso
+ISIC_0065341.jpg,MEL,8,35.0,female,7,anterior torso
+ISIC_0071000.jpg,MEL,8,80.0,male,7,anterior torso
+ISIC_0027385.jpg,VASC,4,20.0,male,7,torso
+ISIC_0064260.jpg,NV,6,35.0,male,7,anterior torso
+ISIC_0027846.jpg,BCC,1,65.0,female,7,posterior torso
+ISIC_0025218.jpg,NV,6,50.0,male,7,torso
+ISIC_0000363.jpg,NV,6,25.0,female,7,posterior torso
+ISIC_0029731.jpg,SK,2,75.0,male,5,head/neck
+ISIC_0058576.jpg,BCC,1,75.0,male,7,anterior torso
+ISIC_0061143.jpg,BCC,1,50.0,male,1,upper extremity
+ISIC_0030368.jpg,NV,6,45.0,male,6,lower extremity
+ISIC_0069441.jpg,NV,6,35.0,male,7,anterior torso
+ISIC_0064128.jpg,BCC,1,50.0,male,7,anterior torso
+ISIC_0027283.jpg,NV,6,50.0,female,7,torso
+ISIC_0053661.jpg,SK,2,70.0,male,7,torso
+ISIC_0059416.jpg,NV,6,50.0,female,7,anterior torso
+ISIC_0063805.jpg,NV,6,85.0,female,7,anterior torso
+ISIC_0029639.jpg,NV,6,60.0,female,6,lower extremity
+ISIC_0013997_downsampled.jpg,MEL,8,65.0,male,7,posterior torso
+ISIC_0055416.jpg,NV,6,15.0,male,7,anterior torso
+ISIC_0072860.jpg,NV,6,40.0,male,6,lower extremity
+ISIC_0027003.jpg,NV,6,25.0,female,6,lower extremity
+ISIC_0014217_downsampled.jpg,MEL,8,80.0,male,7,posterior torso
+ISIC_0066289.jpg,MEL,8,50.0,female,7,anterior torso
+ISIC_0025464.jpg,NV,6,50.0,male,6,lower extremity
+ISIC_0031043.jpg,SCC,3,85.0,male,5,head/neck
+ISIC_0059404.jpg,NV,6,25.0,female,7,anterior torso
+ISIC_0016014_downsampled.jpg,NV,6,40.0,female,7,torso
+ISIC_0030477.jpg,NV,6,35.0,female,6,lower extremity
+ISIC_0013052_downsampled.jpg,SK,2,60.0,female,1,upper extremity
+ISIC_0032794.jpg,NV,6,30.0,female,7,anterior torso
+ISIC_0054221.jpg,NV,6,55.0,female,6,lower extremity
+ISIC_0032480.jpg,NV,6,75.0,male,7,torso
+ISIC_0071461.jpg,BCC,1,55.0,male,5,head/neck
+ISIC_0024457.jpg,BCC,1,85.0,male,5,head/neck
+ISIC_0056141.jpg,MEL,8,85.0,male,7,anterior torso
+ISIC_0065303.jpg,BCC,1,80.0,female,7,anterior torso
+ISIC_0054715.jpg,NV,6,45.0,male,7,torso
+ISIC_0071151.jpg,SCC,3,45.0,female,6,lower extremity
+ISIC_0029441.jpg,NV,6,45.0,male,6,lower extremity
+ISIC_0030857.jpg,NV,6,65.0,male,1,upper extremity
+ISIC_0054055.jpg,BCC,1,70.0,female,7,torso
+ISIC_0033189.jpg,NV,6,55.0,female,6,lower extremity
+ISIC_0029708.jpg,NV,6,65.0,female,1,upper extremity
+ISIC_0059144.jpg,NV,6,35.0,female,7,anterior torso
+ISIC_0029115.jpg,SK,2,60.0,female,6,lower extremity
+ISIC_0056498.jpg,BCC,1,55.0,male,5,head/neck
+ISIC_0012357_downsampled.jpg,NV,6,45.0,male,7,torso
+ISIC_0070689.jpg,MEL,8,85.0,male,7,anterior torso
+ISIC_0057610.jpg,SCC,3,70.0,male,7,anterior torso
+ISIC_0060266.jpg,MEL,8,60.0,female,6,lower extremity
+ISIC_0070616.jpg,VASC,4,60.0,female,6,lower extremity
+ISIC_0032069.jpg,NV,6,45.0,female,1,upper extremity
+ISIC_0034166.jpg,NV,6,15.0,female,1,upper extremity
+ISIC_0064183.jpg,BCC,1,45.0,female,5,head/neck
+ISIC_0060447.jpg,NV,6,55.0,female,7,anterior torso
+ISIC_0000137_downsampled.jpg,NV,6,50.0,unknown,7,torso
+ISIC_0034310.jpg,NV,6,45.0,male,7,posterior torso
+ISIC_0061281.jpg,MEL,8,75.0,male,7,anterior torso
+ISIC_0054851.jpg,MEL,8,75.0,male,5,head/neck
+ISIC_0024312.jpg,SK,2,75.0,male,6,lower extremity
+ISIC_0066666.jpg,MEL,8,75.0,female,1,upper extremity
+ISIC_0055988.jpg,SK,2,65.0,female,1,upper extremity
+ISIC_0033299.jpg,MEL,8,85.0,male,7,torso
+ISIC_0029408.jpg,NV,6,45.0,female,7,anterior torso
+ISIC_0013213_downsampled.jpg,NV,6,55.0,male,6,lower extremity
+ISIC_0059805.jpg,NV,6,40.0,female,7,anterior torso
+ISIC_0056941.jpg,BCC,1,50.0,male,5,head/neck
+ISIC_0025275.jpg,SK,2,70.0,female,7,posterior torso
+ISIC_0000047_downsampled.jpg,NV,6,70.0,male,6,lower extremity
+ISIC_0057062.jpg,SK,2,65.0,male,6,lower extremity
+ISIC_0071195.jpg,NV,6,40.0,male,1,upper extremity
+ISIC_0025944.jpg,NV,6,40.0,male,6,lower extremity
+ISIC_0027498.jpg,NV,6,45.0,female,7,anterior torso
+ISIC_0025122.jpg,NV,6,30.0,male,7,torso
+ISIC_0014129_downsampled.jpg,MEL,8,60.0,female,7,anterior torso
+ISIC_0026586.jpg,MEL,8,85.0,male,1,upper extremity
+ISIC_0064767.jpg,NV,6,40.0,female,7,anterior torso
+ISIC_0012653_downsampled.jpg,NV,6,50.0,female,7,posterior torso
+ISIC_0029734.jpg,NV,6,40.0,female,6,lower extremity
+ISIC_0059486.jpg,MEL,8,65.0,male,5,head/neck
+ISIC_0065156.jpg,MEL,8,80.0,male,2,palms/soles
+ISIC_0027074.jpg,NV,6,35.0,male,7,anterior torso
+ISIC_0024603.jpg,NV,6,65.0,female,6,lower extremity
+ISIC_0068788.jpg,NV,6,55.0,male,7,anterior torso
+ISIC_0027198.jpg,NV,6,25.0,male,7,posterior torso
+ISIC_0027739.jpg,SK,2,50.0,male,6,lower extremity
+ISIC_0000157.jpg,MEL,8,60.0,male,1,upper extremity
+ISIC_0071194.jpg,NV,6,25.0,female,7,anterior torso
+ISIC_0069145.jpg,SK,2,60.0,male,6,lower extremity
+ISIC_0066294.jpg,NV,6,45.0,male,7,anterior torso
+ISIC_0026407.jpg,NV,6,60.0,female,7,torso
+ISIC_0061617.jpg,BCC,1,70.0,female,7,anterior torso
+ISIC_0055311.jpg,MEL,8,45.0,female,7,anterior torso
+ISIC_0060976.jpg,NV,6,45.0,female,1,upper extremity
+ISIC_0028897.jpg,MEL,8,75.0,female,7,posterior torso
+ISIC_0014498_downsampled.jpg,NV,6,35.0,female,7,anterior torso
+ISIC_0025490.jpg,NV,6,55.0,male,7,anterior torso
+ISIC_0030957.jpg,NV,6,35.0,female,7,posterior torso
+ISIC_0032502.jpg,NV,6,50.0,female,5,head/neck
+ISIC_0071864.jpg,BCC,1,80.0,female,6,lower extremity
+ISIC_0073020.jpg,NV,6,50.0,male,7,anterior torso
+ISIC_0027894.jpg,NV,6,45.0,female,7,anterior torso
+ISIC_0026948.jpg,NV,6,45.0,female,7,posterior torso
+ISIC_0025550.jpg,MEL,8,80.0,female,6,lower extremity
+ISIC_0014742_downsampled.jpg,NV,6,50.0,unknown,7,torso
+ISIC_0060966.jpg,SK,2,80.0,male,5,head/neck
+ISIC_0061892.jpg,SK,2,35.0,female,5,head/neck
+ISIC_0013579_downsampled.jpg,MEL,8,60.0,male,7,anterior torso
+ISIC_0025543.jpg,MEL,8,85.0,female,5,head/neck
+ISIC_0058073.jpg,NV,6,25.0,female,7,anterior torso
+ISIC_0058024.jpg,MEL,8,75.0,female,1,upper extremity
+ISIC_0029176.jpg,SK,2,60.0,male,5,head/neck
+ISIC_0061963.jpg,NV,6,45.0,female,7,anterior torso
+ISIC_0015363_downsampled.jpg,NV,6,35.0,female,7,anterior torso
+ISIC_0034189.jpg,SK,2,80.0,male,5,head/neck
+ISIC_0072393.jpg,MEL,8,75.0,male,7,anterior torso
+ISIC_0059527.jpg,NV,6,35.0,female,1,upper extremity
+ISIC_0059727.jpg,BCC,1,80.0,male,1,upper extremity
+ISIC_0072050.jpg,SK,2,75.0,male,7,anterior torso
+ISIC_0030973.jpg,NV,6,20.0,male,7,posterior torso
+ISIC_0057834.jpg,SK,2,55.0,male,5,head/neck
+ISIC_0027231.jpg,SCC,3,85.0,male,7,posterior torso
+ISIC_0063364.jpg,NV,6,50.0,female,7,anterior torso
+ISIC_0066593.jpg,MEL,8,80.0,male,7,anterior torso
+ISIC_0030154.jpg,NV,6,55.0,male,7,anterior torso
+ISIC_0064039.jpg,NV,6,15.0,male,7,anterior torso
+ISIC_0030228.jpg,NV,6,50.0,female,7,anterior torso
+ISIC_0014933_downsampled.jpg,NV,6,30.0,female,7,posterior torso
+ISIC_0032733.jpg,MEL,8,70.0,male,7,posterior torso
+ISIC_0031770.jpg,SK,2,55.0,female,6,lower extremity
+ISIC_0030757.jpg,DF,5,80.0,male,1,upper extremity
+ISIC_0010602.jpg,NV,6,60.0,male,7,anterior torso
+ISIC_0073205.jpg,SK,2,60.0,male,5,head/neck
+ISIC_0030665.jpg,DF,5,55.0,female,6,lower extremity
+ISIC_0030069.jpg,NV,6,75.0,male,7,posterior torso
+ISIC_0031657.jpg,NV,6,35.0,female,7,anterior torso
+ISIC_0011387.jpg,MEL,8,65.0,female,7,posterior torso
+ISIC_0071345.jpg,BCC,1,85.0,female,5,head/neck
+ISIC_0025768.jpg,NV,6,45.0,male,1,upper extremity
+ISIC_0057854.jpg,NV,6,45.0,male,7,anterior torso
+ISIC_0000089_downsampled.jpg,NV,6,50.0,unknown,7,torso
+ISIC_0057886.jpg,NV,6,30.0,female,6,lower extremity
+ISIC_0024885.jpg,BCC,1,50.0,female,7,posterior torso
+ISIC_0027800.jpg,NV,6,60.0,female,6,lower extremity
+ISIC_0033920.jpg,NV,6,25.0,female,1,upper extremity
+ISIC_0059547.jpg,MEL,8,65.0,male,7,anterior torso
+ISIC_0029180.jpg,NV,6,70.0,male,7,torso
+ISIC_0071479.jpg,NV,6,55.0,female,6,lower extremity
+ISIC_0066449.jpg,BCC,1,80.0,female,7,anterior torso
+ISIC_0065308.jpg,BCC,1,45.0,female,5,head/neck
+ISIC_0055213.jpg,MEL,8,60.0,male,7,anterior torso
+ISIC_0068219.jpg,SK,2,70.0,male,7,anterior torso
+ISIC_0026079.jpg,NV,6,35.0,female,7,posterior torso
+ISIC_0072203.jpg,NV,6,55.0,female,1,upper extremity
+ISIC_0029547.jpg,MEL,8,80.0,male,7,torso
+ISIC_0059306.jpg,BCC,1,35.0,female,7,anterior torso
+ISIC_0012999_downsampled.jpg,NV,6,60.0,male,7,anterior torso
+ISIC_0062978.jpg,MEL,8,75.0,male,7,anterior torso
+ISIC_0068173.jpg,NV,6,40.0,female,7,anterior torso
+ISIC_0070547.jpg,NV,6,50.0,female,5,head/neck
+ISIC_0028522.jpg,NV,6,35.0,male,6,lower extremity
+ISIC_0010572.jpg,NV,6,30.0,male,7,posterior torso
+ISIC_0069930.jpg,DF,5,15.0,male,7,anterior torso
+ISIC_0013707_downsampled.jpg,SK,2,85.0,female,6,lower extremity
+ISIC_0063391.jpg,NV,6,60.0,male,5,head/neck
+ISIC_0071450.jpg,BCC,1,40.0,female,5,head/neck
+ISIC_0061109.jpg,NV,6,20.0,female,7,anterior torso
+ISIC_0029059.jpg,SCC,3,80.0,female,6,lower extremity
+ISIC_0057901.jpg,BCC,1,85.0,male,7,anterior torso
+ISIC_0032713.jpg,NV,6,45.0,female,7,posterior torso
+ISIC_0031692.jpg,SCC,3,60.0,male,7,posterior torso
+ISIC_0069195.jpg,AK,0,60.0,male,5,head/neck
+ISIC_0054169.jpg,BCC,1,65.0,female,1,upper extremity
+ISIC_0027721.jpg,MEL,8,75.0,male,5,head/neck
+ISIC_0025728.jpg,NV,6,50.0,male,7,torso
+ISIC_0000444_downsampled.jpg,MEL,8,50.0,unknown,7,torso
+ISIC_0032359.jpg,SK,2,75.0,female,7,torso
+ISIC_0031091.jpg,NV,6,55.0,male,5,head/neck
+ISIC_0026023.jpg,NV,6,30.0,female,1,upper extremity
+ISIC_0059717.jpg,BCC,1,70.0,female,6,lower extremity
+ISIC_0073199.jpg,NV,6,45.0,male,2,palms/soles
+ISIC_0031269.jpg,NV,6,40.0,female,7,torso
+ISIC_0025283.jpg,NV,6,50.0,female,6,lower extremity
+ISIC_0027704.jpg,BCC,1,75.0,male,7,posterior torso
+ISIC_0033477.jpg,MEL,8,65.0,male,1,upper extremity
+ISIC_0067060.jpg,DF,5,55.0,male,6,lower extremity
+ISIC_0014004_downsampled.jpg,NV,6,40.0,male,7,anterior torso
+ISIC_0063961.jpg,MEL,8,60.0,female,7,anterior torso
+ISIC_0000259.jpg,NV,6,45.0,female,7,anterior torso
+ISIC_0069581.jpg,NV,6,30.0,female,2,palms/soles
+ISIC_0030605.jpg,SK,2,85.0,male,7,posterior torso
+ISIC_0033339.jpg,NV,6,40.0,female,7,torso
+ISIC_0062743.jpg,AK,0,40.0,female,5,head/neck
+ISIC_0063693.jpg,MEL,8,65.0,male,5,head/neck
+ISIC_0063702.jpg,BCC,1,65.0,male,5,head/neck
+ISIC_0028304.jpg,NV,6,60.0,female,7,posterior torso
+ISIC_0070170.jpg,MEL,8,65.0,male,6,lower extremity
+ISIC_0025605.jpg,AK,0,60.0,female,6,lower extremity
+ISIC_0063464.jpg,MEL,8,40.0,female,5,head/neck
+ISIC_0033192.jpg,MEL,8,30.0,male,7,torso
+ISIC_0069908.jpg,MEL,8,45.0,female,7,anterior torso
+ISIC_0030832.jpg,NV,6,45.0,male,7,posterior torso
+ISIC_0000263.jpg,NV,6,25.0,female,7,posterior torso
+ISIC_0026526.jpg,SK,2,60.0,male,5,head/neck
+ISIC_0031266.jpg,BCC,1,80.0,male,7,posterior torso
+ISIC_0055221.jpg,BCC,1,65.0,male,5,head/neck
+ISIC_0029774.jpg,NV,6,55.0,male,7,torso
+ISIC_0060680.jpg,BCC,1,85.0,male,7,anterior torso
+ISIC_0025941.jpg,MEL,8,55.0,male,7,posterior torso
+ISIC_0029162.jpg,NV,6,50.0,female,7,posterior torso
+ISIC_0071530.jpg,SK,2,45.0,male,5,head/neck
+ISIC_0014092_downsampled.jpg,MEL,8,65.0,female,1,upper extremity
+ISIC_0061008.jpg,MEL,8,80.0,female,7,anterior torso
+ISIC_0033308.jpg,NV,6,30.0,female,7,anterior torso
+ISIC_0010458.jpg,NV,6,35.0,female,5,head/neck
+ISIC_0067559.jpg,SK,2,70.0,male,5,head/neck
+ISIC_0029228.jpg,NV,6,35.0,male,6,lower extremity
+ISIC_0033489.jpg,NV,6,35.0,male,7,torso
+ISIC_0060156.jpg,NV,6,35.0,female,7,anterior torso
+ISIC_0024708.jpg,SK,2,80.0,male,7,posterior torso
+ISIC_0069100.jpg,NV,6,30.0,male,7,anterior torso
+ISIC_0029502.jpg,MEL,8,50.0,female,1,upper extremity
+ISIC_0031708.jpg,NV,6,30.0,female,7,posterior torso
+ISIC_0027892.jpg,NV,6,50.0,female,6,lower extremity
+ISIC_0070525.jpg,BCC,1,55.0,male,7,anterior torso
+ISIC_0031042.jpg,NV,6,75.0,male,6,lower extremity
+ISIC_0026860.jpg,NV,6,35.0,female,7,anterior torso
+ISIC_0058768.jpg,MEL,8,80.0,male,7,anterior torso
+ISIC_0027837.jpg,NV,6,15.0,male,7,posterior torso
+ISIC_0058085.jpg,NV,6,45.0,male,6,lower extremity
+ISIC_0026715.jpg,NV,6,55.0,female,6,lower extremity
+ISIC_0010257.jpg,NV,6,20.0,female,7,posterior torso
+ISIC_0065472.jpg,SCC,3,75.0,male,1,upper extremity
+ISIC_0072474.jpg,BCC,1,55.0,male,5,head/neck
+ISIC_0057386.jpg,NV,6,70.0,male,7,anterior torso
+ISIC_0025568.jpg,NV,6,50.0,female,7,posterior torso
+ISIC_0069239.jpg,NV,6,40.0,male,5,head/neck
+ISIC_0032888.jpg,MEL,8,55.0,male,6,lower extremity
+ISIC_0030118.jpg,SK,2,80.0,female,7,posterior torso
+ISIC_0000027_downsampled.jpg,NV,6,35.0,female,7,anterior torso
+ISIC_0068575.jpg,SK,2,80.0,male,6,lower extremity
+ISIC_0056404.jpg,NV,6,65.0,male,7,anterior torso
+ISIC_0030283.jpg,VASC,4,55.0,male,7,torso
+ISIC_0056297.jpg,BCC,1,80.0,male,5,head/neck
+ISIC_0054205.jpg,MEL,8,85.0,female,6,lower extremity
+ISIC_0013802_downsampled.jpg,NV,6,45.0,female,7,anterior torso
+ISIC_0054867.jpg,NV,6,35.0,female,7,anterior torso
+ISIC_0031719.jpg,VASC,4,75.0,female,1,upper extremity
+ISIC_0027344.jpg,SK,2,70.0,male,6,lower extremity
+ISIC_0012478_downsampled.jpg,SK,2,75.0,male,7,torso
+ISIC_0026729.jpg,AK,0,50.0,male,5,head/neck
+ISIC_0063948.jpg,NV,6,50.0,female,7,anterior torso
+ISIC_0069084.jpg,MEL,8,60.0,male,7,anterior torso
+ISIC_0029343.jpg,MEL,8,75.0,male,7,anterior torso
+ISIC_0063201.jpg,SK,2,65.0,male,5,head/neck
+ISIC_0057905.jpg,BCC,1,75.0,male,5,head/neck
+ISIC_0031021.jpg,NV,6,50.0,female,6,lower extremity
+ISIC_0000143_downsampled.jpg,MEL,8,50.0,unknown,7,torso
+ISIC_0072440.jpg,MEL,8,55.0,female,6,lower extremity
+ISIC_0071359.jpg,NV,6,40.0,female,7,anterior torso
+ISIC_0067045.jpg,NV,6,15.0,male,6,lower extremity
+ISIC_0031365.jpg,NV,6,50.0,male,1,upper extremity
+ISIC_0028260.jpg,NV,6,55.0,male,6,lower extremity
+ISIC_0033942.jpg,MEL,8,65.0,male,7,posterior torso
+ISIC_0031949.jpg,NV,6,60.0,female,7,torso
+ISIC_0064048.jpg,NV,6,55.0,female,2,palms/soles
+ISIC_0030645.jpg,NV,6,35.0,female,1,upper extremity
+ISIC_0033682.jpg,NV,6,45.0,female,7,torso
+ISIC_0059884.jpg,MEL,8,45.0,male,2,palms/soles
+ISIC_0026082.jpg,NV,6,55.0,female,6,lower extremity
+ISIC_0057314.jpg,SCC,3,80.0,male,7,anterior torso
+ISIC_0065833.jpg,BCC,1,75.0,male,7,anterior torso
+ISIC_0063985.jpg,BCC,1,55.0,male,7,anterior torso
+ISIC_0059923.jpg,NV,6,50.0,male,7,anterior torso
+ISIC_0054917.jpg,BCC,1,30.0,female,7,anterior torso
+ISIC_0030201.jpg,NV,6,50.0,female,6,lower extremity
+ISIC_0027796.jpg,SK,2,70.0,female,6,lower extremity
+ISIC_0032855.jpg,NV,6,20.0,female,7,anterior torso
+ISIC_0067131.jpg,BCC,1,70.0,male,5,head/neck
+ISIC_0032779.jpg,NV,6,40.0,female,7,posterior torso
+ISIC_0029613.jpg,SK,2,85.0,female,7,anterior torso
+ISIC_0065555.jpg,NV,6,45.0,female,7,anterior torso
+ISIC_0028901.jpg,MEL,8,35.0,female,5,head/neck
+ISIC_0056348.jpg,NV,6,30.0,female,7,anterior torso
+ISIC_0062236.jpg,BCC,1,80.0,male,7,anterior torso
+ISIC_0029612.jpg,SK,2,65.0,male,1,upper extremity
+ISIC_0072286.jpg,MEL,8,35.0,female,5,head/neck
+ISIC_0030234.jpg,NV,6,45.0,male,7,torso
+ISIC_0029238.jpg,MEL,8,65.0,male,7,posterior torso
+ISIC_0054979.jpg,MEL,8,60.0,female,5,head/neck
+ISIC_0027824.jpg,NV,6,60.0,male,6,lower extremity
+ISIC_0014772_downsampled.jpg,MEL,8,75.0,male,1,upper extremity
+ISIC_0068840.jpg,MEL,8,55.0,female,6,lower extremity
+ISIC_0016043_downsampled.jpg,NV,6,40.0,female,7,torso
+ISIC_0070502.jpg,NV,6,55.0,female,7,anterior torso
+ISIC_0028221.jpg,NV,6,50.0,male,7,anterior torso
+ISIC_0034099.jpg,NV,6,40.0,female,2,palms/soles
+ISIC_0056068.jpg,NV,6,35.0,male,1,upper extremity
+ISIC_0064698.jpg,NV,6,15.0,female,7,anterior torso
+ISIC_0055726.jpg,NV,6,60.0,female,3,oral/genital
+ISIC_0056346.jpg,MEL,8,25.0,female,5,head/neck
+ISIC_0063223.jpg,MEL,8,75.0,female,1,upper extremity
+ISIC_0030055.jpg,NV,6,30.0,male,6,lower extremity
+ISIC_0031964.jpg,NV,6,50.0,male,1,upper extremity
+ISIC_0024484.jpg,NV,6,55.0,male,7,anterior torso
+ISIC_0026282.jpg,BCC,1,50.0,male,1,upper extremity
+ISIC_0033675.jpg,DF,5,50.0,male,6,lower extremity
+ISIC_0060418.jpg,BCC,1,80.0,female,5,head/neck
+ISIC_0025539.jpg,SCC,3,75.0,male,6,lower extremity
+ISIC_0054080.jpg,MEL,8,75.0,female,2,palms/soles
+ISIC_0034000.jpg,MEL,8,75.0,male,7,posterior torso
+ISIC_0029573.jpg,SCC,3,70.0,male,6,lower extremity
+ISIC_0027887.jpg,NV,6,75.0,female,6,lower extremity
+ISIC_0069863.jpg,AK,0,70.0,male,5,head/neck
+ISIC_0057574.jpg,BCC,1,70.0,male,5,head/neck
+ISIC_0027120.jpg,BCC,1,80.0,female,6,lower extremity
+ISIC_0025232.jpg,NV,6,40.0,male,1,upper extremity
+ISIC_0061909.jpg,BCC,1,65.0,female,5,head/neck
+ISIC_0059846.jpg,NV,6,25.0,female,7,anterior torso
+ISIC_0033637.jpg,NV,6,35.0,female,7,posterior torso
+ISIC_0030256.jpg,NV,6,50.0,female,6,lower extremity
+ISIC_0054031.jpg,BCC,1,85.0,male,1,upper extremity
+ISIC_0027219.jpg,SK,2,50.0,male,5,head/neck
+ISIC_0026175.jpg,NV,6,45.0,male,6,lower extremity
+ISIC_0027996.jpg,SK,2,40.0,female,5,head/neck
+ISIC_0030336.jpg,NV,6,25.0,male,6,lower extremity
+ISIC_0053786.jpg,NV,6,45.0,male,6,lower extremity
+ISIC_0031011.jpg,NV,6,35.0,male,1,upper extremity
+ISIC_0068090.jpg,NV,6,45.0,male,7,anterior torso
+ISIC_0072259.jpg,NV,6,25.0,male,6,lower extremity
+ISIC_0063204.jpg,NV,6,40.0,female,7,anterior torso
+ISIC_0065629.jpg,SK,2,55.0,male,7,anterior torso
+ISIC_0058778.jpg,SK,2,60.0,female,6,lower extremity
+ISIC_0014526_downsampled.jpg,SK,2,65.0,female,5,head/neck
+ISIC_0027130.jpg,MEL,8,70.0,male,7,anterior torso
+ISIC_0010582.jpg,NV,6,50.0,male,7,posterior torso
+ISIC_0012928_downsampled.jpg,SK,2,60.0,female,7,anterior torso
+ISIC_0024574.jpg,NV,6,40.0,female,6,lower extremity
+ISIC_0063803.jpg,BCC,1,85.0,male,6,lower extremity
+ISIC_0034032.jpg,NV,6,40.0,male,6,lower extremity
+ISIC_0058997.jpg,BCC,1,85.0,male,1,upper extremity
+ISIC_0063952.jpg,MEL,8,30.0,female,6,lower extremity
+ISIC_0065039.jpg,MEL,8,45.0,female,7,anterior torso
+ISIC_0030314.jpg,BCC,1,40.0,female,7,posterior torso
+ISIC_0060625.jpg,BCC,1,65.0,female,1,upper extremity
+ISIC_0058658.jpg,MEL,8,70.0,female,1,upper extremity
+ISIC_0063848.jpg,NV,6,45.0,male,7,anterior torso
+ISIC_0034029.jpg,NV,6,20.0,female,6,lower extremity
+ISIC_0062249.jpg,NV,6,45.0,female,7,anterior torso
+ISIC_0068845.jpg,AK,0,75.0,male,5,head/neck
+ISIC_0069597.jpg,NV,6,75.0,male,7,torso
+ISIC_0053539.jpg,NV,6,35.0,female,7,anterior torso
+ISIC_0027839.jpg,NV,6,45.0,male,7,anterior torso
+ISIC_0071831.jpg,SK,2,40.0,male,7,anterior torso
+ISIC_0058429.jpg,NV,6,60.0,female,2,palms/soles
+ISIC_0028309.jpg,SK,2,70.0,female,7,posterior torso
+ISIC_0031840.jpg,NV,6,60.0,female,7,torso
+ISIC_0007693_downsampled.jpg,NV,6,15.0,female,7,torso
+ISIC_0001423_downsampled.jpg,NV,6,15.0,female,7,torso
+ISIC_0063208.jpg,MEL,8,60.0,male,6,lower extremity
+ISIC_0000216.jpg,NV,6,30.0,male,7,anterior torso
+ISIC_0029788.jpg,NV,6,45.0,female,6,lower extremity
+ISIC_0027691.jpg,NV,6,45.0,female,7,torso
+ISIC_0067699.jpg,MEL,8,30.0,female,6,lower extremity
+ISIC_0056724.jpg,AK,0,70.0,male,1,upper extremity
+ISIC_0068882.jpg,MEL,8,45.0,male,7,anterior torso
+ISIC_0030227.jpg,SK,2,65.0,male,6,lower extremity
+ISIC_0031020.jpg,NV,6,50.0,female,7,posterior torso
+ISIC_0025059.jpg,NV,6,40.0,female,6,lower extremity
+ISIC_0025334.jpg,NV,6,50.0,female,7,torso
+ISIC_0031489.jpg,BCC,1,55.0,female,7,posterior torso
+ISIC_0072250.jpg,SCC,3,45.0,female,6,lower extremity
+ISIC_0054012.jpg,NV,6,55.0,female,1,upper extremity
+ISIC_0068927.jpg,NV,6,35.0,female,7,anterior torso
+ISIC_0009895.jpg,NV,6,30.0,male,7,posterior torso
+ISIC_0032983.jpg,SK,2,60.0,female,5,head/neck
+ISIC_0060546.jpg,AK,0,60.0,female,7,anterior torso
+ISIC_0062568.jpg,SCC,3,85.0,male,7,anterior torso
+ISIC_0068570.jpg,BCC,1,85.0,female,7,anterior torso
+ISIC_0025083.jpg,SK,2,55.0,male,7,posterior torso
+ISIC_0070549.jpg,MEL,8,75.0,female,1,upper extremity
+ISIC_0072083.jpg,NV,6,40.0,female,7,anterior torso
+ISIC_0000549.jpg,MEL,8,50.0,unknown,7,torso
+ISIC_0031495.jpg,SK,2,40.0,male,1,upper extremity
+ISIC_0033990.jpg,NV,6,30.0,female,5,head/neck
+ISIC_0057825.jpg,BCC,1,65.0,female,7,anterior torso
+ISIC_0030782.jpg,BCC,1,80.0,male,7,posterior torso
+ISIC_0029247.jpg,NV,6,0.0,male,6,lower extremity
+ISIC_0015174_downsampled.jpg,NV,6,50.0,female,7,anterior torso
+ISIC_0033294.jpg,NV,6,25.0,male,6,lower extremity
+ISIC_0014714_downsampled.jpg,NV,6,50.0,unknown,7,posterior torso
+ISIC_0028553.jpg,NV,6,45.0,female,7,torso
+ISIC_0030309.jpg,NV,6,55.0,male,6,lower extremity
+ISIC_0026227.jpg,NV,6,45.0,female,1,upper extremity
+ISIC_0028631.jpg,NV,6,30.0,male,7,posterior torso
+ISIC_0032040.jpg,SK,2,80.0,male,6,lower extremity
+ISIC_0028592.jpg,NV,6,20.0,male,6,lower extremity
+ISIC_0026630.jpg,NV,6,50.0,male,7,torso
+ISIC_0033854.jpg,SK,2,70.0,male,7,posterior torso
+ISIC_0063444.jpg,NV,6,35.0,male,7,anterior torso
+ISIC_0055455.jpg,BCC,1,85.0,male,5,head/neck
+ISIC_0055810.jpg,MEL,8,80.0,male,5,head/neck
+ISIC_0065140.jpg,BCC,1,60.0,female,1,upper extremity
+ISIC_0064347.jpg,SCC,3,60.0,male,5,head/neck
+ISIC_0063967.jpg,BCC,1,40.0,male,6,lower extremity
+ISIC_0066704.jpg,NV,6,40.0,male,7,anterior torso
+ISIC_0028711.jpg,NV,6,55.0,male,7,torso
+ISIC_0025049.jpg,NV,6,65.0,male,6,lower extremity
+ISIC_0030059.jpg,NV,6,0.0,male,5,head/neck
+ISIC_0014712_downsampled.jpg,SK,2,50.0,unknown,7,anterior torso
+ISIC_0057873.jpg,NV,6,60.0,female,7,anterior torso
+ISIC_0070791.jpg,BCC,1,80.0,male,7,anterior torso
+ISIC_0069759.jpg,AK,0,65.0,female,5,head/neck
+ISIC_0061725.jpg,SK,2,45.0,female,5,head/neck
+ISIC_0067510.jpg,MEL,8,55.0,male,2,palms/soles
+ISIC_0058174.jpg,MEL,8,80.0,male,7,anterior torso
+ISIC_0012178_downsampled.jpg,SK,2,50.0,male,7,torso
+ISIC_0072609.jpg,NV,6,70.0,male,5,head/neck
+ISIC_0062092.jpg,NV,6,50.0,male,7,anterior torso
+ISIC_0055712.jpg,SCC,3,65.0,male,1,upper extremity
+ISIC_0031622.jpg,NV,6,50.0,female,1,upper extremity
+ISIC_0030065.jpg,NV,6,75.0,male,7,torso
+ISIC_0066393.jpg,NV,6,35.0,male,6,lower extremity
+ISIC_0068231.jpg,BCC,1,65.0,female,5,head/neck
+ISIC_0031062.jpg,BCC,1,65.0,female,7,posterior torso
+ISIC_0026369.jpg,MEL,8,30.0,female,6,lower extremity
+ISIC_0025736.jpg,NV,6,50.0,female,6,lower extremity
+ISIC_0072040.jpg,SK,2,60.0,female,5,head/neck
+ISIC_0064906.jpg,SK,2,30.0,female,7,anterior torso
+ISIC_0025504.jpg,DF,5,50.0,female,6,lower extremity
+ISIC_0033078.jpg,NV,6,40.0,female,6,lower extremity
+ISIC_0063732.jpg,MEL,8,60.0,male,2,palms/soles
+ISIC_0010263.jpg,NV,6,75.0,female,6,lower extremity
+ISIC_0025171.jpg,NV,6,30.0,female,1,upper extremity
+ISIC_0024354.jpg,NV,6,40.0,female,7,anterior torso
+ISIC_0059762.jpg,NV,6,25.0,female,6,lower extremity
+ISIC_0071959.jpg,MEL,8,35.0,male,5,head/neck
+ISIC_0029553.jpg,NV,6,35.0,male,7,torso
+ISIC_0067200.jpg,MEL,8,65.0,male,6,lower extremity
+ISIC_0071822.jpg,NV,6,35.0,male,7,torso
+ISIC_0062860.jpg,NV,6,75.0,female,6,lower extremity
+ISIC_0026532.jpg,SK,2,75.0,female,5,head/neck
+ISIC_0029158.jpg,NV,6,45.0,female,7,torso
+ISIC_0024626.jpg,SK,2,70.0,male,7,posterior torso
+ISIC_0064926.jpg,MEL,8,45.0,female,7,anterior torso
+ISIC_0033616.jpg,MEL,8,40.0,female,6,lower extremity
+ISIC_0027789.jpg,NV,6,45.0,female,6,lower extremity
+ISIC_0059824.jpg,NV,6,35.0,female,6,lower extremity
+ISIC_0028073.jpg,NV,6,30.0,female,7,torso
+ISIC_0031293.jpg,NV,6,30.0,male,7,posterior torso
+ISIC_0054929.jpg,BCC,1,60.0,female,7,anterior torso
+ISIC_0062762.jpg,MEL,8,55.0,female,6,lower extremity
+ISIC_0030798.jpg,MEL,8,80.0,male,1,upper extremity
+ISIC_0063691.jpg,MEL,8,35.0,female,1,upper extremity
+ISIC_0064445.jpg,SK,2,65.0,male,5,head/neck
+ISIC_0067965.jpg,NV,6,70.0,male,7,anterior torso
+ISIC_0067843.jpg,MEL,8,70.0,male,7,anterior torso
+ISIC_0056458.jpg,NV,6,25.0,male,7,anterior torso
+ISIC_0033531.jpg,SK,2,85.0,male,7,posterior torso
+ISIC_0067205.jpg,MEL,8,70.0,male,5,head/neck
+ISIC_0011105.jpg,NV,6,30.0,male,7,anterior torso
+ISIC_0015943_downsampled.jpg,NV,6,65.0,female,7,torso
+ISIC_0072662.jpg,BCC,1,40.0,male,1,upper extremity
+ISIC_0069574.jpg,BCC,1,65.0,male,7,anterior torso
+ISIC_0027001.jpg,NV,6,40.0,female,7,torso
+ISIC_0069374.jpg,NV,6,65.0,male,7,anterior torso
+ISIC_0070528.jpg,NV,6,50.0,male,7,anterior torso
+ISIC_0071044.jpg,VASC,4,40.0,female,7,anterior torso
+ISIC_0054877.jpg,BCC,1,65.0,male,7,anterior torso
+ISIC_0060452.jpg,NV,6,80.0,female,2,palms/soles
+ISIC_0033475.jpg,NV,6,40.0,female,7,posterior torso
+ISIC_0030296.jpg,NV,6,60.0,male,7,posterior torso
+ISIC_0028021.jpg,NV,6,70.0,female,6,lower extremity
+ISIC_0057040.jpg,AK,0,55.0,male,1,upper extremity
+ISIC_0029548.jpg,SK,2,75.0,female,1,upper extremity
+ISIC_0071106.jpg,NV,6,35.0,male,7,anterior torso
+ISIC_0028130.jpg,NV,6,50.0,female,6,lower extremity
+ISIC_0067887.jpg,AK,0,70.0,female,5,head/neck
+ISIC_0015226_downsampled.jpg,NV,6,50.0,male,7,posterior torso
+ISIC_0015127_downsampled.jpg,MEL,8,50.0,unknown,6,lower extremity
+ISIC_0028608.jpg,NV,6,30.0,female,5,head/neck
+ISIC_0056648.jpg,NV,6,15.0,male,7,anterior torso
+ISIC_0053800.jpg,MEL,8,60.0,female,7,anterior torso
+ISIC_0071665.jpg,BCC,1,55.0,male,5,head/neck
+ISIC_0058767.jpg,BCC,1,65.0,female,1,upper extremity
+ISIC_0013523_downsampled.jpg,NV,6,50.0,male,6,lower extremity
+ISIC_0033873.jpg,NV,6,25.0,male,7,torso
+ISIC_0030896.jpg,NV,6,55.0,male,7,anterior torso
+ISIC_0073048.jpg,SK,2,55.0,male,6,lower extremity
+ISIC_0010356.jpg,NV,6,35.0,male,6,lower extremity
+ISIC_0054292.jpg,MEL,8,75.0,female,2,palms/soles
+ISIC_0068552.jpg,NV,6,30.0,male,7,anterior torso
+ISIC_0015078_downsampled.jpg,NV,6,50.0,unknown,7,posterior torso
+ISIC_0013370_downsampled.jpg,SK,2,50.0,female,6,lower extremity
+ISIC_0012537_downsampled.jpg,SK,2,40.0,male,7,torso
+ISIC_0073195.jpg,SCC,3,70.0,male,6,lower extremity
+ISIC_0033009.jpg,NV,6,40.0,male,7,torso
+ISIC_0001148_downsampled.jpg,MEL,8,85.0,male,7,posterior torso
+ISIC_0069589.jpg,BCC,1,85.0,female,6,lower extremity
+ISIC_0054368.jpg,SK,2,50.0,female,6,lower extremity
+ISIC_0026576.jpg,SK,2,85.0,male,5,head/neck
+ISIC_0029900.jpg,AK,0,60.0,male,5,head/neck
+ISIC_0032952.jpg,NV,6,60.0,male,7,anterior torso
+ISIC_0068786.jpg,BCC,1,85.0,female,5,head/neck
+ISIC_0030686.jpg,NV,6,55.0,male,7,posterior torso
+ISIC_0027261.jpg,MEL,8,75.0,male,5,head/neck
+ISIC_0031472.jpg,NV,6,40.0,female,6,lower extremity
+ISIC_0032576.jpg,SK,2,75.0,male,5,head/neck
+ISIC_0011358.jpg,NV,6,40.0,female,7,anterior torso
+ISIC_0069272.jpg,BCC,1,60.0,male,6,lower extremity
+ISIC_0033400.jpg,SK,2,60.0,female,6,lower extremity
+ISIC_0025599.jpg,VASC,4,15.0,male,5,head/neck
+ISIC_0053500.jpg,BCC,1,55.0,female,7,anterior torso
+ISIC_0059544.jpg,SK,2,40.0,male,7,anterior torso
+ISIC_0056534.jpg,NV,6,45.0,female,7,anterior torso
+ISIC_0061616.jpg,NV,6,80.0,female,6,lower extremity
+ISIC_0055034.jpg,NV,6,65.0,male,7,anterior torso
+ISIC_0000516.jpg,MEL,8,50.0,unknown,7,posterior torso
+ISIC_0067983.jpg,NV,6,45.0,male,7,anterior torso
+ISIC_0028408.jpg,NV,6,55.0,male,7,posterior torso
+ISIC_0030683.jpg,SK,2,45.0,male,5,head/neck
+ISIC_0028602.jpg,NV,6,30.0,female,7,posterior torso
+ISIC_0010171.jpg,MEL,8,70.0,male,6,lower extremity
+ISIC_0026408.jpg,NV,6,40.0,female,7,torso
+ISIC_0071823.jpg,NV,6,75.0,male,6,lower extremity
+ISIC_0028495.jpg,BCC,1,50.0,female,7,posterior torso
+ISIC_0069383.jpg,NV,6,45.0,male,7,anterior torso
+ISIC_0032958.jpg,MEL,8,70.0,male,6,lower extremity
+ISIC_0031410.jpg,MEL,8,35.0,female,7,anterior torso
+ISIC_0066603.jpg,MEL,8,35.0,female,5,head/neck
+ISIC_0032155.jpg,NV,6,45.0,female,7,torso
+ISIC_0054482.jpg,MEL,8,85.0,male,6,lower extremity
+ISIC_0029091.jpg,NV,6,5.0,male,7,torso
+ISIC_0033391.jpg,SK,2,50.0,unknown,7,torso
+ISIC_0065404.jpg,AK,0,30.0,male,5,head/neck
+ISIC_0071944.jpg,MEL,8,55.0,male,6,lower extremity
+ISIC_0027843.jpg,NV,6,60.0,male,6,lower extremity
+ISIC_0060243.jpg,NV,6,40.0,female,7,anterior torso
+ISIC_0030126.jpg,NV,6,45.0,male,7,posterior torso
+ISIC_0034035.jpg,NV,6,30.0,female,6,lower extremity
+ISIC_0033373.jpg,NV,6,0.0,male,1,upper extremity
+ISIC_0057635.jpg,SK,2,65.0,female,6,lower extremity
+ISIC_0010074.jpg,NV,6,20.0,female,7,posterior torso
+ISIC_0058430.jpg,NV,6,65.0,male,6,lower extremity
+ISIC_0012699_downsampled.jpg,NV,6,25.0,male,7,posterior torso
+ISIC_0065639.jpg,SK,2,85.0,female,5,head/neck
+ISIC_0061691.jpg,AK,0,80.0,male,5,head/neck
+ISIC_0025698.jpg,NV,6,40.0,female,7,torso
+ISIC_0066864.jpg,AK,0,60.0,male,7,anterior torso
+ISIC_0026323.jpg,NV,6,30.0,male,7,posterior torso
+ISIC_0072500.jpg,NV,6,30.0,female,6,lower extremity
+ISIC_0025080.jpg,NV,6,50.0,male,7,anterior torso
+ISIC_0026599.jpg,NV,6,70.0,female,7,posterior torso
+ISIC_0033923.jpg,NV,6,60.0,female,7,posterior torso
+ISIC_0064466.jpg,NV,6,40.0,male,7,anterior torso
+ISIC_0072654.jpg,MEL,8,60.0,male,2,palms/soles
+ISIC_0063651.jpg,BCC,1,70.0,female,7,anterior torso
+ISIC_0028424.jpg,NV,6,40.0,male,7,torso
+ISIC_0065421.jpg,MEL,8,50.0,female,6,lower extremity
+ISIC_0000456_downsampled.jpg,NV,6,50.0,unknown,7,torso
+ISIC_0063565.jpg,NV,6,35.0,male,6,lower extremity
+ISIC_0031661.jpg,NV,6,55.0,female,7,anterior torso
+ISIC_0054174.jpg,SCC,3,80.0,female,5,head/neck
+ISIC_0066044.jpg,BCC,1,50.0,female,1,upper extremity
+ISIC_0032675.jpg,SK,2,75.0,male,7,posterior torso
+ISIC_0067677.jpg,BCC,1,30.0,female,5,head/neck
+ISIC_0058611.jpg,BCC,1,40.0,male,6,lower extremity
+ISIC_0033598.jpg,NV,6,15.0,female,6,lower extremity
+ISIC_0071730.jpg,BCC,1,70.0,male,5,head/neck
+ISIC_0068032.jpg,BCC,1,65.0,male,6,lower extremity
+ISIC_0056510.jpg,BCC,1,55.0,male,7,torso
+ISIC_0058715.jpg,NV,6,40.0,female,7,anterior torso
+ISIC_0057377.jpg,NV,6,45.0,male,7,anterior torso
+ISIC_0057454.jpg,NV,6,30.0,female,6,lower extremity
+ISIC_0059011.jpg,SK,2,70.0,male,5,head/neck
+ISIC_0031380.jpg,NV,6,60.0,female,7,anterior torso
+ISIC_0058094.jpg,NV,6,25.0,female,7,anterior torso
+ISIC_0059017.jpg,BCC,1,45.0,male,7,anterior torso
+ISIC_0056984.jpg,MEL,8,45.0,female,7,anterior torso
+ISIC_0033315.jpg,NV,6,35.0,female,7,torso
+ISIC_0064694.jpg,MEL,8,50.0,unknown,2,palms/soles
+ISIC_0064603.jpg,BCC,1,85.0,male,5,head/neck
+ISIC_0067801.jpg,NV,6,65.0,female,6,lower extremity
+ISIC_0034063.jpg,NV,6,25.0,male,7,torso
+ISIC_0060488.jpg,SK,2,85.0,male,5,head/neck
+ISIC_0059278.jpg,NV,6,40.0,male,5,head/neck
+ISIC_0066497.jpg,MEL,8,70.0,male,7,anterior torso
+ISIC_0060707.jpg,NV,6,25.0,female,6,lower extremity
+ISIC_0011162.jpg,NV,6,60.0,female,6,lower extremity
+ISIC_0061723.jpg,SK,2,20.0,female,7,anterior torso
+ISIC_0026215.jpg,NV,6,55.0,female,1,upper extremity
+ISIC_0067661.jpg,NV,6,45.0,male,1,upper extremity
+ISIC_0012378_downsampled.jpg,NV,6,40.0,male,7,torso
+ISIC_0068079.jpg,SK,2,75.0,male,5,head/neck
+ISIC_0031744.jpg,NV,6,35.0,female,7,torso
+ISIC_0068810.jpg,BCC,1,85.0,female,5,head/neck
+ISIC_0061862.jpg,BCC,1,50.0,male,5,head/neck
+ISIC_0056035.jpg,NV,6,35.0,female,6,lower extremity
+ISIC_0065670.jpg,BCC,1,65.0,male,5,head/neck
+ISIC_0054881.jpg,BCC,1,80.0,male,7,anterior torso
+ISIC_0028292.jpg,NV,6,40.0,male,7,posterior torso
+ISIC_0060978.jpg,MEL,8,35.0,female,5,head/neck
+ISIC_0028994.jpg,BCC,1,85.0,male,6,lower extremity
+ISIC_0024775.jpg,NV,6,50.0,female,7,posterior torso
+ISIC_0067892.jpg,BCC,1,80.0,female,6,lower extremity
+ISIC_0068617.jpg,MEL,8,50.0,female,6,lower extremity
+ISIC_0071929.jpg,NV,6,50.0,male,7,anterior torso
+ISIC_0012544_downsampled.jpg,NV,6,50.0,female,7,torso
+ISIC_0025106.jpg,NV,6,65.0,male,1,upper extremity
+ISIC_0030652.jpg,NV,6,50.0,male,6,lower extremity
+ISIC_0064351.jpg,BCC,1,75.0,female,6,lower extremity
+ISIC_0030165.jpg,MEL,8,70.0,female,7,posterior torso
+ISIC_0031984.jpg,NV,6,20.0,female,7,posterior torso
+ISIC_0056738.jpg,NV,6,50.0,female,7,anterior torso
+ISIC_0055467.jpg,MEL,8,50.0,female,6,lower extremity
+ISIC_0029076.jpg,NV,6,80.0,male,7,torso
+ISIC_0030384.jpg,NV,6,10.0,male,1,upper extremity
+ISIC_0026316.jpg,SK,2,70.0,male,6,lower extremity
+ISIC_0014998_downsampled.jpg,NV,6,50.0,female,6,lower extremity
+ISIC_0056459.jpg,NV,6,45.0,female,5,head/neck
+ISIC_0030455.jpg,NV,6,25.0,female,7,anterior torso
+ISIC_0055444.jpg,BCC,1,60.0,female,6,lower extremity
+ISIC_0026592.jpg,NV,6,25.0,female,7,anterior torso
+ISIC_0010494.jpg,NV,6,60.0,male,7,posterior torso
+ISIC_0063066.jpg,BCC,1,80.0,female,5,head/neck
+ISIC_0027680.jpg,SK,2,80.0,male,7,posterior torso
+ISIC_0056565.jpg,NV,6,30.0,female,6,lower extremity
+ISIC_0057718.jpg,NV,6,40.0,male,7,anterior torso
+ISIC_0027810.jpg,NV,6,50.0,female,7,torso
+ISIC_0029321.jpg,NV,6,60.0,male,7,anterior torso
+ISIC_0015037_downsampled.jpg,NV,6,25.0,male,7,posterior torso
+ISIC_0027991.jpg,SK,2,55.0,male,7,posterior torso
+ISIC_0012432_downsampled.jpg,SK,2,50.0,male,7,torso
+ISIC_0067226.jpg,NV,6,50.0,male,7,anterior torso
+ISIC_0064576.jpg,NV,6,40.0,male,7,anterior torso
+ISIC_0000513.jpg,MEL,8,50.0,unknown,1,upper extremity
+ISIC_0069614.jpg,AK,0,65.0,male,5,head/neck
+ISIC_0069933.jpg,MEL,8,65.0,male,5,head/neck
+ISIC_0070028.jpg,NV,6,60.0,female,7,anterior torso
+ISIC_0069988.jpg,MEL,8,45.0,female,2,palms/soles
+ISIC_0015984_downsampled.jpg,NV,6,75.0,female,7,torso
+ISIC_0066563.jpg,AK,0,80.0,male,1,upper extremity
+ISIC_0030463.jpg,AK,0,70.0,female,5,head/neck
+ISIC_0067377.jpg,AK,0,70.0,female,5,head/neck
+ISIC_0029508.jpg,NV,6,65.0,male,7,torso
+ISIC_0069915.jpg,BCC,1,50.0,female,5,head/neck
+ISIC_0030394.jpg,SK,2,55.0,female,5,head/neck
+ISIC_0028293.jpg,NV,6,70.0,male,6,lower extremity
+ISIC_0032755.jpg,NV,6,45.0,female,6,lower extremity
+ISIC_0009964.jpg,NV,6,45.0,female,1,upper extremity
+ISIC_0012758.jpg,MEL,8,45.0,male,7,lateral torso
+ISIC_0073207.jpg,NV,6,0.0,female,6,lower extremity
+ISIC_0059722.jpg,NV,6,45.0,female,7,anterior torso
+ISIC_0012450_downsampled.jpg,MEL,8,50.0,male,7,torso
+ISIC_0032847.jpg,MEL,8,45.0,male,7,anterior torso
+ISIC_0056726.jpg,MEL,8,55.0,female,6,lower extremity
+ISIC_0031172.jpg,NV,6,55.0,male,6,lower extremity
+ISIC_0024829.jpg,BCC,1,75.0,male,5,head/neck
+ISIC_0070661.jpg,BCC,1,80.0,male,5,head/neck
+ISIC_0030868.jpg,BCC,1,80.0,male,6,lower extremity
+ISIC_0053671.jpg,MEL,8,25.0,female,5,head/neck
+ISIC_0070911.jpg,BCC,1,25.0,female,5,head/neck
+ISIC_0025176.jpg,NV,6,60.0,male,6,lower extremity
+ISIC_0065126.jpg,SK,2,80.0,female,5,head/neck
+ISIC_0012654_downsampled.jpg,NV,6,30.0,female,6,lower extremity
+ISIC_0063595.jpg,MEL,8,50.0,male,5,head/neck
+ISIC_0031971.jpg,BCC,1,70.0,male,7,torso
+ISIC_0029196.jpg,NV,6,25.0,male,7,anterior torso
+ISIC_0072785.jpg,MEL,8,75.0,female,1,upper extremity
+ISIC_0062325.jpg,MEL,8,50.0,female,7,anterior torso
+ISIC_0031673.jpg,NV,6,30.0,female,7,posterior torso
+ISIC_0061348.jpg,BCC,1,55.0,male,5,head/neck
+ISIC_0025932.jpg,BCC,1,85.0,male,5,head/neck
+ISIC_0071023.jpg,SCC,3,85.0,male,5,head/neck
+ISIC_0027630.jpg,NV,6,40.0,male,7,posterior torso
+ISIC_0067875.jpg,NV,6,65.0,male,7,anterior torso
+ISIC_0070573.jpg,BCC,1,75.0,male,7,anterior torso
+ISIC_0029014.jpg,SK,2,70.0,female,5,head/neck
+ISIC_0033368.jpg,MEL,8,40.0,female,7,anterior torso
+ISIC_0000104_downsampled.jpg,NV,6,50.0,unknown,7,torso
+ISIC_0032420.jpg,MEL,8,65.0,female,5,head/neck
+ISIC_0073011.jpg,SK,2,85.0,male,6,lower extremity
+ISIC_0068017.jpg,BCC,1,80.0,male,6,lower extremity
+ISIC_0014284_downsampled.jpg,MEL,8,50.0,male,5,head/neck
+ISIC_0059764.jpg,MEL,8,55.0,male,7,anterior torso
+ISIC_0073108.jpg,SK,2,65.0,female,5,head/neck
+ISIC_0070885.jpg,NV,6,10.0,female,6,lower extremity
+ISIC_0056095.jpg,BCC,1,40.0,female,7,anterior torso
+ISIC_0031739.jpg,NV,6,40.0,male,7,torso
+ISIC_0025809.jpg,NV,6,55.0,male,1,upper extremity
+ISIC_0069939.jpg,AK,0,75.0,male,6,lower extremity
+ISIC_0068591.jpg,NV,6,35.0,female,7,anterior torso
+ISIC_0009758_downsampled.jpg,NV,6,15.0,male,7,torso
+ISIC_0057180.jpg,MEL,8,55.0,male,7,anterior torso
+ISIC_0027055.jpg,NV,6,40.0,female,6,lower extremity
+ISIC_0067149.jpg,NV,6,15.0,female,1,upper extremity
+ISIC_0061078.jpg,MEL,8,65.0,male,5,head/neck
+ISIC_0060732.jpg,NV,6,40.0,male,5,head/neck
+ISIC_0031902.jpg,NV,6,45.0,male,7,anterior torso
+ISIC_0061861.jpg,BCC,1,70.0,male,7,torso
+ISIC_0057646.jpg,SK,2,55.0,male,5,head/neck
+ISIC_0064222.jpg,AK,0,75.0,male,7,anterior torso
+ISIC_0028531.jpg,NV,6,30.0,female,7,anterior torso
+ISIC_0060948.jpg,NV,6,20.0,female,7,anterior torso
+ISIC_0061639.jpg,NV,6,20.0,male,5,head/neck
+ISIC_0061298.jpg,AK,0,50.0,male,1,upper extremity
+ISIC_0066264.jpg,SK,2,65.0,male,1,upper extremity
+ISIC_0024916.jpg,NV,6,45.0,female,6,lower extremity
+ISIC_0069682.jpg,SK,2,30.0,male,5,head/neck
+ISIC_0071022.jpg,NV,6,20.0,male,6,lower extremity
+ISIC_0029118.jpg,NV,6,55.0,male,7,anterior torso
+ISIC_0026542.jpg,NV,6,55.0,male,7,torso
+ISIC_0014658_downsampled.jpg,NV,6,40.0,male,7,anterior torso
+ISIC_0073238.jpg,MEL,8,45.0,female,1,upper extremity
+ISIC_0014587_downsampled.jpg,SK,2,60.0,male,5,head/neck
+ISIC_0027628.jpg,NV,6,55.0,male,6,lower extremity
+ISIC_0065498.jpg,SK,2,85.0,male,6,lower extremity
+ISIC_0025487.jpg,NV,6,50.0,female,6,lower extremity
+ISIC_0056665.jpg,SCC,3,65.0,male,5,head/neck
+ISIC_0027193.jpg,NV,6,55.0,female,7,anterior torso
+ISIC_0031768.jpg,NV,6,45.0,male,6,lower extremity
+ISIC_0012203_downsampled.jpg,NV,6,55.0,male,7,torso
+ISIC_0028517.jpg,AK,0,60.0,male,1,upper extremity
+ISIC_0062949.jpg,SK,2,45.0,male,7,anterior torso
+ISIC_0070705.jpg,NV,6,35.0,male,1,upper extremity
+ISIC_0032222.jpg,BCC,1,65.0,male,7,anterior torso
+ISIC_0062047.jpg,SK,2,60.0,male,7,anterior torso
+ISIC_0070704.jpg,SCC,3,70.0,male,5,head/neck
+ISIC_0032653.jpg,MEL,8,20.0,male,7,posterior torso
+ISIC_0032766.jpg,MEL,8,55.0,male,1,upper extremity
+ISIC_0060550.jpg,NV,6,50.0,female,7,anterior torso
+ISIC_0026693.jpg,VASC,4,75.0,male,7,anterior torso
+ISIC_0073037.jpg,BCC,1,85.0,male,7,anterior torso
+ISIC_0010382.jpg,NV,6,50.0,female,7,posterior torso
+ISIC_0064522.jpg,SCC,3,75.0,female,6,lower extremity
+ISIC_0055346.jpg,BCC,1,50.0,male,7,anterior torso
+ISIC_0027592.jpg,NV,6,50.0,female,7,torso
+ISIC_0068250.jpg,BCC,1,85.0,male,5,head/neck
+ISIC_0064824.jpg,BCC,1,50.0,female,1,upper extremity
+ISIC_0064173.jpg,NV,6,30.0,female,6,lower extremity
+ISIC_0025452.jpg,VASC,4,55.0,female,7,anterior torso
+ISIC_0057011.jpg,NV,6,30.0,male,7,anterior torso
+ISIC_0033307.jpg,SK,2,80.0,female,1,upper extremity
+ISIC_0027541.jpg,NV,6,50.0,female,6,lower extremity
+ISIC_0001372_downsampled.jpg,NV,6,15.0,male,7,torso
+ISIC_0033936.jpg,NV,6,20.0,male,6,lower extremity
+ISIC_0013696_downsampled.jpg,MEL,8,70.0,male,6,lower extremity
+ISIC_0025008.jpg,NV,6,70.0,male,1,upper extremity
+ISIC_0066530.jpg,NV,6,15.0,male,7,anterior torso
+ISIC_0027856.jpg,VASC,4,45.0,female,7,torso
+ISIC_0064341.jpg,MEL,8,60.0,female,7,anterior torso
+ISIC_0028262.jpg,NV,6,50.0,male,6,lower extremity
+ISIC_0063610.jpg,BCC,1,85.0,male,7,anterior torso
+ISIC_0060140.jpg,MEL,8,75.0,female,2,palms/soles
+ISIC_0066261.jpg,NV,6,40.0,male,7,anterior torso
+ISIC_0066600.jpg,MEL,8,35.0,male,5,head/neck
+ISIC_0028370.jpg,AK,0,60.0,male,5,head/neck
+ISIC_0055564.jpg,NV,6,50.0,male,6,lower extremity
+ISIC_0061304.jpg,NV,6,55.0,female,1,upper extremity
+ISIC_0000135_downsampled.jpg,NV,6,50.0,unknown,7,torso
+ISIC_0014059_downsampled.jpg,MEL,8,50.0,male,7,lateral torso
+ISIC_0033057.jpg,NV,6,45.0,male,7,anterior torso
+ISIC_0058269.jpg,SK,2,85.0,male,5,head/neck
+ISIC_0028326.jpg,MEL,8,40.0,female,6,lower extremity
+ISIC_0033262.jpg,SK,2,60.0,female,6,lower extremity
+ISIC_0032201.jpg,NV,6,45.0,male,6,lower extremity
+ISIC_0024360.jpg,BCC,1,50.0,female,7,anterior torso
+ISIC_0055643.jpg,MEL,8,70.0,male,2,palms/soles
+ISIC_0066033.jpg,NV,6,40.0,male,7,anterior torso
+ISIC_0000353.jpg,NV,6,50.0,female,7,torso
+ISIC_0065766.jpg,MEL,8,60.0,female,7,anterior torso
+ISIC_0062698.jpg,NV,6,35.0,male,6,lower extremity
+ISIC_0029250.jpg,NV,6,50.0,male,7,torso
+ISIC_0068544.jpg,NV,6,40.0,female,1,upper extremity
+ISIC_0028231.jpg,SCC,3,80.0,male,1,upper extremity
+ISIC_0058719.jpg,NV,6,40.0,female,7,anterior torso
+ISIC_0065295.jpg,NV,6,40.0,female,7,anterior torso
+ISIC_0066914.jpg,SK,2,75.0,male,7,anterior torso
+ISIC_0012212_downsampled.jpg,NV,6,60.0,female,7,torso
+ISIC_0072320.jpg,NV,6,15.0,female,1,upper extremity
+ISIC_0058905.jpg,BCC,1,55.0,female,7,anterior torso
+ISIC_0027807.jpg,NV,6,45.0,female,1,upper extremity
+ISIC_0029763.jpg,NV,6,35.0,male,6,lower extremity
+ISIC_0033937.jpg,NV,6,30.0,female,7,torso
+ISIC_0025449.jpg,NV,6,60.0,male,7,torso
+ISIC_0027472.jpg,NV,6,20.0,female,1,upper extremity
+ISIC_0055887.jpg,MEL,8,45.0,female,7,anterior torso
+ISIC_0059818.jpg,NV,6,40.0,female,7,anterior torso
+ISIC_0014197_downsampled.jpg,NV,6,65.0,female,6,lower extremity
+ISIC_0058394.jpg,VASC,4,40.0,male,6,lower extremity
+ISIC_0067020.jpg,BCC,1,85.0,male,5,head/neck
+ISIC_0061337.jpg,BCC,1,70.0,female,7,anterior torso
+ISIC_0027161.jpg,NV,6,55.0,male,6,lower extremity
+ISIC_0029635.jpg,NV,6,40.0,male,6,lower extremity
+ISIC_0014046_downsampled.jpg,NV,6,70.0,female,1,upper extremity
+ISIC_0015184_downsampled.jpg,NV,6,30.0,female,6,lower extremity
+ISIC_0070678.jpg,NV,6,85.0,female,7,anterior torso
+ISIC_0030654.jpg,NV,6,35.0,female,7,anterior torso
+ISIC_0028303.jpg,BCC,1,75.0,female,1,upper extremity
+ISIC_0033697.jpg,NV,6,25.0,male,7,torso
+ISIC_0059679.jpg,NV,6,15.0,male,7,anterior torso
+ISIC_0033158.jpg,VASC,4,45.0,female,7,anterior torso
+ISIC_0061346.jpg,BCC,1,85.0,female,6,lower extremity
+ISIC_0029127.jpg,NV,6,55.0,female,7,posterior torso
+ISIC_0011341.jpg,NV,6,45.0,female,7,anterior torso
+ISIC_0001267_downsampled.jpg,NV,6,15.0,male,7,torso
+ISIC_0069948.jpg,SCC,3,70.0,male,7,anterior torso
+ISIC_0060793.jpg,NV,6,10.0,female,6,lower extremity
+ISIC_0055279.jpg,MEL,8,50.0,female,6,lower extremity
+ISIC_0024588.jpg,NV,6,40.0,male,5,head/neck
+ISIC_0028457.jpg,BCC,1,75.0,female,5,head/neck
+ISIC_0000094_downsampled.jpg,NV,6,50.0,unknown,7,torso
+ISIC_0002948_downsampled.jpg,NV,6,15.0,female,7,torso
+ISIC_0013480_downsampled.jpg,NV,6,75.0,male,7,anterior torso
+ISIC_0054840.jpg,SK,2,85.0,male,6,lower extremity
+ISIC_0031242.jpg,NV,6,40.0,female,6,lower extremity
+ISIC_0071188.jpg,BCC,1,65.0,female,1,upper extremity
+ISIC_0028170.jpg,NV,6,55.0,female,7,posterior torso
+ISIC_0000136_downsampled.jpg,NV,6,50.0,unknown,7,torso
+ISIC_0030582.jpg,NV,6,50.0,female,6,lower extremity
+ISIC_0062431.jpg,NV,6,30.0,female,6,lower extremity
+ISIC_0073054.jpg,MEL,8,75.0,female,5,head/neck
+ISIC_0029268.jpg,SCC,3,85.0,male,1,upper extremity
+ISIC_0028515.jpg,NV,6,45.0,female,7,torso
+ISIC_0034179.jpg,NV,6,20.0,female,7,posterior torso
+ISIC_0060052.jpg,NV,6,30.0,male,7,anterior torso
+ISIC_0012710_downsampled.jpg,NV,6,55.0,female,1,upper extremity
+ISIC_0061096.jpg,BCC,1,80.0,male,5,head/neck
+ISIC_0032614.jpg,VASC,4,55.0,female,7,posterior torso
+ISIC_0026299.jpg,NV,6,45.0,male,6,lower extremity
+ISIC_0063760.jpg,SK,2,55.0,male,6,lower extremity
+ISIC_0055929.jpg,SCC,3,65.0,female,7,anterior torso
+ISIC_0024530.jpg,NV,6,35.0,male,6,lower extremity
+ISIC_0058746.jpg,NV,6,30.0,female,6,lower extremity
+ISIC_0056047.jpg,MEL,8,50.0,female,1,upper extremity
+ISIC_0029006.jpg,NV,6,40.0,male,6,lower extremity
+ISIC_0031235.jpg,NV,6,55.0,female,1,upper extremity
+ISIC_0027802.jpg,AK,0,50.0,male,5,head/neck
+ISIC_0025114.jpg,NV,6,35.0,male,7,posterior torso
+ISIC_0067573.jpg,NV,6,40.0,female,7,anterior torso
+ISIC_0028812.jpg,NV,6,45.0,female,6,lower extremity
+ISIC_0029861.jpg,NV,6,35.0,female,7,posterior torso
+ISIC_0031328.jpg,NV,6,45.0,female,6,lower extremity
+ISIC_0066989.jpg,SK,2,75.0,female,5,head/neck
+ISIC_0064623.jpg,MEL,8,40.0,female,7,anterior torso
+ISIC_0053851.jpg,NV,6,40.0,female,7,anterior torso
+ISIC_0032858.jpg,NV,6,40.0,male,7,posterior torso
+ISIC_0033548.jpg,NV,6,5.0,female,6,lower extremity
+ISIC_0068646.jpg,MEL,8,30.0,female,6,lower extremity
+ISIC_0015952_downsampled.jpg,NV,6,85.0,female,7,torso
+ISIC_0012148_downsampled.jpg,NV,6,50.0,male,7,torso
+ISIC_0030251.jpg,NV,6,65.0,male,6,lower extremity
+ISIC_0028202.jpg,NV,6,75.0,male,7,posterior torso
+ISIC_0028285.jpg,MEL,8,80.0,male,5,head/neck
+ISIC_0063367.jpg,MEL,8,30.0,male,1,upper extremity
+ISIC_0012956_downsampled.jpg,NV,6,60.0,female,7,posterior torso
+ISIC_0028526.jpg,NV,6,30.0,female,6,lower extremity
+ISIC_0032104.jpg,NV,6,45.0,male,7,anterior torso
+ISIC_0030429.jpg,NV,6,40.0,female,5,head/neck
+ISIC_0015193_downsampled.jpg,MEL,8,50.0,unknown,6,lower extremity
+ISIC_0013632_downsampled.jpg,SK,2,70.0,male,7,anterior torso
+ISIC_0031970.jpg,NV,6,75.0,male,7,torso
+ISIC_0032317.jpg,NV,6,50.0,female,7,torso
+ISIC_0000489.jpg,NV,6,50.0,unknown,1,upper extremity
+ISIC_0069043.jpg,AK,0,70.0,female,5,head/neck
+ISIC_0026965.jpg,NV,6,50.0,female,6,lower extremity
+ISIC_0056504.jpg,AK,0,40.0,female,5,head/neck
+ISIC_0030007.jpg,SK,2,85.0,female,1,upper extremity
+ISIC_0033248.jpg,BCC,1,85.0,female,5,head/neck
+ISIC_0060256.jpg,MEL,8,60.0,female,7,anterior torso
+ISIC_0029753.jpg,NV,6,55.0,female,1,upper extremity
+ISIC_0012089_downsampled.jpg,NV,6,45.0,female,7,torso
+ISIC_0033546.jpg,MEL,8,40.0,female,7,posterior torso
+ISIC_0003657_downsampled.jpg,NV,6,10.0,male,7,torso
+ISIC_0070667.jpg,NV,6,50.0,unknown,7,anterior torso
+ISIC_0056784.jpg,NV,6,40.0,male,7,anterior torso
+ISIC_0065874.jpg,BCC,1,55.0,female,7,anterior torso
+ISIC_0060968.jpg,MEL,8,50.0,female,7,anterior torso
+ISIC_0028775.jpg,NV,6,50.0,male,7,torso
+ISIC_0053569.jpg,SK,2,50.0,male,7,anterior torso
+ISIC_0026567.jpg,SK,2,70.0,female,5,head/neck
+ISIC_0072703.jpg,NV,6,10.0,female,7,anterior torso
+ISIC_0070350.jpg,SCC,3,45.0,female,6,lower extremity
+ISIC_0054057.jpg,SCC,3,70.0,female,6,lower extremity
+ISIC_0008294_downsampled.jpg,NV,6,15.0,male,7,torso
+ISIC_0059640.jpg,SK,2,75.0,male,7,anterior torso
+ISIC_0027493.jpg,NV,6,35.0,female,7,posterior torso
+ISIC_0061554.jpg,MEL,8,70.0,male,7,anterior torso
+ISIC_0000035_downsampled.jpg,MEL,8,25.0,female,6,lower extremity
+ISIC_0032856.jpg,MEL,8,70.0,male,1,upper extremity
+ISIC_0010444.jpg,NV,6,30.0,female,6,lower extremity
+ISIC_0067246.jpg,AK,0,70.0,male,5,head/neck
+ISIC_0032409.jpg,VASC,4,80.0,male,7,anterior torso
+ISIC_0070124.jpg,NV,6,30.0,female,7,anterior torso
+ISIC_0014602_downsampled.jpg,SK,2,80.0,male,7,torso
+ISIC_0071239.jpg,MEL,8,85.0,male,5,head/neck
+ISIC_0026725.jpg,NV,6,55.0,female,7,anterior torso
+ISIC_0058302.jpg,VASC,4,40.0,female,7,anterior torso
+ISIC_0070267.jpg,NV,6,20.0,male,5,head/neck
+ISIC_0068992.jpg,NV,6,50.0,unknown,7,anterior torso
+ISIC_0071580.jpg,MEL,8,60.0,female,6,lower extremity
+ISIC_0057287.jpg,NV,6,40.0,female,7,anterior torso
+ISIC_0015224_downsampled.jpg,NV,6,50.0,male,7,lateral torso
+ISIC_0024843.jpg,SCC,3,70.0,female,5,head/neck
+ISIC_0069856.jpg,BCC,1,50.0,male,7,anterior torso
+ISIC_0034017.jpg,NV,6,50.0,female,5,head/neck
+ISIC_0068952.jpg,SK,2,65.0,female,6,lower extremity
+ISIC_0069914.jpg,SCC,3,75.0,male,1,upper extremity
+ISIC_0009949.jpg,NV,6,50.0,male,7,anterior torso
+ISIC_0024778.jpg,NV,6,40.0,male,6,lower extremity
+ISIC_0070804.jpg,SK,2,75.0,male,7,anterior torso
+ISIC_0066567.jpg,NV,6,55.0,female,5,head/neck
+ISIC_0033520.jpg,MEL,8,55.0,male,5,head/neck
+ISIC_0012213_downsampled.jpg,NV,6,45.0,male,7,torso
+ISIC_0066177.jpg,NV,6,30.0,female,6,lower extremity
+ISIC_0029972.jpg,NV,6,35.0,female,1,upper extremity
+ISIC_0031240.jpg,NV,6,55.0,female,7,torso
+ISIC_0032241.jpg,NV,6,50.0,male,7,posterior torso
+ISIC_0028035.jpg,BCC,1,70.0,male,1,upper extremity
+ISIC_0054215.jpg,BCC,1,55.0,female,7,anterior torso
+ISIC_0053804.jpg,MEL,8,60.0,male,7,anterior torso
+ISIC_0056017.jpg,MEL,8,60.0,male,1,upper extremity
+ISIC_0064090.jpg,SCC,3,70.0,male,6,lower extremity
+ISIC_0071314.jpg,MEL,8,30.0,female,5,head/neck
+ISIC_0069828.jpg,BCC,1,70.0,female,7,anterior torso
+ISIC_0057660.jpg,NV,6,30.0,male,7,anterior torso
+ISIC_0026439.jpg,BCC,1,35.0,male,7,posterior torso
+ISIC_0030731.jpg,SK,2,70.0,male,7,anterior torso
+ISIC_0031180.jpg,NV,6,35.0,male,7,anterior torso
+ISIC_0060309.jpg,BCC,1,60.0,female,6,lower extremity
+ISIC_0033205.jpg,BCC,1,50.0,male,6,lower extremity
+ISIC_0072139.jpg,SK,2,60.0,male,7,anterior torso
+ISIC_0025963.jpg,MEL,8,50.0,female,1,upper extremity
+ISIC_0055080.jpg,NV,6,50.0,male,7,anterior torso
+ISIC_0025146.jpg,NV,6,50.0,female,1,upper extremity
+ISIC_0069592.jpg,MEL,8,55.0,female,1,upper extremity
+ISIC_0069035.jpg,NV,6,35.0,female,7,anterior torso
+ISIC_0028079.jpg,BCC,1,65.0,female,1,upper extremity
+ISIC_0026724.jpg,NV,6,40.0,male,7,anterior torso
+ISIC_0055008.jpg,MEL,8,30.0,male,1,upper extremity
+ISIC_0028915.jpg,MEL,8,50.0,male,1,upper extremity
+ISIC_0025761.jpg,NV,6,65.0,female,6,lower extremity
+ISIC_0015357_downsampled.jpg,NV,6,15.0,male,1,upper extremity
+ISIC_0073133.jpg,NV,6,45.0,male,7,anterior torso
+ISIC_0030060.jpg,MEL,8,80.0,female,7,posterior torso
+ISIC_0071743.jpg,BCC,1,40.0,female,5,head/neck
+ISIC_0010481.jpg,NV,6,35.0,female,7,anterior torso
+ISIC_0067484.jpg,NV,6,45.0,male,6,lower extremity
+ISIC_0031535.jpg,NV,6,50.0,male,7,posterior torso
+ISIC_0071996.jpg,MEL,8,55.0,male,5,head/neck
+ISIC_0025616.jpg,MEL,8,70.0,female,1,upper extremity
+ISIC_0033894.jpg,NV,6,40.0,male,7,posterior torso
+ISIC_0012417_downsampled.jpg,SK,2,60.0,male,7,torso
+ISIC_0055201.jpg,BCC,1,80.0,female,6,lower extremity
+ISIC_0027128.jpg,NV,6,45.0,male,7,torso
+ISIC_0060943.jpg,NV,6,45.0,female,5,head/neck
+ISIC_0034301.jpg,NV,6,30.0,female,6,lower extremity
+ISIC_0056564.jpg,SK,2,55.0,male,6,lower extremity
+ISIC_0058867.jpg,BCC,1,85.0,male,5,head/neck
+ISIC_0069109.jpg,BCC,1,50.0,female,1,upper extremity
+ISIC_0012159_downsampled.jpg,NV,6,35.0,female,7,torso
+ISIC_0055065.jpg,BCC,1,80.0,male,7,anterior torso
+ISIC_0026817.jpg,NV,6,45.0,male,6,lower extremity
+ISIC_0060155.jpg,MEL,8,50.0,male,5,head/neck
+ISIC_0031321.jpg,SK,2,70.0,male,7,posterior torso
+ISIC_0070633.jpg,NV,6,45.0,female,7,anterior torso
+ISIC_0034250.jpg,NV,6,40.0,female,7,torso
+ISIC_0055735.jpg,BCC,1,75.0,male,5,head/neck
+ISIC_0029695.jpg,NV,6,55.0,female,7,anterior torso
+ISIC_0061601.jpg,NV,6,40.0,female,7,anterior torso
+ISIC_0070051.jpg,MEL,8,65.0,female,5,head/neck
+ISIC_0029564.jpg,BCC,1,55.0,female,5,head/neck
+ISIC_0064802.jpg,NV,6,60.0,female,6,lower extremity
+ISIC_0054444.jpg,MEL,8,65.0,female,2,palms/soles
+ISIC_0027096.jpg,NV,6,50.0,male,7,anterior torso
+ISIC_0070642.jpg,BCC,1,50.0,female,1,upper extremity
+ISIC_0070751.jpg,BCC,1,75.0,male,5,head/neck
+ISIC_0068225.jpg,NV,6,30.0,female,7,anterior torso
+ISIC_0062983.jpg,MEL,8,70.0,male,2,palms/soles
+ISIC_0059627.jpg,BCC,1,70.0,female,1,upper extremity
+ISIC_0058212.jpg,SK,2,85.0,male,5,head/neck
+ISIC_0062033.jpg,BCC,1,80.0,male,5,head/neck
+ISIC_0032330.jpg,SK,2,65.0,female,7,torso
+ISIC_0027761.jpg,NV,6,50.0,male,7,torso
+ISIC_0026835.jpg,SK,2,70.0,male,7,anterior torso
+ISIC_0072173.jpg,MEL,8,75.0,male,7,anterior torso
+ISIC_0024493.jpg,NV,6,40.0,male,6,lower extremity
+ISIC_0026869.jpg,NV,6,50.0,female,1,upper extremity
+ISIC_0071519.jpg,NV,6,50.0,male,1,upper extremity
+ISIC_0069532.jpg,AK,0,75.0,female,5,head/neck
+ISIC_0027920.jpg,BCC,1,75.0,male,5,head/neck
+ISIC_0053469.jpg,MEL,8,80.0,female,5,head/neck
+ISIC_0060390.jpg,MEL,8,80.0,male,5,head/neck
+ISIC_0068881.jpg,MEL,8,85.0,female,6,lower extremity
+ISIC_0034139.jpg,NV,6,70.0,female,6,lower extremity
+ISIC_0013601_downsampled.jpg,NV,6,80.0,male,7,posterior torso
+ISIC_0028204.jpg,NV,6,40.0,male,7,anterior torso
+ISIC_0054284.jpg,MEL,8,40.0,female,1,upper extremity
+ISIC_0071012.jpg,MEL,8,85.0,female,5,head/neck
+ISIC_0055283.jpg,NV,6,25.0,female,6,lower extremity
+ISIC_0011090.jpg,NV,6,35.0,male,7,posterior torso
+ISIC_0010060.jpg,NV,6,30.0,female,1,upper extremity
+ISIC_0032407.jpg,NV,6,40.0,female,7,posterior torso
+ISIC_0031212.jpg,SK,2,50.0,male,6,lower extremity
+ISIC_0069595.jpg,MEL,8,65.0,female,6,lower extremity
+ISIC_0058006.jpg,BCC,1,85.0,male,7,anterior torso
+ISIC_0070619.jpg,SK,2,70.0,male,5,head/neck
+ISIC_0028018.jpg,NV,6,40.0,male,7,posterior torso
+ISIC_0024891.jpg,NV,6,55.0,female,5,head/neck
+ISIC_0000520_downsampled.jpg,MEL,8,50.0,unknown,1,upper extremity
+ISIC_0025216.jpg,NV,6,40.0,male,1,upper extremity
+ISIC_0060599.jpg,BCC,1,75.0,female,1,upper extremity
+ISIC_0012961_downsampled.jpg,NV,6,55.0,male,1,upper extremity
+ISIC_0000311.jpg,MEL,8,60.0,female,6,lower extremity
+ISIC_0058508.jpg,MEL,8,70.0,female,5,head/neck
+ISIC_0028307.jpg,NV,6,75.0,female,6,lower extremity
+ISIC_0059689.jpg,BCC,1,60.0,female,5,head/neck
+ISIC_0071682.jpg,BCC,1,80.0,male,7,anterior torso
+ISIC_0025110.jpg,NV,6,40.0,female,7,torso
+ISIC_0026130.jpg,NV,6,40.0,female,7,torso
+ISIC_0059609.jpg,NV,6,60.0,male,7,anterior torso
+ISIC_0070717.jpg,BCC,1,55.0,male,6,lower extremity
+ISIC_0058753.jpg,MEL,8,40.0,male,2,palms/soles
+ISIC_0026387.jpg,NV,6,65.0,female,6,lower extremity
+ISIC_0070958.jpg,BCC,1,40.0,female,5,head/neck
+ISIC_0057986.jpg,AK,0,60.0,male,7,anterior torso
+ISIC_0056282.jpg,BCC,1,65.0,female,7,anterior torso
+ISIC_0055449.jpg,SCC,3,85.0,male,6,lower extremity
+ISIC_0065222.jpg,NV,6,75.0,female,5,head/neck
+ISIC_0062389.jpg,MEL,8,45.0,female,7,anterior torso
+ISIC_0059080.jpg,BCC,1,55.0,male,7,anterior torso
+ISIC_0015967_downsampled.jpg,NV,6,60.0,male,7,torso
+ISIC_0026902.jpg,BCC,1,80.0,male,7,anterior torso
+ISIC_0033961.jpg,NV,6,35.0,female,7,posterior torso
+ISIC_0069363.jpg,NV,6,50.0,female,7,anterior torso
+ISIC_0059807.jpg,NV,6,50.0,male,7,anterior torso
+ISIC_0060762.jpg,MEL,8,80.0,female,7,anterior torso
+ISIC_0026799.jpg,NV,6,45.0,male,7,torso
+ISIC_0070011.jpg,BCC,1,60.0,male,5,head/neck
+ISIC_0009925.jpg,NV,6,30.0,female,6,lower extremity
+ISIC_0066326.jpg,NV,6,65.0,male,6,lower extremity
+ISIC_0067998.jpg,BCC,1,80.0,male,7,anterior torso
+ISIC_0071337.jpg,VASC,4,50.0,female,6,lower extremity
+ISIC_0062084.jpg,MEL,8,35.0,male,7,anterior torso
+ISIC_0032901.jpg,NV,6,30.0,male,1,upper extremity
+ISIC_0033426.jpg,MEL,8,55.0,male,7,posterior torso
+ISIC_0070005.jpg,NV,6,45.0,male,7,anterior torso
+ISIC_0025612.jpg,VASC,4,45.0,female,5,head/neck
+ISIC_0034308.jpg,NV,6,30.0,male,1,upper extremity
+ISIC_0062461.jpg,NV,6,45.0,female,7,anterior torso
+ISIC_0009961.jpg,NV,6,65.0,female,6,lower extremity
+ISIC_0055742.jpg,MEL,8,70.0,male,7,anterior torso
+ISIC_0031359.jpg,NV,6,65.0,male,5,head/neck
+ISIC_0064772.jpg,NV,6,60.0,female,2,palms/soles
+ISIC_0010216.jpg,NV,6,40.0,male,6,lower extremity
+ISIC_0066968.jpg,NV,6,45.0,male,7,anterior torso
+ISIC_0069565.jpg,NV,6,40.0,male,7,anterior torso
+ISIC_0026702.jpg,AK,0,80.0,female,5,head/neck
+ISIC_0031681.jpg,NV,6,45.0,female,7,anterior torso
+ISIC_0062587.jpg,SK,2,55.0,male,5,head/neck
+ISIC_0064955.jpg,NV,6,40.0,male,7,anterior torso
+ISIC_0029009.jpg,NV,6,30.0,male,6,lower extremity
+ISIC_0031808.jpg,SK,2,65.0,male,5,head/neck
+ISIC_0026898.jpg,NV,6,75.0,male,6,lower extremity
+ISIC_0031596.jpg,NV,6,55.0,female,7,posterior torso
+ISIC_0060282.jpg,SK,2,45.0,female,5,head/neck
+ISIC_0025928.jpg,SK,2,85.0,female,7,posterior torso
+ISIC_0071287.jpg,BCC,1,55.0,male,7,torso
+ISIC_0058897.jpg,BCC,1,60.0,male,6,lower extremity
+ISIC_0030190.jpg,NV,6,55.0,female,1,upper extremity
+ISIC_0063243.jpg,MEL,8,65.0,female,6,lower extremity
+ISIC_0024411.jpg,BCC,1,75.0,male,5,head/neck
+ISIC_0072444.jpg,NV,6,65.0,female,7,anterior torso
+ISIC_0015412_downsampled.jpg,NV,6,50.0,male,6,lower extremity
+ISIC_0061157.jpg,BCC,1,75.0,female,1,upper extremity
+ISIC_0033742.jpg,NV,6,20.0,male,6,lower extremity
+ISIC_0070313.jpg,MEL,8,85.0,male,1,upper extremity
+ISIC_0067664.jpg,SK,2,85.0,male,5,head/neck
+ISIC_0065893.jpg,BCC,1,70.0,male,1,upper extremity
+ISIC_0032574.jpg,NV,6,45.0,male,5,head/neck
+ISIC_0054428.jpg,NV,6,35.0,female,1,upper extremity
+ISIC_0053660.jpg,MEL,8,30.0,female,5,head/neck
+ISIC_0065077.jpg,BCC,1,55.0,female,5,head/neck
+ISIC_0033541.jpg,NV,6,20.0,female,7,anterior torso
+ISIC_0012663_downsampled.jpg,NV,6,25.0,male,7,posterior torso
+ISIC_0029295.jpg,NV,6,40.0,male,7,anterior torso
+ISIC_0064670.jpg,SK,2,70.0,male,5,head/neck
+ISIC_0033596.jpg,NV,6,35.0,male,7,torso
+ISIC_0070374.jpg,MEL,8,70.0,male,3,oral/genital
+ISIC_0029298.jpg,NV,6,65.0,female,6,lower extremity
+ISIC_0070940.jpg,MEL,8,75.0,male,7,anterior torso
+ISIC_0034008.jpg,NV,6,45.0,female,1,upper extremity
+ISIC_0069402.jpg,MEL,8,30.0,female,7,anterior torso
+ISIC_0033138.jpg,NV,6,35.0,female,7,anterior torso
+ISIC_0024752.jpg,NV,6,0.0,male,6,lower extremity
+ISIC_0054111.jpg,SCC,3,80.0,male,5,head/neck
+ISIC_0068950.jpg,MEL,8,50.0,male,5,head/neck
+ISIC_0068709.jpg,NV,6,35.0,male,1,upper extremity
+ISIC_0070229.jpg,NV,6,55.0,male,6,lower extremity
+ISIC_0014987_downsampled.jpg,MEL,8,40.0,female,1,upper extremity
+ISIC_0034292.jpg,NV,6,50.0,female,6,lower extremity
+ISIC_0026616.jpg,NV,6,35.0,male,7,anterior torso
+ISIC_0072639.jpg,NV,6,30.0,female,7,anterior torso
+ISIC_0025149.jpg,NV,6,30.0,male,7,posterior torso
+ISIC_0029602.jpg,BCC,1,60.0,female,7,posterior torso
+ISIC_0062454.jpg,MEL,8,60.0,female,7,anterior torso
+ISIC_0060606.jpg,SK,2,70.0,male,5,head/neck
+ISIC_0032744.jpg,NV,6,25.0,male,7,torso
+ISIC_0029458.jpg,NV,6,45.0,male,7,torso
+ISIC_0069629.jpg,AK,0,55.0,male,5,head/neck
+ISIC_0058653.jpg,AK,0,55.0,female,5,head/neck
+ISIC_0034108.jpg,NV,6,25.0,female,5,head/neck
+ISIC_0071031.jpg,NV,6,45.0,female,6,lower extremity
+ISIC_0065115.jpg,SK,2,55.0,female,6,lower extremity
+ISIC_0029896.jpg,NV,6,50.0,female,7,torso
+ISIC_0027258.jpg,NV,6,55.0,female,7,posterior torso
+ISIC_0068521.jpg,SK,2,70.0,male,5,head/neck
+ISIC_0067098.jpg,BCC,1,65.0,female,1,upper extremity
+ISIC_0057591.jpg,MEL,8,65.0,female,6,lower extremity
+ISIC_0031121.jpg,NV,6,55.0,male,7,anterior torso
+ISIC_0064239.jpg,NV,6,40.0,female,7,anterior torso
+ISIC_0025871.jpg,NV,6,50.0,male,7,posterior torso
+ISIC_0034036.jpg,MEL,8,35.0,male,7,anterior torso
+ISIC_0057150.jpg,NV,6,40.0,female,7,anterior torso
+ISIC_0031155.jpg,NV,6,45.0,female,7,anterior torso
+ISIC_0027863.jpg,MEL,8,55.0,male,7,posterior torso
+ISIC_0031795.jpg,MEL,8,65.0,male,6,lower extremity
+ISIC_0032707.jpg,NV,6,55.0,male,7,posterior torso
+ISIC_0029324.jpg,NV,6,55.0,female,7,torso
+ISIC_0012208_downsampled.jpg,MEL,8,30.0,male,7,torso
+ISIC_0060989.jpg,AK,0,65.0,male,5,head/neck
+ISIC_0033768.jpg,NV,6,70.0,female,1,upper extremity
+ISIC_0025307.jpg,NV,6,40.0,male,7,posterior torso
+ISIC_0072556.jpg,NV,6,65.0,female,7,anterior torso
+ISIC_0028481.jpg,MEL,8,70.0,male,6,lower extremity
+ISIC_0033161.jpg,NV,6,35.0,female,7,posterior torso
+ISIC_0000174.jpg,MEL,8,50.0,female,1,upper extremity
+ISIC_0061545.jpg,NV,6,35.0,female,7,anterior torso
+ISIC_0069490.jpg,DF,5,45.0,male,6,lower extremity
+ISIC_0054021.jpg,MEL,8,50.0,female,1,upper extremity
+ISIC_0061089.jpg,SK,2,70.0,male,5,head/neck
+ISIC_0055302.jpg,SCC,3,70.0,male,5,head/neck
+ISIC_0073043.jpg,NV,6,65.0,male,7,anterior torso
+ISIC_0030971.jpg,NV,6,50.0,female,6,lower extremity
+ISIC_0071285.jpg,NV,6,55.0,male,1,upper extremity
+ISIC_0029364.jpg,NV,6,70.0,male,6,lower extremity
+ISIC_0015313_downsampled.jpg,NV,6,45.0,male,7,lateral torso
+ISIC_0057141.jpg,MEL,8,65.0,male,7,anterior torso
+ISIC_0010204.jpg,NV,6,45.0,female,7,posterior torso
+ISIC_0033334.jpg,NV,6,30.0,male,1,upper extremity
+ISIC_0029865.jpg,NV,6,35.0,female,7,anterior torso
+ISIC_0032560.jpg,NV,6,40.0,male,7,anterior torso
+ISIC_0057247.jpg,NV,6,35.0,female,1,upper extremity
+ISIC_0056393.jpg,NV,6,40.0,female,6,lower extremity
+ISIC_0033821.jpg,NV,6,55.0,female,7,torso
+ISIC_0071756.jpg,SCC,3,75.0,male,1,upper extremity
+ISIC_0055925.jpg,SCC,3,70.0,male,7,anterior torso
+ISIC_0069472.jpg,SK,2,70.0,male,6,lower extremity
+ISIC_0066106.jpg,MEL,8,65.0,male,1,upper extremity
+ISIC_0056853.jpg,NV,6,65.0,female,5,head/neck
+ISIC_0000244.jpg,NV,6,40.0,male,7,anterior torso
+ISIC_0068870.jpg,VASC,4,35.0,male,6,lower extremity
+ISIC_0032671.jpg,NV,6,70.0,female,7,posterior torso
+ISIC_0025729.jpg,NV,6,30.0,male,6,lower extremity
+ISIC_0064187.jpg,NV,6,80.0,male,5,head/neck
+ISIC_0009987.jpg,NV,6,25.0,female,7,posterior torso
+ISIC_0030146.jpg,NV,6,65.0,female,7,torso
+ISIC_0072293.jpg,BCC,1,50.0,male,7,anterior torso
+ISIC_0029223.jpg,NV,6,50.0,male,5,head/neck
+ISIC_0071672.jpg,BCC,1,80.0,male,1,upper extremity
+ISIC_0060760.jpg,MEL,8,35.0,female,6,lower extremity
+ISIC_0026986.jpg,NV,6,40.0,female,6,lower extremity
+ISIC_0065581.jpg,BCC,1,40.0,male,1,upper extremity
+ISIC_0058873.jpg,SK,2,55.0,female,5,head/neck
+ISIC_0057457.jpg,MEL,8,60.0,female,5,head/neck
+ISIC_0026200.jpg,NV,6,50.0,female,6,lower extremity
+ISIC_0069432.jpg,MEL,8,50.0,male,7,anterior torso
+ISIC_0056878.jpg,NV,6,50.0,female,7,anterior torso
+ISIC_0031159.jpg,SK,2,60.0,female,5,head/neck
+ISIC_0029439.jpg,VASC,4,50.0,male,7,anterior torso
+ISIC_0030799.jpg,NV,6,50.0,female,7,torso
+ISIC_0032637.jpg,MEL,8,35.0,female,7,anterior torso
+ISIC_0059585.jpg,BCC,1,10.0,female,5,head/neck
+ISIC_0066346.jpg,NV,6,65.0,female,1,upper extremity
+ISIC_0014263_downsampled.jpg,NV,6,55.0,male,1,upper extremity
+ISIC_0000212.jpg,NV,6,25.0,female,7,posterior torso
+ISIC_0028224.jpg,SCC,3,40.0,female,7,anterior torso
+ISIC_0029591.jpg,MEL,8,65.0,female,1,upper extremity
+ISIC_0034086.jpg,NV,6,50.0,male,7,posterior torso
+ISIC_0071518.jpg,NV,6,50.0,male,5,head/neck
+ISIC_0061503.jpg,SK,2,75.0,male,5,head/neck
+ISIC_0028377.jpg,NV,6,5.0,male,7,posterior torso
+ISIC_0056317.jpg,BCC,1,75.0,male,1,upper extremity
+ISIC_0053509.jpg,MEL,8,60.0,male,2,palms/soles
+ISIC_0056766.jpg,BCC,1,70.0,male,5,head/neck
+ISIC_0071871.jpg,SK,2,80.0,male,6,lower extremity
+ISIC_0028450.jpg,NV,6,55.0,male,7,posterior torso
+ISIC_0030275.jpg,VASC,4,10.0,male,7,torso
+ISIC_0070862.jpg,NV,6,55.0,male,6,lower extremity
+ISIC_0059001.jpg,NV,6,20.0,female,7,anterior torso
+ISIC_0066405.jpg,NV,6,30.0,female,7,anterior torso
+ISIC_0062473.jpg,BCC,1,75.0,male,7,anterior torso
+ISIC_0026394.jpg,NV,6,60.0,male,7,anterior torso
+ISIC_0012813_downsampled.jpg,SK,2,55.0,male,7,posterior torso
+ISIC_0063187.jpg,AK,0,60.0,male,7,anterior torso
+ISIC_0024931.jpg,BCC,1,85.0,male,1,upper extremity
+ISIC_0068158.jpg,NV,6,40.0,female,7,anterior torso
+ISIC_0030252.jpg,NV,6,25.0,female,7,anterior torso
+ISIC_0063197.jpg,NV,6,35.0,male,7,anterior torso
+ISIC_0061541.jpg,BCC,1,75.0,male,1,upper extremity
+ISIC_0026398.jpg,NV,6,40.0,male,7,posterior torso
+ISIC_0024995.jpg,NV,6,65.0,male,7,posterior torso
+ISIC_0034190.jpg,NV,6,20.0,female,5,head/neck
+ISIC_0068293.jpg,NV,6,35.0,male,7,anterior torso
+ISIC_0068035.jpg,NV,6,75.0,female,7,anterior torso
+ISIC_0013458_downsampled.jpg,SK,2,45.0,female,7,anterior torso
+ISIC_0029248.jpg,DF,5,55.0,male,6,lower extremity
+ISIC_0059623.jpg,SK,2,40.0,female,1,upper extremity
+ISIC_0059460.jpg,SK,2,45.0,female,7,anterior torso
+ISIC_0030754.jpg,MEL,8,50.0,female,6,lower extremity
+ISIC_0071821.jpg,NV,6,30.0,female,7,anterior torso
+ISIC_0024756.jpg,MEL,8,60.0,male,6,lower extremity
+ISIC_0062915.jpg,BCC,1,40.0,female,7,anterior torso
+ISIC_0025370.jpg,NV,6,15.0,female,6,lower extremity
+ISIC_0056940.jpg,MEL,8,50.0,female,7,anterior torso
+ISIC_0026811.jpg,MEL,8,55.0,male,5,head/neck
+ISIC_0028359.jpg,NV,6,45.0,female,1,upper extremity
+ISIC_0054799.jpg,BCC,1,80.0,female,6,lower extremity
+ISIC_0055264.jpg,MEL,8,85.0,male,7,anterior torso
+ISIC_0024847.jpg,NV,6,45.0,female,1,upper extremity
+ISIC_0055261.jpg,SK,2,50.0,male,7,anterior torso
+ISIC_0026486.jpg,NV,6,50.0,male,7,torso
+ISIC_0034232.jpg,NV,6,20.0,male,6,lower extremity
+ISIC_0065490.jpg,BCC,1,45.0,female,7,anterior torso
+ISIC_0014913_downsampled.jpg,NV,6,45.0,male,7,anterior torso
+ISIC_0027608.jpg,SK,2,65.0,female,5,head/neck
+ISIC_0064970.jpg,BCC,1,85.0,male,6,lower extremity
+ISIC_0060487.jpg,MEL,8,70.0,female,6,lower extremity
+ISIC_0057539.jpg,MEL,8,45.0,female,5,head/neck
+ISIC_0061772.jpg,NV,6,35.0,male,1,upper extremity
+ISIC_0030249.jpg,BCC,1,80.0,female,6,lower extremity
+ISIC_0010044.jpg,NV,6,15.0,female,5,head/neck
+ISIC_0030998.jpg,SK,2,55.0,female,7,anterior torso
+ISIC_0032830.jpg,NV,6,40.0,male,6,lower extremity
+ISIC_0071511.jpg,SK,2,35.0,female,5,head/neck
+ISIC_0071466.jpg,BCC,1,85.0,male,5,head/neck
+ISIC_0025264.jpg,SCC,3,75.0,male,7,posterior torso
+ISIC_0013971_downsampled.jpg,NV,6,45.0,female,1,upper extremity
+ISIC_0000387_downsampled.jpg,NV,6,50.0,unknown,7,torso
+ISIC_0031529.jpg,MEL,8,40.0,female,7,anterior torso
+ISIC_0000287.jpg,MEL,8,55.0,male,2,palms/soles
+ISIC_0064525.jpg,NV,6,30.0,female,7,anterior torso
+ISIC_0055504.jpg,NV,6,50.0,male,7,anterior torso
+ISIC_0009904.jpg,NV,6,15.0,male,7,posterior torso
+ISIC_0033917.jpg,NV,6,45.0,female,1,upper extremity
+ISIC_0026018.jpg,SK,2,65.0,male,7,posterior torso
+ISIC_0014609_downsampled.jpg,SK,2,85.0,male,7,torso
+ISIC_0032626.jpg,MEL,8,35.0,female,1,upper extremity
+ISIC_0056993.jpg,NV,6,40.0,female,6,lower extremity
+ISIC_0056251.jpg,BCC,1,65.0,female,7,anterior torso
+ISIC_0069817.jpg,NV,6,45.0,male,7,anterior torso
+ISIC_0033655.jpg,MEL,8,70.0,male,7,anterior torso
+ISIC_0066895.jpg,AK,0,70.0,male,1,upper extremity
+ISIC_0030662.jpg,NV,6,40.0,male,6,lower extremity
+ISIC_0025833.jpg,NV,6,35.0,female,7,torso
+ISIC_0000028_downsampled.jpg,NV,6,60.0,male,7,anterior torso
+ISIC_0062704.jpg,NV,6,30.0,female,6,lower extremity
+ISIC_0068874.jpg,MEL,8,45.0,female,6,lower extremity
+ISIC_0058410.jpg,BCC,1,45.0,female,7,anterior torso
+ISIC_0068729.jpg,SCC,3,80.0,male,6,lower extremity
+ISIC_0014511_downsampled.jpg,NV,6,40.0,female,7,lateral torso
+ISIC_0056571.jpg,BCC,1,55.0,female,6,lower extremity
+ISIC_0029995.jpg,MEL,8,65.0,male,7,posterior torso
+ISIC_0058472.jpg,BCC,1,85.0,male,7,anterior torso
+ISIC_0067061.jpg,AK,0,70.0,female,1,upper extremity
+ISIC_0055832.jpg,MEL,8,50.0,female,7,anterior torso
+ISIC_0063135.jpg,MEL,8,45.0,male,7,anterior torso
+ISIC_0029931.jpg,SK,2,60.0,male,6,lower extremity
+ISIC_0068885.jpg,AK,0,60.0,female,5,head/neck
+ISIC_0013187_downsampled.jpg,NV,6,70.0,female,1,upper extremity
+ISIC_0063970.jpg,BCC,1,70.0,male,6,lower extremity
+ISIC_0033336.jpg,MEL,8,70.0,male,1,upper extremity
+ISIC_0061549.jpg,MEL,8,85.0,female,7,anterior torso
+ISIC_0058733.jpg,NV,6,35.0,female,7,anterior torso
+ISIC_0009884.jpg,NV,6,60.0,female,1,upper extremity
+ISIC_0070884.jpg,NV,6,35.0,female,7,anterior torso
+ISIC_0064443.jpg,BCC,1,85.0,male,7,anterior torso
+ISIC_0031625.jpg,NV,6,45.0,male,7,torso
+ISIC_0026102.jpg,NV,6,25.0,female,1,upper extremity
+ISIC_0027816.jpg,NV,6,45.0,female,6,lower extremity
+ISIC_0068651.jpg,NV,6,50.0,female,6,lower extremity
+ISIC_0024662.jpg,VASC,4,75.0,male,7,torso
+ISIC_0068691.jpg,SK,2,80.0,female,5,head/neck
+ISIC_0029299.jpg,NV,6,55.0,female,7,posterior torso
+ISIC_0054735.jpg,BCC,1,30.0,male,5,head/neck
+ISIC_0064853.jpg,NV,6,40.0,female,7,anterior torso
+ISIC_0059220.jpg,NV,6,65.0,male,1,upper extremity
+ISIC_0012792_downsampled.jpg,SK,2,45.0,male,7,posterior torso
+ISIC_0033303.jpg,NV,6,35.0,female,2,palms/soles
+ISIC_0053710.jpg,NV,6,10.0,female,6,lower extremity
+ISIC_0033904.jpg,NV,6,35.0,female,7,posterior torso
+ISIC_0070721.jpg,BCC,1,60.0,male,7,anterior torso
+ISIC_0063613.jpg,NV,6,25.0,male,7,anterior torso
+ISIC_0030239.jpg,NV,6,45.0,female,7,torso
+ISIC_0025093.jpg,NV,6,40.0,female,6,lower extremity
+ISIC_0029317.jpg,NV,6,45.0,female,1,upper extremity
+ISIC_0029975.jpg,NV,6,75.0,male,6,lower extremity
+ISIC_0011230.jpg,NV,6,40.0,female,6,lower extremity
+ISIC_0069653.jpg,DF,5,35.0,female,7,anterior torso
+ISIC_0027011.jpg,NV,6,65.0,male,7,posterior torso
+ISIC_0028689.jpg,NV,6,30.0,male,6,lower extremity
+ISIC_0057638.jpg,AK,0,50.0,male,5,head/neck
+ISIC_0034101.jpg,MEL,8,80.0,male,1,upper extremity
+ISIC_0055724.jpg,AK,0,80.0,male,1,upper extremity
+ISIC_0057061.jpg,MEL,8,75.0,male,5,head/neck
+ISIC_0071990.jpg,NV,6,50.0,female,7,anterior torso
+ISIC_0029849.jpg,SK,2,55.0,male,5,head/neck
+ISIC_0058832.jpg,BCC,1,65.0,male,6,lower extremity
+ISIC_0066389.jpg,SK,2,50.0,female,5,head/neck
+ISIC_0054670.jpg,MEL,8,50.0,female,6,lower extremity
+ISIC_0070931.jpg,MEL,8,55.0,female,6,lower extremity
+ISIC_0072137.jpg,DF,5,70.0,female,7,anterior torso
+ISIC_0000364.jpg,NV,6,30.0,male,7,posterior torso
+ISIC_0014684_downsampled.jpg,NV,6,20.0,female,7,posterior torso
+ISIC_0028529.jpg,NV,6,55.0,male,7,posterior torso
+ISIC_0062919.jpg,MEL,8,80.0,female,7,anterior torso
+ISIC_0062323.jpg,MEL,8,70.0,female,5,head/neck
+ISIC_0029907.jpg,NV,6,30.0,female,7,posterior torso
+ISIC_0060704.jpg,SK,2,80.0,male,6,lower extremity
+ISIC_0028126.jpg,MEL,8,30.0,female,7,torso
+ISIC_0025687.jpg,NV,6,20.0,female,7,anterior torso
+ISIC_0029932.jpg,SCC,3,70.0,female,1,upper extremity
+ISIC_0055188.jpg,NV,6,30.0,male,7,anterior torso
+ISIC_0028055.jpg,NV,6,50.0,female,7,torso
+ISIC_0068386.jpg,NV,6,30.0,male,7,anterior torso
+ISIC_0069557.jpg,BCC,1,45.0,male,5,head/neck
+ISIC_0066754.jpg,NV,6,85.0,male,7,anterior torso
+ISIC_0031752.jpg,NV,6,50.0,male,7,anterior torso
+ISIC_0000187.jpg,NV,6,20.0,female,7,anterior torso
+ISIC_0063397.jpg,MEL,8,50.0,male,7,anterior torso
+ISIC_0027880.jpg,NV,6,65.0,male,1,upper extremity
+ISIC_0034277.jpg,NV,6,40.0,male,7,torso
+ISIC_0057857.jpg,NV,6,55.0,female,1,upper extremity
+ISIC_0055996.jpg,NV,6,20.0,male,5,head/neck
+ISIC_0031142.jpg,NV,6,25.0,male,5,head/neck
+ISIC_0059587.jpg,NV,6,70.0,male,6,lower extremity
+ISIC_0059091.jpg,SCC,3,75.0,male,1,upper extremity
+ISIC_0028929.jpg,MEL,8,65.0,female,7,posterior torso
+ISIC_0071654.jpg,NV,6,40.0,male,7,anterior torso
+ISIC_0066872.jpg,SK,2,65.0,male,7,anterior torso
+ISIC_0030427.jpg,DF,5,45.0,female,1,upper extremity
+ISIC_0024944.jpg,NV,6,40.0,male,6,lower extremity
