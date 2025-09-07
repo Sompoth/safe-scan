@@ -1,0 +1,14 @@
+# Minimal requirements for melanoma model training
+# Install these in a separate environment if needed
+
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.21.0
+pandas>=1.3.0
+matplotlib>=3.5.0
+Pillow>=8.3.0
+opencv-python>=4.5.0
+onnx>=1.12.0
+onnxruntime>=1.12.0
+tqdm>=4.62.0
+scikit-learn>=1.0.0

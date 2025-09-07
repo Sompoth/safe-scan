@@ -1,0 +1,56 @@
+{
+  "competition": "Tricorder - Skin Lesion Classification",
+  "model_info": {
+    "model_path": "models/skin.onnx",
+    "model_size_mb": 42.44516181945801,
+    "input_names": [
+      "image",
+      "tabular"
+    ],
+    "output_names": [
+      "output"
+    ],
+    "input_shapes": [
+      [
+        "batch",
+        3,
+        512,
+        512
+      ],
+      [
+        "batch",
+        3
+      ]
+    ],
+    "output_shapes": [
+      [
+        "batch",
+        10
+      ]
+    ]
+  },
+  "performance": {
+    "mean_time_ms": 186.38864517211914,
+    "std_time_ms": 66.2917858934908,
+    "min_time_ms": 132.66539573669434,
+    "max_time_ms": 509.03868675231934,
+    "median_time_ms": 162.07993030548096
+  },
+  "requirements": {
+    "input_format": "512x512 RGB image + demographics [age, gender, location]",
+    "output_format": "10 class probabilities (sum to 1.0)",
+    "classes": [
+      "Actinic keratosis (AK)",
+      "Basal cell carcinoma (BCC)",
+      "Seborrheic keratosis (SK)",
+      "Squamous cell carcinoma (SCC)",
+      "Vascular lesion (VASC)",
+      "Dermatofibroma (DF)",
+      "Benign nevus (NV)",
+      "Other non-neoplastic (NON)",
+      "Melanoma (MEL)",
+      "Other neoplastic (ON)"
+    ]
+  },
+  "submission_ready": true
+}
