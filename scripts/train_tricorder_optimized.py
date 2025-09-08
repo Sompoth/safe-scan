@@ -12,7 +12,7 @@ import numpy as np
 import torch
 import torch.nn as nn
 import torch.optim as optim
-from torch.utils.data import Dataset, DataLoader
+from torch.utils.data import Dataset, DataLoader, WeightedRandomSampler
 import torchvision.transforms as transforms
 import torchvision.models as models
 from PIL import Image
@@ -20,6 +20,7 @@ import logging
 from pathlib import Path
 import json
 from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
+from sklearn.utils.class_weight import compute_class_weight
 import time
 from typing import Dict, List, Tuple, Optional
 import warnings
@@ -28,6 +29,33 @@ warnings.filterwarnings('ignore')
 # Set up logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
+
+class FocalLoss(nn.Module):
+    """Focal Loss for addressing class imbalance"""
+    
+    def __init__(self, alpha=None, gamma=2.0, reduction='mean'):
+        super(FocalLoss, self).__init__()
+        self.alpha = alpha
+        self.gamma = gamma
+        self.reduction = reduction
+        
+    def forward(self, inputs, targets):
+        ce_loss = nn.CrossEntropyLoss(reduction='none')(inputs, targets)
+        pt = torch.exp(-ce_loss)
+        focal_loss = (1 - pt) ** self.gamma * ce_loss
+        
+        if self.alpha is not None:
+            if self.alpha.type() != inputs.data.type():
+                self.alpha = self.alpha.type_as(inputs.data)
+            at = self.alpha.gather(0, targets.data.view(-1))
+            focal_loss = at * focal_loss
+            
+        if self.reduction == 'mean':
+            return focal_loss.mean()
+        elif self.reduction == 'sum':
+            return focal_loss.sum()
+        else:
+            return focal_loss
 
 class TricorderOptimizedDataset(Dataset):
     """Optimized dataset for Tricorder training with demographic data"""
@@ -105,6 +133,35 @@ class TricorderOptimizedDataset(Dataset):
         
         return image, demographic, label, class_name
 
+def compute_class_weights(data: pd.DataFrame, class_column: str = 'class'):
+    """Compute class weights for balanced training"""
+    classes = data[class_column].unique()
+    class_counts = data[class_column].value_counts()
+    
+    # Compute balanced weights
+    weights = compute_class_weight('balanced', classes=classes, y=data[class_column])
+    class_weights = dict(zip(classes, weights))
+    
+    logger.info("Class weights computed:")
+    for class_name, weight in class_weights.items():
+        logger.info(f"  {class_name}: {weight:.3f}")
+    
+    return class_weights
+
+def create_weighted_sampler(data: pd.DataFrame, class_column: str = 'class'):
+    """Create weighted random sampler for balanced sampling"""
+    class_counts = data[class_column].value_counts()
+    class_weights = {cls: 1.0 / count for cls, count in class_counts.items()}
+    
+    # Assign weights to each sample
+    sample_weights = [class_weights[cls] for cls in data[class_column]]
+    
+    return WeightedRandomSampler(
+        weights=sample_weights,
+        num_samples=len(data),
+        replacement=True
+    )
+
 class TricorderOptimizedModel(nn.Module):
     """Optimized Tricorder model with EfficientNet backbone and demographic fusion"""
     
@@ -171,14 +228,16 @@ class TricorderOptimizedModel(nn.Module):
 class TricorderOptimizedTrainer:
     """Optimized trainer for Tricorder model"""
     
-    def __init__(self, model, train_loader, val_loader, device, class_weights=None):
+    def __init__(self, model, train_loader, val_loader, device, class_weights=None, criterion=None):
         self.model = model.to(device)
         self.train_loader = train_loader
         self.val_loader = val_loader
         self.device = device
         
         # Optimized loss function with class weights
-        if class_weights is not None:
+        if criterion is not None:
+            self.criterion = criterion
+        elif class_weights is not None:
             class_weights_tensor = torch.tensor(class_weights, dtype=torch.float32).to(device)
             self.criterion = nn.CrossEntropyLoss(weight=class_weights_tensor)
         else:
@@ -400,6 +459,18 @@ def main():
     parser.add_argument('--output_name', type=str, default='tricorder_optimized',
                         help='Output model name')
     
+    # Class balancing options
+    parser.add_argument('--use_class_weights', action='store_true', 
+                        help='Use class weights for balanced training')
+    parser.add_argument('--use_weighted_sampling', action='store_true',
+                        help='Use weighted random sampling')
+    parser.add_argument('--use_focal_loss', action='store_true',
+                        help='Use focal loss instead of cross entropy')
+    parser.add_argument('--focal_alpha', type=float, default=1.0,
+                        help='Alpha parameter for focal loss')
+    parser.add_argument('--focal_gamma', type=float, default=2.0,
+                        help='Gamma parameter for focal loss')
+    
     args = parser.parse_args()
     
     # Set device
@@ -419,9 +490,31 @@ def main():
         is_training=False
     )
     
+    # Compute class weights if requested
+    class_weights = None
+    if args.use_class_weights:
+        train_data = pd.read_csv(args.train_csv)
+        class_weights_dict = compute_class_weights(train_data)
+        # Convert to tensor in correct order
+        class_order = ['AK', 'BCC', 'SK', 'SCC', 'VASC', 'DF', 'NV', 'NON', 'MEL', 'ON']
+        class_weights = [class_weights_dict[cls] for cls in class_order]
+        logger.info(f"Using computed class weights: {class_weights}")
+    
+    # Create weighted sampler if requested
+    train_sampler = None
+    if args.use_weighted_sampling:
+        train_data = pd.read_csv(args.train_csv)
+        train_sampler = create_weighted_sampler(train_data)
+        logger.info("Using weighted random sampling")
+    
     # Create data loaders
     train_loader = DataLoader(
-        train_dataset, batch_size=args.batch_size, shuffle=True, num_workers=4, pin_memory=True
+        train_dataset, 
+        batch_size=args.batch_size, 
+        shuffle=not args.use_weighted_sampling,  # Don't shuffle if using sampler
+        sampler=train_sampler,
+        num_workers=4, 
+        pin_memory=True
     )
     
     val_loader = DataLoader(
@@ -431,11 +524,20 @@ def main():
     # Create model
     model = TricorderOptimizedModel(num_classes=10)
     
-    # Class weights for Tricorder competition
-    class_weights = [1.0, 3.0, 2.0, 3.0, 2.0, 1.0, 1.0, 1.0, 3.0, 1.0]  # AK, BCC, SK, SCC, VASC, DF, NV, NON, MEL, ON
-    
-    # Create trainer
-    trainer = TricorderOptimizedTrainer(model, train_loader, val_loader, device, class_weights)
+    # Create trainer with appropriate loss function
+    if args.use_focal_loss:
+        # Create focal loss with alpha weights
+        if class_weights is not None:
+            alpha_tensor = torch.tensor(class_weights, dtype=torch.float32).to(device)
+        else:
+            alpha_tensor = None
+        
+        focal_loss = FocalLoss(alpha=alpha_tensor, gamma=args.focal_gamma)
+        trainer = TricorderOptimizedTrainer(model, train_loader, val_loader, device, 
+                                          class_weights=None, criterion=focal_loss)
+        logger.info(f"Using Focal Loss (alpha={args.focal_alpha}, gamma={args.focal_gamma})")
+    else:
+        trainer = TricorderOptimizedTrainer(model, train_loader, val_loader, device, class_weights)
     
     # Train model
     history = trainer.train(args.epochs)

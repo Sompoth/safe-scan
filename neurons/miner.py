@@ -122,11 +122,17 @@ class MinerManagerCLI:
             )
             await dataset_manager.prepare_dataset()
 
-            X_test, y_test = await dataset_manager.get_data()
+            X_test, y_test, metadata = await dataset_manager.get_data()
 
-            competition_handler = COMPETITION_HANDLER_MAPPING[self.config.competition_id](
-                X_test=X_test, y_test=y_test, config=self.config
-            )
+            # Pass metadata to tricorder handler, otherwise use default parameters
+            if self.config.competition_id in ["tricorder-1", "tricorder-2"]:
+                competition_handler = COMPETITION_HANDLER_MAPPING[self.config.competition_id](
+                    X_test=X_test, y_test=y_test, metadata=metadata, config=self.config
+                )
+            else:
+                competition_handler = COMPETITION_HANDLER_MAPPING[self.config.competition_id](
+                    X_test=X_test, y_test=y_test, config=self.config
+                )
 
             # Set preprocessing directory and preprocess data once
             competition_handler.set_preprocessed_data_dir(self.config.models.dataset_dir)

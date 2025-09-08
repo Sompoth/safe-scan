@@ -198,9 +198,10 @@ class DatasetManager(SerializableManager):
             raise DatasetManagerException(
                 f"Dataset '{self.competition_id}' not initalized "
             )
-        # Handle backward compatibility - if data has 2 elements, add empty metadata
+        # Handle backward compatibility - if data has 2 elements, add default metadata
         if len(self.data) == 2:
             x_data, y_data = self.data
-            metadata = [{'age': None, 'gender': None} for _ in x_data]
+            # Provide valid default metadata for tricorder competitions
+            metadata = [{'age': 50.0, 'gender': 'male', 'location': 'torso'} for _ in x_data]
             return x_data, y_data, metadata
         return self.data
