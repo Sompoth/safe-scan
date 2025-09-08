@@ -26,6 +26,9 @@ from typing import Dict, List, Tuple, Optional
 import warnings
 warnings.filterwarnings('ignore')
 
+# Import advanced augmentation
+from advanced_augmentation import get_advanced_transforms, ClassSpecificAugmentation
+
 # Set up logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
@@ -58,13 +61,16 @@ class FocalLoss(nn.Module):
             return focal_loss
 
 class TricorderOptimizedDataset(Dataset):
-    """Optimized dataset for Tricorder training with demographic data"""
+    """Optimized dataset for Tricorder training with demographic data and advanced augmentation"""
     
-    def __init__(self, csv_file: str, img_dir: str, transform=None, is_training: bool = True):
+    def __init__(self, csv_file: str, img_dir: str, transform=None, is_training: bool = True, 
+                 use_advanced_augmentation: bool = True, augmentation_intensity: float = 1.0):
         self.data = pd.read_csv(csv_file)
         self.img_dir = Path(img_dir)
         self.transform = transform
         self.is_training = is_training
+        self.use_advanced_augmentation = use_advanced_augmentation
+        self.augmentation_intensity = augmentation_intensity
         
         # Tricorder class mapping
         self.class_mapping = {
@@ -103,6 +109,12 @@ class TricorderOptimizedDataset(Dataset):
             logger.warning(f"Error loading image {img_path}: {e}")
             # Return a black image as fallback
             image = Image.new('RGB', (512, 512), (0, 0, 0))
+        
+        # Apply advanced augmentation if enabled and training
+        if self.use_advanced_augmentation and self.is_training:
+            class_name = row['class']
+            class_aug = ClassSpecificAugmentation()
+            image = class_aug.augment_class(image, class_name, self.augmentation_intensity)
         
         # Apply transforms
         if self.transform:
@@ -471,23 +483,50 @@ def main():
     parser.add_argument('--focal_gamma', type=float, default=2.0,
                         help='Gamma parameter for focal loss')
     
+    # Advanced augmentation options
+    parser.add_argument('--use_advanced_augmentation', action='store_true',
+                        help='Use advanced medical image augmentation')
+    parser.add_argument('--augmentation_intensity', type=float, default=1.0,
+                        help='Intensity of augmentation (0.5-3.0)')
+    parser.add_argument('--create_balanced_dataset', action='store_true',
+                        help='Create balanced dataset using augmentation')
+    parser.add_argument('--target_samples_per_class', type=int, default=1000,
+                        help='Target samples per class for balanced dataset')
+    
     args = parser.parse_args()
     
     # Set device
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     logger.info(f"Using device: {device}")
     
-    # Create datasets
+    # Create balanced dataset if requested
+    if args.create_balanced_dataset:
+        from advanced_augmentation import create_balanced_dataset
+        logger.info("Creating balanced dataset with advanced augmentation...")
+        create_balanced_dataset(
+            csv_file=args.train_csv,
+            img_dir=args.img_dir,
+            target_samples_per_class=args.target_samples_per_class,
+            output_dir="datasets/tricorder_balanced"
+        )
+        # Use balanced dataset for training
+        args.train_csv = "datasets/tricorder_balanced/balanced_labels.csv"
+        args.img_dir = "datasets/tricorder_balanced/images"
+    
+    # Create datasets with advanced augmentation
     train_dataset = TricorderOptimizedDataset(
         args.train_csv, args.img_dir, 
         transform=get_optimized_transforms(is_training=True), 
-        is_training=True
+        is_training=True,
+        use_advanced_augmentation=args.use_advanced_augmentation,
+        augmentation_intensity=args.augmentation_intensity
     )
     
     val_dataset = TricorderOptimizedDataset(
         args.val_csv, args.img_dir,
         transform=get_optimized_transforms(is_training=False),
-        is_training=False
+        is_training=False,
+        use_advanced_augmentation=False  # No augmentation for validation
     )
     
     # Compute class weights if requested
